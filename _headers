@@ -1,0 +1,22 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: SAMEORIGIN
+  Permissions-Policy: geolocation=(), camera=(), microphone=()
+
+# Photos rarely change once added, so cache them hard.
+/assets/img/*
+  Cache-Control: public, max-age=604800
+
+# Stylesheet and scripts change while you're editing the site, so keep the
+# cache short — otherwise a design tweak can take a week to reach visitors
+# who have already loaded the old file.
+/assets/css/*
+  Cache-Control: public, max-age=600, must-revalidate
+
+/assets/js/*
+  Cache-Control: public, max-age=600, must-revalidate
+
+# Content files: news and people should appear promptly after an edit.
+/data/*
+  Cache-Control: public, max-age=300

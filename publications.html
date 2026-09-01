@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Publications — Karthein Lab</title>
+<meta name="description" content="Publications from the Karthein Lab, pulled automatically from INSPIRE-HEP, with BibTeX, RIS, CSV and plain-text export.">
+<link rel="canonical" href="https://lab.karthein.com/publications.html">
+
+<link rel="icon" href="assets/img/logo.png" type="image/png">
+<link rel="apple-touch-icon" href="assets/img/logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://inspirehep.net">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..700&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:opsz,wght@8..60,400..700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/site.css">
+</head>
+
+<body data-page="publications">
+<a class="skip-link" href="#main">Skip to content</a>
+
+<header class="masthead">
+  <div class="wrap masthead__inner">
+    <a class="wordmark" href="index.html">
+      <img class="wordmark__logo" src="assets/img/logo.png" alt=""
+           onerror="this.remove()">
+      <span class="wordmark__text">Karthein Lab <span class="wordmark__sub">Texas A&amp;M</span></span>
+    </a>
+    <button class="nav-toggle" aria-expanded="false" aria-controls="site-nav">Menu</button>
+    <nav class="nav" id="site-nav" aria-label="Main">
+      <a href="index.html" data-nav="home">Home</a>
+      <a href="research.html" data-nav="research">Research</a>
+      <a href="people.html" data-nav="people">People</a>
+      <a href="publications.html" data-nav="publications">Publications</a>
+      <a href="contact.html" data-nav="contact">Contact</a>
+      <a class="is-external" href="https://sites.google.com/tamu.edu/kartheinlab-intranet" rel="noopener">Intranet</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main" class="wrap section">
+
+  <div class="section__head">
+    <div class="spectrum spectrum--short" role="presentation"></div>
+    <span class="eyebrow">Updated automatically from INSPIRE-HEP</span>
+    <h1>Publications</h1>
+    <p class="prose">
+      This list is pulled live from
+      <a href="https://inspirehep.net/authors/1819057" rel="noopener">INSPIRE-HEP</a>
+      each time the page loads, so it stays current without anyone editing it. Filter the
+      list below and export exactly what you see, in BibTeX, RIS, CSV or plain text.
+    </p>
+  </div>
+
+  <div class="pub-toolbar">
+    <div class="field">
+      <label for="pub-search">Search</label>
+      <input type="search" id="pub-search" placeholder="Title, author, journal…"
+             autocomplete="off" spellcheck="false">
+    </div>
+
+    <div class="field">
+      <label for="pub-year">Year</label>
+      <select id="pub-year">
+        <option value="">All years</option>
+      </select>
+    </div>
+
+    <div class="field">
+      <label for="pub-type">Type</label>
+      <select id="pub-type">
+        <option value="">All types</option>
+        <option value="article">Journal articles</option>
+        <option value="preprint">Preprints</option>
+        <option value="proceedings">Conference proceedings</option>
+        <option value="chapter">Book chapters</option>
+        <option value="thesis">Theses</option>
+      </select>
+    </div>
+
+    <div class="pub-toolbar__spacer"></div>
+
+    <div class="field">
+      <span class="label visually-hidden">Result count</span>
+      <span class="pub-count" data-pub-count></span>
+    </div>
+
+    <div class="field export">
+      <label for="export-toggle">Export</label>
+      <button class="btn" type="button" id="export-toggle"
+              data-export-toggle aria-haspopup="true" aria-expanded="false">
+        Download list ▾
+      </button>
+      <div class="export__menu" data-export-menu hidden>
+        <button type="button" data-format="bibtex">
+          BibTeX <small>for LaTeX bibliographies</small>
+        </button>
+        <button type="button" data-format="ris">
+          RIS <small>for EndNote, Zotero, Mendeley</small>
+        </button>
+        <button type="button" data-format="csv">
+          CSV <small>for Excel or Google Sheets</small>
+        </button>
+        <button type="button" data-format="text">
+          Plain text <small>numbered list for reports</small>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <p class="status" data-pub-status hidden></p>
+
+  <div data-publications></div>
+
+</main>
+
+<footer class="foot">
+  <div class="wrap foot__inner">
+    <div>© <span id="year">2026</span> Karthein Lab, Texas A&amp;M University.</div>
+    <div class="foot__links">
+      <a href="https://inspirehep.net/authors/1819057" rel="noopener">INSPIRE-HEP profile</a>
+      <a href="mailto:lab@karthein.com">lab@karthein.com</a>
+      <a href="https://cyclotron.tamu.edu/" rel="noopener">Cyclotron Institute</a>
+    </div>
+  </div>
+</footer>
+
+<script>document.getElementById("year").textContent = new Date().getFullYear();</script>
+<script src="assets/js/site.js" defer></script>
+<script src="assets/js/publications.js" defer></script>
+</body>
+</html>

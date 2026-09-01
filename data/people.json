@@ -1,0 +1,167 @@
+{
+  "groups": [
+    {
+      "title": "Principal investigator",
+      "layout": "pi",
+      "members": [
+        {
+          "name": "Prof. Dr. Jonas Karthein",
+          "role": "Assistant Professor",
+          "photo": "assets/img/people/jonas-karthein.webp",
+          "affiliation": "Cyclotron Institute & Dept. of Physics and Astronomy, Texas A&M University",
+          "email": "karthein@tamu.edu",
+          "bio": "<p>Jonas Karthein is an Assistant Professor in the Department of Physics and Astronomy and the Cyclotron Institute at Texas A&amp;M University. He received his B.Sc. (2015), M.Sc. (2017) and Ph.D. (2020) in physics from Heidelberg University, Germany, graduating summa cum laude. His research was carried out at the Max Planck Institute for Nuclear Physics (2012–2016) and at CERN (2016–2020) as a Gentner CERN Doctoral Fellow. He moved to MIT as a Humboldt Postdoctoral Research Fellow in 2021 and joined Texas A&amp;M as a faculty member in 2025.</p><p>He has received the 2022 GSI/FAIR GENCO Young Scientist Award and three dissertation awards, from Heidelberg University, the German Physical Society and the European Physical Society. His work uses precision laser, ion storage and quantum sensing techniques to address open questions about the atomic nucleus.</p><p><a href=\"https://docs.google.com/document/d/1RyrDpyE_UKVQuS4SSUP2Ewjmf4fQ8-ivwwLT3N4M6Sg/edit?usp=sharing\" rel=\"noopener\">Curriculum vitae</a></p>"
+        }
+      ]
+    },
+    {
+      "title": "Postdoctoral researchers",
+      "members": [
+        {
+          "name": "Dr. Charlotte König",
+          "role": "QMIT Postdoctoral Fellow",
+          "photo": "assets/img/people/charlotte-koenig.webp",
+          "email": "charlotte.konig@tamu.edu",
+          "project": "NEPTUNE"
+        },
+        {
+          "name": "Dr. Brooke Rickey",
+          "role": "Postdoctoral Researcher",
+          "photo": "assets/img/people/brooke-rickey.webp",
+          "email": "rickey@tamu.edu",
+          "project": "MRTOF-LS"
+        }
+      ]
+    },
+    {
+      "title": "Graduate students",
+      "members": [
+        {
+          "name": "Nick Schnoor",
+          "photo": "assets/img/people/nick-schnoor.webp",
+          "email": "nschnoor@tamu.edu",
+          "project": "MRTOF-LS"
+        },
+        {
+          "name": "Savannah Limarenko",
+          "photo": "assets/img/people/savannah-limarenko.webp",
+          "email": "limar1sj@tamu.edu",
+          "project": "NEPTUNE"
+        },
+        {
+          "name": "Mason Moenter",
+          "photo": "assets/img/people/mason-moenter.webp",
+          "email": "moenter@tamu.edu",
+          "project": "MRTOF-LS"
+        }
+      ]
+    },
+    {
+      "title": "Undergraduate students",
+      "members": [
+        {
+          "name": "Gabe Daniels",
+          "photo": "assets/img/people/gabe-daniels.webp",
+          "email": "gdaniels25@tamu.edu",
+          "project": "Th α-spectroscopy"
+        },
+        {
+          "name": "Riddhi Chhabra",
+          "photo": "assets/img/people/riddhi-chhabra.webp",
+          "email": "riddhic@tamu.edu",
+          "project": "Wavelength meter"
+        },
+        {
+          "name": "Anna Goodson",
+          "photo": "assets/img/people/anna-goodson.webp",
+          "email": "agoodson2164@tamu.edu",
+          "project": "LVAP"
+        },
+        {
+          "name": "Shreya Kulkarni",
+          "photo": "assets/img/people/shreya-kulkarni.webp",
+          "email": "shreyameya05@tamu.edu",
+          "project": "MRTOF-MS"
+        }
+      ]
+    },
+    {
+      "title": "Collaborators",
+      "members": [
+        {
+          "name": "Prof. Dr. Ronald Garcia Ruiz",
+          "photo": "assets/img/people/ronald-garcia-ruiz.webp",
+          "affiliation": "MIT",
+          "link": "https://physics.mit.edu/faculty/ronald-garcia-ruiz/",
+          "project": "NEPTUNE & MRTOF"
+        },
+        {
+          "name": "Prof. Dr. Klaus Blaum",
+          "photo": "assets/img/people/klaus-blaum.webp",
+          "affiliation": "MPIK Heidelberg",
+          "link": "https://www.mpi-hd.mpg.de/mpi/en/research/scientific-divisions-and-groups/stored-and-cooled-ions/members/klaus-blaum",
+          "project": "NEPTUNE"
+        },
+        {
+          "name": "Prof. Dr. David DeMille",
+          "photo": "assets/img/people/david-demille.webp",
+          "affiliation": "University of Chicago / Argonne",
+          "link": "https://demillegroup.psd.uchicago.edu/staff-directory/",
+          "project": "NEPTUNE"
+        },
+        {
+          "name": "Prof. Dr. Kei Minamisono",
+          "photo": "assets/img/people/kei-minamisono.webp",
+          "affiliation": "FRIB / MSU",
+          "link": "https://frib.msu.edu/for-students/faculty/minamisono-profile",
+          "project": "BECOLA"
+        },
+        {
+          "name": "Prof. Dr. Ryan Ringle",
+          "photo": "assets/img/people/ryan-ringle.webp",
+          "affiliation": "FRIB / MSU",
+          "link": "https://frib.msu.edu/for-students/faculty/ringle-profile",
+          "project": "NEPTUNE & MRTOF"
+        },
+        {
+          "name": "Prof. Dr. Nick Hutzler",
+          "photo": "assets/img/people/nick-hutzler.webp",
+          "affiliation": "Caltech",
+          "link": "https://www.hutzlerlab.com/people/nick-hutzler",
+          "project": "NEPTUNE"
+        },
+        {
+          "name": "Prof. Dr. Jens Dilling",
+          "photo": "assets/img/people/jens-dilling.webp",
+          "affiliation": "Oak Ridge National Laboratory / Duke",
+          "link": "https://www.ornl.gov/staff-profile/jens-dilling",
+          "project": "NEPTUNE"
+        },
+        {
+          "name": "Dr. Frank Wienholtz",
+          "photo": "assets/img/people/frank-wienholtz.webp",
+          "affiliation": "TU Darmstadt",
+          "link": "https://www.ikp.tu-darmstadt.de/das_institut_kernphysik/personen/kontakt_details_70720.en.jsp",
+          "project": "MRTOF"
+        }
+      ]
+    }
+  ],
+  "alumni": [
+    {
+      "year": "2025-2026",
+      "name": "Lakentrie \"Gabe\" Daniels, B.Sc.",
+      "next": "Data science in industry"
+    },
+    {
+      "year": "2025",
+      "name": "Jack Thomas, B.Eng.",
+      "next": "Ph.D. in Industrial Engineering, Texas A&M"
+    },
+    {
+      "year": "2025",
+      "name": "Yeon-Jun Choi, M.Sc.",
+      "next": ""
+    }
+  ]
+}

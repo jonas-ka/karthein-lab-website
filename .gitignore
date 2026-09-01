@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+*.swp
+.venv/
+__pycache__/
+tools/raw/
+tools/urls-*.json
+tools/originals/

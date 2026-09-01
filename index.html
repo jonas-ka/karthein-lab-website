@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Karthein Lab — Precision measurements on radioactive atoms and molecules</title>
+<meta name="description" content="The Karthein Lab at the Texas A&amp;M University Cyclotron Institute uses lasers, ion traps and mass spectrometry on radioactive atoms and molecules to test the Standard Model.">
+
+<meta property="og:title" content="Karthein Lab @ Texas A&amp;M">
+<meta property="og:description" content="Precision laser spectroscopy and ion trapping on radioactive atoms and molecules at the Texas A&amp;M Cyclotron Institute.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://lab.karthein.com/">
+<meta property="og:image" content="https://lab.karthein.com/assets/img/group-photo.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://lab.karthein.com/">
+
+<link rel="icon" href="assets/img/logo.png" type="image/png">
+<link rel="apple-touch-icon" href="assets/img/logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://inspirehep.net">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..700&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:opsz,wght@8..60,400..700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/site.css">
+</head>
+
+<body data-page="home">
+<a class="skip-link" href="#main">Skip to content</a>
+
+<header class="masthead">
+  <div class="wrap masthead__inner">
+    <a class="wordmark" href="index.html">
+      <img class="wordmark__logo" src="assets/img/logo.png" alt=""
+           onerror="this.remove()">
+      <span class="wordmark__text">Karthein Lab <span class="wordmark__sub">Texas A&amp;M</span></span>
+    </a>
+    <button class="nav-toggle" aria-expanded="false" aria-controls="site-nav">Menu</button>
+    <nav class="nav" id="site-nav" aria-label="Main">
+      <a href="index.html" data-nav="home">Home</a>
+      <a href="research.html" data-nav="research">Research</a>
+      <a href="people.html" data-nav="people">People</a>
+      <a href="publications.html" data-nav="publications">Publications</a>
+      <a href="contact.html" data-nav="contact">Contact</a>
+      <a class="is-external" href="https://sites.google.com/tamu.edu/kartheinlab-intranet" rel="noopener">Intranet</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+
+  <!-- ============ hero ============ -->
+  <section class="wrap hero">
+    <figure class="hero__figure" data-fallback="Add assets/img/group-photo.jpg">
+      <img src="assets/img/group-photo.webp"
+           alt="The Karthein Lab group outside the Cyclotron Institute at Texas A&amp;M University"
+           fetchpriority="high" width="1600" height="700"
+           onerror="this.remove(); this.parentNode.classList.add('is-missing')">
+    </figure>
+    <p class="hero__caption">The group at the Cyclotron Institute, College Station, Texas.</p>
+
+    <div class="hero__text">
+      <div class="spectrum spectrum--short" role="presentation"></div>
+      <h1>Quantum Sensing with Nuclei</h1>
+      <p class="lede">
+        We are an experimental nuclear physics group at the Texas A&amp;M University
+        Cyclotron Institute. We apply atomic, molecular and optical techniques —
+        precision lasers, ion traps and mass spectrometry — to stable and radioactive
+        atoms and molecules, and use them to test the Standard Model of particle physics
+        and look for what lies beyond it.
+      </p>
+      <p class="prose">
+        If that sounds interesting, get in touch. We take students at every level, from
+        high school through postdoc, on campus and at the accelerator facilities FRIB
+        and CERN.
+      </p>
+
+      <ul class="quicklinks">
+        <li><a href="research.html">What we work on</a></li>
+        <li><a href="people.html">Who we are</a></li>
+        <li><a href="publications.html">Publications</a></li>
+        <li><a href="contact.html">Join the group</a></li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- ============ news ============ -->
+  <section class="wrap section" aria-labelledby="news-heading">
+    <div class="section__head">
+      <div class="spectrum spectrum--short" role="presentation"></div>
+      <span class="eyebrow">Lab notebook</span>
+      <h2 id="news-heading">News</h2>
+    </div>
+
+    <div data-feed>
+      <p class="status">Loading news…</p>
+    </div>
+
+    <div class="feed__more">
+      <button class="btn" type="button" data-feed-more hidden>Show older news</button>
+    </div>
+  </section>
+
+</main>
+
+<footer class="foot">
+  <div class="wrap foot__inner">
+    <div>© <span id="year">2026</span> Karthein Lab, Texas A&amp;M University. Group photo by Olivia Hearne (TAMU).</div>
+    <div class="foot__links">
+      <a href="mailto:lab@karthein.com">lab@karthein.com</a>
+      <a href="https://cyclotron.tamu.edu/" rel="noopener">Cyclotron Institute</a>
+      <a href="https://artsci.tamu.edu/physics-astronomy/index.html" rel="noopener">Physics &amp; Astronomy</a>
+    </div>
+  </div>
+</footer>
+
+<script>document.getElementById("year").textContent = new Date().getFullYear();</script>
+<script src="assets/js/site.js" defer></script>
+</body>
+</html>

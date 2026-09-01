@@ -1,0 +1,38 @@
+name: Refresh publications
+
+# Keeps data/publications-cache.json in step with INSPIRE-HEP.
+# Every commit here triggers a fresh Cloudflare Pages deploy automatically.
+
+on:
+  schedule:
+    # 05:20 UTC every Monday
+    - cron: "20 5 * * 1"
+  workflow_dispatch:        # lets you run it on demand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch from INSPIRE-HEP
+        run: python3 scripts/fetch_publications.py
+
+      - name: Commit if anything changed
+        run: |
+          if git diff --quiet -- data/publications-cache.json; then
+            echo "No publication changes."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/publications-cache.json
+          git commit -m "Update publications from INSPIRE-HEP"
+          git push

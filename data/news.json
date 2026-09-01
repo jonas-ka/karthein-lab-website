@@ -1,0 +1,128 @@
+[
+  {
+    "date": "2026-07",
+    "title": "Anna and Meg present their summer research projects",
+    "image": "assets/img/news/2026-07-summer-presentations.webp",
+    "body": "<p>Thank y'all for your work over the summer!</p>"
+  },
+  {
+    "date": "2026-07",
+    "title": "DOE Genesis Mission award",
+    "image": "assets/img/news/2026-07-genesis-mission.webp",
+    "body": "<p>Honored and excited to announce that our team has been selected for a U.S. Department of Energy Genesis Mission Phase I Award.</p><p>While Texas A&amp;M University is celebrating joining this historic national initiative, our project focuses on developing AI-powered digital twins to run complex nuclear physics experiments and maximize national beamtime productivity. Out of nearly 300 projects selected nationwide, we are thrilled to represent Texas A&amp;M in pushing the boundaries of AI-driven scientific discovery.</p><p>Huge thanks to our co-investigators Ronald Garcia Ruiz (MIT), Abhishek Roy (TAMU), Ahmed Attia (ANL), Bernhard Maaß (ANL), Dan Melconian (TAMU), Kei Minamisono (FRIB) and Sven Leyffer (ANL), and to the Department of Energy for supporting this vision.</p><ul><li>Cyclotron Institute press release</li><li><a href=\"https://stories.tamu.edu/news/2026/07/27/texas-am-university-joins-the-genesis-mission-to-transform-science-using-artificial-intelligence/\" rel=\"noopener\">Texas A&amp;M University press release</a></li><li>NPR radio story</li></ul>"
+  },
+  {
+    "date": "2026-06",
+    "title": "Anna, Henry and Meg join us as 2026 summer students",
+    "image": "assets/img/news/2026-06-summer-students.webp",
+    "body": "<p>Welcome y'all! They will work on projects ranging from commissioning a novel laser ablation ion source to developing an agentic control system and an AI-powered emulator for our ion optics simulations.</p><p>We acknowledge the support of the <a href=\"https://cyclotron.tamu.edu/trend/\" rel=\"noopener\">DOE TREND</a>, <a href=\"https://artsci.tamu.edu/physics-astronomy/index.html\" rel=\"noopener\">TAMU Physics Department</a> Summer Research and <a href=\"https://www.nsf.gov/funding/initiatives/reu\" rel=\"noopener\">NSF REU</a> programs.</p>"
+  },
+  {
+    "date": "2026-05",
+    "title": "Gabe and Jack graduate with a Bachelor's in Physics",
+    "image": "assets/img/news/2026-05-graduation.webp",
+    "body": "<p>We are proud of y'all and wish you the best!</p>"
+  },
+  {
+    "date": "2026-05",
+    "title": "Charlotte wins a prestigious MIT Quantum Initiative Fellowship",
+    "image": "assets/img/news/2026-05-charlotte-fellowship.webp",
+    "body": "<p>Congrats, Charlotte!</p>"
+  },
+  {
+    "date": "2026-01",
+    "title": "Brooke's heifer scores high at Nationals",
+    "image": "assets/img/news/2026-01-brooke-nationals.webp",
+    "body": "<p>Congrats, Brooke!</p>"
+  },
+  {
+    "date": "2025-12",
+    "title": "Holiday party and group outing",
+    "image": "assets/img/news/2025-12-holiday-party.webp",
+    "body": "<p>End-of-year celebration at the Physics Department Holiday Party, and our \"winter\" group outing — 25 °C in December.</p>"
+  },
+  {
+    "date": "2025-12",
+    "title": "First beam",
+    "image": "assets/img/news/2025-12-first-beam.webp",
+    "body": "<p>We have our first vacuum and our first beam in the experiment on campus.</p>"
+  },
+  {
+    "date": "2025-11",
+    "title": "Nick wins the B-CS half marathon",
+    "image": "assets/img/news/2025-11-nick-halfmarathon.webp",
+    "body": "<p>Congrats, Nick — and what a gap to second place!</p>"
+  },
+  {
+    "date": "2025-11",
+    "title": "First SQUID signal, and the MPIK Penning trap is ready",
+    "image": "assets/img/news/2025-11-squid-signal.webp",
+    "body": "<p>We have our first SQUID signal. The Penning trap was machined by our collaborators in the group of Prof. Klaus Blaum at MPIK.</p>"
+  },
+  {
+    "date": "2025-09",
+    "title": "Savannah and Mason start as new graduate students",
+    "image": "assets/img/news/2025-09-new-grad-students.webp",
+    "body": "<p>Welcome to the team, Savannah and Mason!</p>"
+  },
+  {
+    "date": "2025-09",
+    "title": "Charlotte and Brooke start as new postdoctoral researchers",
+    "image": "assets/img/news/2025-09-new-postdocs.webp",
+    "body": "<p>We are thrilled to welcome Brooke Rickey and Charlotte König as our new postdocs. Brooke will lead the local laser program, and Charlotte will start at MIT to lead the proof-of-principle experiment for NEPTUNE.</p>"
+  },
+  {
+    "date": "2025-08",
+    "title": "LECM25 and the Precision Measurements workshop",
+    "image": "assets/img/news/2025-08-lecm25.webp",
+    "body": "<p>Our group organised a satellite <a href=\"https://indico.frib.msu.edu/event/86/\" rel=\"noopener\">Workshop on Precision Measurements with Radioisotopes</a> at <a href=\"https://indico.frib.msu.edu/event/81/\" rel=\"noopener\">LECM25</a>, hosted at Texas A&amp;M this year. The workshop brought together theorists and experimentalists from across the U.S. and was a big success — a second edition is planned for LECM26 at Argonne National Laboratory.</p>"
+  },
+  {
+    "date": "2025-07",
+    "title": "Gabe joins us through TREND",
+    "image": "assets/img/news/2025-07-gabe-trend.webp",
+    "body": "<p>Gabe Daniels joined us this summer as a <a href=\"https://cyclotron.tamu.edu/trend/index.php\" rel=\"noopener\">TREND summer student</a>. He developed a yield database for our cyclotron, which you can find <a href=\"https://cyclotron.tamu.edu/flask_test/\" rel=\"noopener\">here</a>.</p>"
+  },
+  {
+    "date": "2025-06",
+    "title": "Nick and YeonJun at EBSS25",
+    "image": "assets/img/news/2025-06-ebss25.webp",
+    "body": "<p>Nick and YeonJun are presenting their work at <a href=\"https://ebss2025.lbl.gov/\" rel=\"noopener\">EBSS25</a> at Berkeley Lab.</p>"
+  },
+  {
+    "date": "2025-06",
+    "title": "Laser tables and beamline supports",
+    "image": "assets/img/news/2025-06-laser-tables.webp",
+    "body": "<p>We are quickly filling the new space with laser tables and a beamline support structure.</p>"
+  },
+  {
+    "date": "2025-03",
+    "title": "New lab space",
+    "image": "assets/img/news/2025-03-new-lab-space.webp",
+    "body": "<p>We are moving into a nearly empty lab space in the Mitchell Physics Building.</p>"
+  },
+  {
+    "date": "2025-01",
+    "title": "The team is growing fast",
+    "image": "assets/img/news/2025-01-team-growing.webp",
+    "body": "<p>We are starting off with two graduate students, Nick and YeonJun, and one undergraduate, Jack.</p>"
+  },
+  {
+    "date": "2025-01",
+    "title": "Groundbreaking of the Karthein Lab at Texas A&M",
+    "image": "assets/img/news/2025-01-groundbreaking.webp",
+    "body": "<p>We are happy to announce the groundbreaking of the Karthein Lab at the Physics Department and the Cyclotron Institute of Texas A&amp;M University. We have exciting projects in the pipeline and are actively looking for talented, motivated students and postdocs to join our efforts on campus, at MIT, and at the accelerator facilities FRIB in Michigan and CERN in Switzerland. Please reach out to <a href=\"mailto:lab@karthein.com\">lab@karthein.com</a>.</p>"
+  },
+  {
+    "date": "2024-08",
+    "title": "Closing in on ¹⁰⁰Sn at CERN, in Nature Physics",
+    "image": "assets/img/news/2024-08-nature-physics.webp",
+    "body": "<p>Our group published results from measurements at the precision laser spectrometer CRIS at CERN's radioactive ion beam facility ISOLDE in Nature Physics (<a href=\"https://doi.org/10.1038/s41567-024-02612-y\" rel=\"noopener\">journal</a>, <a href=\"https://arxiv.org/abs/2310.15093\" rel=\"noopener\">arXiv</a>). The results present significant evidence for the doubly magic character of the ¹⁰⁰Sn nucleus, through measurements of the electromagnetic properties of several indium isotopes.</p><p>See also the feature article at <a href=\"https://phys.org/news/2024-10-strong-evidence-doubly-magic-nature.html\" rel=\"noopener\">Phys.org</a> and the <a href=\"https://www.energy.gov/science/np/articles/testing-possible-doubly-magic-nature-tin-100-researchers-study-electromagnetic\" rel=\"noopener\">Department of Energy science highlight</a>.</p>"
+  },
+  {
+    "date": "2024-07",
+    "title": "NEPTUNE theory paper in Physical Review Letters",
+    "image": "assets/img/news/2024-07-neptune-prl.webp",
+    "body": "<p>Our group published a theory paper on one of our main projects, NEPTUNE, in Physical Review Letters (<a href=\"https://doi.org/10.1103/PhysRevLett.133.033003\" rel=\"noopener\">journal</a>, <a href=\"https://arxiv.org/abs/2310.11192\" rel=\"noopener\">arXiv</a>). We present a technique using single molecular ions in a Penning trap that should amplify so-far unstudied symmetry-violating electroweak effects by more than twelve orders of magnitude compared with measurements in atoms, and we work through the method's statistical and systematic uncertainties in detail.</p>"
+  }
+]
