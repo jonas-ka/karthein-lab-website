@@ -136,13 +136,6 @@ authorRecid: 1819057,
 That is the INSPIRE author record for **Jonas Karthein**
 (<https://inspirehep.net/authors/1819057>).
 
-⚠️ **Please confirm this ID is yours before going live.** There is a *different*
-physicist, **Jamie M. Karthein** (recid `1844379`), a heavy-ion theorist also credited
-to the Texas A&M Cyclotron Institute. Because of that, any name-based lookup would
-blend the two of you together — which is exactly why this uses the numeric ID. Open
-the link above; if it lists your papers, you're set. If not, search your name on
-INSPIRE and copy the number from the end of your author-page URL.
-
 While you're there: anything missing from your INSPIRE profile can be added with the
 **claim** button, and it will then appear on the site automatically.
 
