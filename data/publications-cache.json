@@ -1,5 +1,2611 @@
 {
-  "generated": null,
+  "generated": "2026-09-07T10:27:08+00:00",
   "source": "https://inspirehep.net/authors/1819057",
-  "papers": []
+  "papers": [
+    {
+      "id": "3153497",
+      "title": "Hadronic parity violation: successes, challenges, and future prospects",
+      "authors": [
+        {
+          "full_name": "Gardner, Susan",
+          "recid": 1008862
+        },
+        {
+          "full_name": "Karthein, Jonas",
+          "recid": 1819057
+        },
+        {
+          "full_name": "Meißner, Ulf-G.",
+          "recid": 997887
+        },
+        {
+          "full_name": "Muralidhara, Girish",
+          "recid": 2674273
+        },
+        {
+          "full_name": "Navratil, Petr",
+          "recid": 2031860
+        },
+        {
+          "full_name": "Snow, W. Michael",
+          "recid": 1019686
+        }
+      ],
+      "collaboration": "",
+      "journal": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "year": 2026,
+      "doi": "",
+      "arxiv": "2605.07826",
+      "arxivCategory": "nucl-th",
+      "citations": 1,
+      "kind": "preprint",
+      "texkey": "Gardner:2026kiy",
+      "inspire": "https://inspirehep.net/literature/3153497"
+    },
+    {
+      "id": "3154120",
+      "title": "Nuclear charge radii of aluminium isotopes at the proton drip line",
+      "authors": [
+        {
+          "full_name": "Brinson, Alex",
+          "recid": 1073813
+        },
+        {
+          "full_name": "Rickey, Brooke",
+          "recid": 2738489
+        },
+        {
+          "full_name": "Arthuis, Pierre",
+          "recid": 1692514
+        },
+        {
+          "full_name": "Belley, Antoine",
+          "recid": 2072816
+        },
+        {
+          "full_name": "Campbell, Scott",
+          "recid": 2738486
+        },
+        {
+          "full_name": "Chen, Xiangcheng",
+          "recid": 1922082
+        },
+        {
+          "full_name": "Dockery, Adam",
+          "recid": 2693479
+        },
+        {
+          "full_name": "Elhatisari, Serdar",
+          "recid": 1426026
+        },
+        {
+          "full_name": "Erington, Hannah",
+          "recid": 2837613
+        },
+        {
+          "full_name": "Gamage, Nadeesha",
+          "recid": 2015610
+        },
+        {
+          "full_name": "Garcia Ruiz, Ronald Fernando",
+          "recid": 1284206
+        },
+        {
+          "full_name": "Heinz, Matthias",
+          "recid": 1817590
+        },
+        {
+          "full_name": "Holt, Jason",
+          "recid": 1039957
+        },
+        {
+          "full_name": "Ireland, Christian",
+          "recid": 2738487
+        },
+        {
+          "full_name": "Izzo, Chris",
+          "recid": 1948565
+        },
+        {
+          "full_name": "Jones, Christina",
+          "recid": 2022710
+        },
+        {
+          "full_name": "Karthein, Jonas",
+          "recid": 1819057
+        },
+        {
+          "full_name": "König, Kristian",
+          "recid": 2160362
+        },
+        {
+          "full_name": "Lee, Dean",
+          "recid": 1000805
+        },
+        {
+          "full_name": "Ma, Yuan-Zhuo",
+          "recid": 2591151
+        },
+        {
+          "full_name": "Maier, Franziska",
+          "recid": 2162962
+        },
+        {
+          "full_name": "Meißner, Ulf-G.",
+          "recid": 997887
+        },
+        {
+          "full_name": "Minamisono, Kei",
+          "recid": 997367
+        },
+        {
+          "full_name": "Moenter, Mason",
+          "recid": 3154123
+        },
+        {
+          "full_name": "Munoz, Jose",
+          "recid": 2111119
+        },
+        {
+          "full_name": "Nörtershäuser, Wilfried",
+          "recid": 1061798
+        },
+        {
+          "full_name": "Ortiz-Cortes, Alejandro",
+          "recid": 2031663
+        },
+        {
+          "full_name": "Palmes, Julian",
+          "recid": 2784402
+        },
+        {
+          "full_name": "Papa, Sophia",
+          "recid": 1936734
+        },
+        {
+          "full_name": "Cruz, Fabian Pastrana",
+          "recid": 2779416
+        },
+        {
+          "full_name": "Ringle, Ryan",
+          "recid": 1913935
+        },
+        {
+          "full_name": "Sims, Henry",
+          "recid": 2484160
+        },
+        {
+          "full_name": "Sumithrarachchi, Chandana",
+          "recid": 1272574
+        },
+        {
+          "full_name": "Vernon, Adam",
+          "recid": 1889773
+        },
+        {
+          "full_name": "Wang, Teng",
+          "recid": 1872872
+        },
+        {
+          "full_name": "Wilkins, Shane",
+          "recid": 1652589
+        },
+        {
+          "full_name": "Yadav, Ram",
+          "recid": 1977131
+        },
+        {
+          "full_name": "Zhang, Shuang",
+          "recid": 2707968
+        }
+      ],
+      "collaboration": "",
+      "journal": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "year": 2026,
+      "doi": "",
+      "arxiv": "2605.09139",
+      "arxivCategory": "nucl-ex",
+      "citations": 2,
+      "kind": "preprint",
+      "texkey": "Brinson:2026mim",
+      "inspire": "https://inspirehep.net/literature/3154120"
+    },
+    {
+      "id": "3135962",
+      "title": "Precision mass measurement of <math><mmultiscripts><mi>Zn</mi><mprescripts/><none/><mn>61</mn></mmultiscripts></math> and updated <math><mrow><mi>F</mi><mi>t</mi></mrow></math> value for conserved vector current tests",
+      "authors": [
+        {
+          "full_name": "Giesel, P.F.",
+          "recid": 2874648
+        },
+        {
+          "full_name": "Atanasov, D.",
+          "recid": 1874569
+        },
+        {
+          "full_name": "Blaum, K.",
+          "recid": 1057990
+        },
+        {
+          "full_name": "Fischer, P.",
+          "recid": 1009905
+        },
+        {
+          "full_name": "Karthein, J.",
+          "recid": 1819057
+        },
+        {
+          "full_name": "Kulikov, I.",
+          "recid": 2425502
+        },
+        {
+          "full_name": "Litvinov, Yu.A.",
+          "recid": 1052588
+        },
+        {
+          "full_name": "Lunney, D.",
+          "recid": 999551
+        },
+        {
+          "full_name": "Mougeot, M.",
+          "recid": 1925451
+        },
+        {
+          "full_name": "Nies, L.",
+          "recid": 1972890
+        },
+        {
+          "full_name": "Schweikhard, L.",
+          "recid": 1925461
+        },
+        {
+          "full_name": "Virtanen, V.A.",
+          "recid": 1997759
+        },
+        {
+          "full_name": "Wienholtz, F.",
+          "recid": 1885344
+        }
+      ],
+      "collaboration": "",
+      "journal": "Phys.Rev.C",
+      "volume": "113",
+      "issue": "3",
+      "pages": "034318",
+      "year": 2026,
+      "doi": "10.1103/fbf3-nry6",
+      "arxiv": "",
+      "arxivCategory": "",
+      "citations": 0,
+      "kind": "article",
+      "texkey": "Giesel:2026sip",
+      "inspire": "https://inspirehep.net/literature/3135962"
+    },
+    {
+      "id": "3082168",
+      "title": "Resonance Ionization Spectroscopy Experiment at Facility for Rare Isotope Beams",
+      "authors": [
+        {
+          "full_name": "Brinson, A.J.",
+          "recid": 1073813
+        },
+        {
+          "full_name": "Rickey, B.J.",
+          "recid": 2738489
+        },
+        {
+          "full_name": "Allmond, J.M.",
+          "recid": 2016311
+        },
+        {
+          "full_name": "Dockery, A.",
+          "recid": 2693479
+        },
+        {
+          "full_name": "Chiu, A. Fernandez",
+          "recid": 3082169
+        },
+        {
+          "full_name": "Garcia Ruiz, R.F.",
+          "recid": 1284206
+        },
+        {
+          "full_name": "Gray, T.J.",
+          "recid": 1952874
+        },
+        {
+          "full_name": "Karthein, J.",
+          "recid": 1819057
+        },
+        {
+          "full_name": "King, T.T.",
+          "recid": 2134316
+        },
+        {
+          "full_name": "Minamisono, K.",
+          "recid": 997367
+        },
+        {
+          "full_name": "Ortiz-Cortes, A.",
+          "recid": 2031663
+        },
+        {
+          "full_name": "Pineda, S.V.",
+          "recid": 1956090
+        },
+        {
+          "full_name": "Rasco, B.C.",
+          "recid": 2168492
+        },
+        {
+          "full_name": "Reponen, M.",
+          "recid": 1062943
+        },
+        {
+          "full_name": "Udrescu, S.M.",
+          "recid": 1885325
+        },
+        {
+          "full_name": "Vernon, A.R.",
+          "recid": 1889773
+        },
+        {
+          "full_name": "Wilkins, S.G.",
+          "recid": 1652589
+        }
+      ],
+      "collaboration": "",
+      "journal": "Phys.Rev.Res.",
+      "volume": "8",
+      "issue": "1",
+      "pages": "013276",
+      "year": 2026,
+      "doi": "10.1103/hm9t-4pgp",
+      "arxiv": "2511.08881",
+      "arxivCategory": "physics.ins-det",
+      "citations": 2,
+      "kind": "article",
+      "texkey": "Brinson:2025ofw",
+      "inspire": "https://inspirehep.net/literature/3082168"
+    },
+    {
+      "id": "2915255",
+      "title": "Charge Radii Measurements of Exotic Tin Isotopes in the Proximity of <math display=\"inline\"><mi>N</mi><mo>=</mo><mn>50</mn></math> and <math display=\"inline\"><mi>N</mi><mo>=</mo><mn>82</mn></math>",
+      "authors": [
+        {
+          "full_name": "Gustafsson, F.P.",
+          "recid": 1885339
+        },
+        {
+          "full_name": "Rodríguez, L.V.",
+          "recid": 1867639
+        },
+        {
+          "full_name": "Garcia Ruiz, R.F.",
+          "recid": 1284206
+        },
+        {
+          "full_name": "Miyagi, T.",
+          "recid": 1511774
+        },
+        {
+          "full_name": "Bai, S.W.",
+          "recid": 1274752
+        },
+        {
+          "full_name": "Balabanski, D.L.",
+          "recid": 1063829
+        },
+        {
+          "full_name": "Binnersley, C.L.",
+          "recid": 1885329
+        },
+        {
+          "full_name": "Bissell, M.L.",
+          "recid": 1985625
+        },
+        {
+          "full_name": "Blaum, K.",
+          "recid": 1057990
+        },
+        {
+          "full_name": "Cheal, B.",
+          "recid": 1898181
+        },
+        {
+          "full_name": "Cocolios, T.E.",
+          "recid": 1907076
+        },
+        {
+          "full_name": "Farooq-Smith, G.J.",
+          "recid": 1911604
+        },
+        {
+          "full_name": "Flanagan, K.T.",
+          "recid": 2392927
+        },
+        {
+          "full_name": "Franchoo, S.",
+          "recid": 1885338
+        },
+        {
+          "full_name": "Galindo-Uribarri, A.",
+          "recid": 1009032
+        },
+        {
+          "full_name": "Georgiev, G.",
+          "recid": 1647612
+        },
+        {
+          "full_name": "Gins, W.",
+          "recid": 1898186
+        },
+        {
+          "full_name": "Gorges, C.",
+          "recid": 1985626
+        },
+        {
+          "full_name": "de Groote, R.P.",
+          "recid": 2189838
+        },
+        {
+          "full_name": "Heylen, H.",
+          "recid": 1284207
+        },
+        {
+          "full_name": "Holt, J.D.",
+          "recid": 1039957
+        },
+        {
+          "full_name": "Kanellakopoulos, A.",
+          "recid": 1877251
+        },
+        {
+          "full_name": "Karthein, J.",
+          "recid": 1819057
+        },
+        {
+          "full_name": "Kaufmann, S.",
+          "recid": 2007397
+        },
+        {
+          "full_name": "Koszorús, Á.",
+          "recid": 1877252
+        },
+        {
+          "full_name": "König, K.",
+          "recid": 2181040
+        },
+        {
+          "full_name": "Lagaki, V.",
+          "recid": 2008754
+        },
+        {
+          "full_name": "Lechner, S.",
+          "recid": 1000840
+        },
+        {
+          "full_name": "Maass, B.",
+          "recid": 1972193
+        },
+        {
+          "full_name": "Malbrunot-Ettenauer, S.",
+          "recid": 1058077
+        },
+        {
+          "full_name": "Nazarewicz, W.",
+          "recid": 995962
+        },
+        {
+          "full_name": "Neugart, R.",
+          "recid": 1985628
+        },
+        {
+          "full_name": "Neyens, G.",
+          "recid": 1056365
+        },
+        {
+          "full_name": "Nörtershäuser, W.",
+          "recid": 1061798
+        },
+        {
+          "full_name": "Otsuka, T.",
+          "recid": 994671
+        },
+        {
+          "full_name": "Reinhard, P.-G.",
+          "recid": 1258836
+        },
+        {
+          "full_name": "Rondelez, N.",
+          "recid": 2915257
+        },
+        {
+          "full_name": "Romero-Romero, E.",
+          "recid": 2282995
+        },
+        {
+          "full_name": "Ricketts, C.M.",
+          "recid": 1889765
+        },
+        {
+          "full_name": "Sailer, S.",
+          "recid": 1877087
+        },
+        {
+          "full_name": "Sánchez, R.",
+          "recid": 1985630
+        },
+        {
+          "full_name": "Schmidt, S.",
+          "recid": 989819
+        },
+        {
+          "full_name": "Schwenk, A.",
+          "recid": 1023420
+        },
+        {
+          "full_name": "Stroberg, S.R.",
+          "recid": 1062771
+        },
+        {
+          "full_name": "Shimizu, N.",
+          "recid": 988956
+        },
+        {
+          "full_name": "Tsunoda, Y.",
+          "recid": 2135952
+        },
+        {
+          "full_name": "Vernon, A.R.",
+          "recid": 1889773
+        },
+        {
+          "full_name": "Wehner, L.",
+          "recid": 1985634
+        },
+        {
+          "full_name": "Wilkins, S.G.",
+          "recid": 1652589
+        },
+        {
+          "full_name": "Wraith, C.",
+          "recid": 1891257
+        },
+        {
+          "full_name": "Xie, L.",
+          "recid": 1886302
+        },
+        {
+          "full_name": "Xu, Z.Y.",
+          "recid": 1062615
+        },
+        {
+          "full_name": "Yang, X.F.",
+          "recid": 1958217
+        },
+        {
+          "full_name": "Yordanov, D.T.",
+          "recid": 1061882
+        }
+      ],
+      "collaboration": "",
+      "journal": "Phys.Rev.Lett.",
+      "volume": "135",
+      "issue": "22",
+      "pages": "222501",
+      "year": 2025,
+      "doi": "10.1103/wbdx-k3cd",
+      "arxiv": "2504.17060",
+      "arxivCategory": "nucl-ex",
+      "citations": 22,
+      "kind": "article",
+      "texkey": "Gustafsson:2025xpd",
+      "inspire": "https://inspirehep.net/literature/2915255"
+    },
+    {
+      "id": "2967345",
+      "title": "Extending the low-<math><mi>Z</mi></math> “border” of the <math><mrow><mi>A</mi><mo>=</mo><mn>100</mn></mrow></math> region of deformation with precision mass spectrometry of <math><mmultiscripts><mi>Kr</mi><mprescripts/><none/><mrow><mn>96</mn><mo>−</mo><mn>98</mn></mrow></mmultiscripts></math>",
+      "authors": [
+        {
+          "full_name": "Lunney, D.",
+          "recid": 999551
+        },
+        {
+          "full_name": "Manea, V.",
+          "recid": 1284195
+        },
+        {
+          "full_name": "Mougeot, M.",
+          "recid": 1925451
+        },
+        {
+          "full_name": "Nies, L.",
+          "recid": 1972890
+        },
+        {
+          "full_name": "Althubiti, N.A.",
+          "recid": 1911597
+        },
+        {
+          "full_name": "Atanasov, D.",
+          "recid": 1874569
+        },
+        {
+          "full_name": "Blaum, K.",
+          "recid": 1057990
+        },
+        {
+          "full_name": "Herlert, A.",
+          "recid": 1959410
+        },
+        {
+          "full_name": "Huang, W.-J.",
+          "recid": 1477448
+        },
+        {
+          "full_name": "Karthein, J.",
+          "recid": 1819057
+        },
+        {
+          "full_name": "Kulikov, I.",
+          "recid": 2425502
+        },
+        {
+          "full_name": "Litvinov, Yu.A.",
+          "recid": 1052588
+        },
+        {
+          "full_name": "Neidherr, D.",
+          "recid": 2008558
+        },
+        {
+          "full_name": "Rodríguez, T.R.",
+          "recid": 1056699
+        },
+        {
+          "full_name": "Rosenbusch, M.",
+          "recid": 1904868
+        },
+        {
+          "full_name": "Schweikhard, L.",
+          "recid": 1925461
+        },
+        {
+          "full_name": "Steinsberger, T.",
+          "recid": 1925462
+        },
+        {
+          "full_name": "Welker, A.",
+          "recid": 1924800
+        },
+        {
+          "full_name": "Wienholtz, F.",
+          "recid": 1885344
+        },
+        {
+          "full_name": "Wolf, R.N.",
+          "recid": 1972919
+        }
+      ],
+      "collaboration": "",
+      "journal": "Phys.Rev.C",
+      "volume": "112",
+      "issue": "3",
+      "pages": "034307",
+      "year": 2025,
+      "doi": "10.1103/dhbh-12sc",
+      "arxiv": "2509.05538",
+      "arxivCategory": "nucl-ex",
+      "citations": 3,
+      "kind": "article",
+      "texkey": "Lunney:2025amw",
+      "inspire": "https://inspirehep.net/literature/2967345"
+    },
+    {
+      "id": "2939347",
+      "title": "Variations in the charge radii of indium isotopes between $N$ = 52 and 82",
+      "authors": [
+        {
+          "full_name": "Vernon, A.R.",
+          "recid": 1889773
+        },
+        {
+          "full_name": "Binnersley, C.L.",
+          "recid": 1885329
+        },
+        {
+          "full_name": "Sahoo, B.K.",
+          "recid": 1045251
+        },
+        {
+          "full_name": "Billowes, J.",
+          "recid": 1885328
+        },
+        {
+          "full_name": "Bissell, M.L.",
+          "recid": 1985625
+        },
+        {
+          "full_name": "Cocolios, T.E.",
+          "recid": 1907076
+        },
+        {
+          "full_name": "de Groote, R.P.",
+          "recid": 2160364
+        },
+        {
+          "full_name": "Farooq-Smith, G.J.",
+          "recid": 1911604
+        },
+        {
+          "full_name": "Flanagan, K.T.",
+          "recid": 2392927
+        },
+        {
+          "full_name": "Garcia Ruiz, R.F.",
+          "recid": 1284206
+        },
+        {
+          "full_name": "Georgiev, G.",
+          "recid": 1647612
+        },
+        {
+          "full_name": "Gins, W.",
+          "recid": 1898186
+        },
+        {
+          "full_name": "Gustafsson, F.P.",
+          "recid": 1885339
+        },
+        {
+          "full_name": "Heinke, R.",
+          "recid": 1938372
+        },
+        {
+          "full_name": "Holt, J.D.",
+          "recid": 1039957
+        },
+        {
+          "full_name": "Kanellakopoulos, A.",
+          "recid": 1877251
+        },
+        {
+          "full_name": "Karthein, J.",
+          "recid": 1819057
+        },
+        {
+          "full_name": "Koszorús, Á.",
+          "recid": 1877252
+        },
+        {
+          "full_name": "Leimbach, D.",
+          "recid": 1899091
+        },
+        {
+          "full_name": "Lynch, K.M.",
+          "recid": 1284177
+        },
+        {
+          "full_name": "Miyagi, T.",
+          "recid": 1511774
+        },
+        {
+          "full_name": "Nazarewicz, W.",
+          "recid": 995962
+        },
+        {
+          "full_name": "Neyens, G.",
+          "recid": 1056365
+        },
+        {
+          "full_name": "Reinhard, P.-G.",
+          "recid": 1258836
+        },
+        {
+          "full_name": "Ricketts, C.M.",
+          "recid": 1889765
+        },
+        {
+          "full_name": "Stroberg, S.R.",
+          "recid": 1062771
+        },
+        {
+          "full_name": "Wilkins, S.G.",
+          "recid": 1652589
+        },
+        {
+          "full_name": "Yang, X.F.",
+          "recid": 1958217
+        },
+        {
+          "full_name": "Yordanov, D.T.",
+          "recid": 1061882
+        }
+      ],
+      "collaboration": "CRIS-ISOLDE",
+      "journal": "Phys.Rev.C",
+      "volume": "111",
+      "issue": "6",
+      "pages": "064325",
+      "year": 2025,
+      "doi": "10.1103/PhysRevC.111.064325",
+      "arxiv": "",
+      "arxivCategory": "",
+      "citations": 5,
+      "kind": "article",
+      "texkey": "CRIS-ISOLDE:2025gxl",
+      "inspire": "https://inspirehep.net/literature/2939347"
+    },
+    {
+      "id": "2713633",
+      "title": "Electromagnetic properties of indium isotopes illuminate the doubly magic character of $^{100}$Sn",
+      "authors": [
+        {
+          "full_name": "Karthein, J.",
+          "recid": 1819057
+        },
+        {
+          "full_name": "Ricketts, C.M.",
+          "recid": 1889765
+        },
+        {
+          "full_name": "Garcia Ruiz, R.F.",
+          "recid": 1284206
+        },
+        {
+          "full_name": "Billowes, J.",
+          "recid": 1885328
+        },
+        {
+          "full_name": "Binnersley, C.L.",
+          "recid": 1885329
+        },
+        {
+          "full_name": "Cocolios, T.E.",
+          "recid": 1907076
+        },
+        {
+          "full_name": "Dobaczewski, J.",
+          "recid": 1011676
+        },
+        {
+          "full_name": "Farooq-Smith, G.J.",
+          "recid": 1911604
+        },
+        {
+          "full_name": "Flanagan, K.T.",
+          "recid": 2392927
+        },
+        {
+          "full_name": "Georgiev, G.",
+          "recid": 1647612
+        },
+        {
+          "full_name": "Gins, W.",
+          "recid": 1898186
+        },
+        {
+          "full_name": "de Groote, R.P.",
+          "recid": 2189838
+        },
+        {
+          "full_name": "Gustafsson, F.P.",
+          "recid": 1885339
+        },
+        {
+          "full_name": "Holt, J.D.",
+          "recid": 1039957
+        },
+        {
+          "full_name": "Kanellakopoulos, A.",
+          "recid": 1877251
+        },
+        {
+          "full_name": "Koszorús, Á.",
+          "recid": 1877252
+        },
+        {
+          "full_name": "Leimbach, D.",
+          "recid": 1899091
+        },
+        {
+          "full_name": "Lynch, K.M.",
+          "recid": 1284177
+        },
+        {
+          "full_name": "Miyagi, T.",
+          "recid": 1511774
+        },
+        {
+          "full_name": "Nazarewicz, W.",
+          "recid": 995962
+        },
+        {
+          "full_name": "Neyens, G.",
+          "recid": 1056365
+        },
+        {
+          "full_name": "Reinhard, P.-G.",
+          "recid": 1258836
+        },
+        {
+          "full_name": "Sahoo, B.K.",
+          "recid": 1045251
+        },
+        {
+          "full_name": "Vernon, A.R.",
+          "recid": 1889773
+        },
+        {
+          "full_name": "Wilkins, S.G.",
+          "recid": 1652589
+        },
+        {
+          "full_name": "Yang, X.F.",
+          "recid": 1958217
+        },
+        {
+          "full_name": "Yordanov, D.T.",
+          "recid": 1061882
+        }
+      ],
+      "collaboration": "",
+      "journal": "Nature Phys.",
+      "volume": "20",
+      "issue": "11",
+      "pages": "1719-1725",
+      "year": 2024,
+      "doi": "10.1038/s41567-024-02612-y",
+      "arxiv": "2310.15093",
+      "arxivCategory": "nucl-ex",
+      "citations": 40,
+      "kind": "article",
+      "texkey": "Karthein:2023ric",
+      "inspire": "https://inspirehep.net/literature/2713633"
+    },
+    {
+      "id": "2711805",
+      "title": "Electroweak Nuclear Properties from Single Molecular Ions in a Penning Trap",
+      "authors": [
+        {
+          "full_name": "Karthein, Jonas",
+          "recid": 1819057
+        },
+        {
+          "full_name": "Udrescu, Silviu-Marian",
+          "recid": 1885325
+        },
+        {
+          "full_name": "Moroch, Scott B.",
+          "recid": 2168441
+        },
+        {
+          "full_name": "Belosevic, Ivana",
+          "recid": 2552945
+        },
+        {
+          "full_name": "Blaum, Klaus",
+          "recid": 1057990
+        },
+        {
+          "full_name": "Borschevsky, Anastasia",
+          "recid": 2609177
+        },
+        {
+          "full_name": "Chamorro, Yuly",
+          "recid": 2132973
+        },
+        {
+          "full_name": "DeMille, David",
+          "recid": 1019969
+        },
+        {
+          "full_name": "Dilling, Jens",
+          "recid": 1058081
+        },
+        {
+          "full_name": "Garcia Ruiz, Ronald F.",
+          "recid": 1284206
+        },
+        {
+          "full_name": "Hutzler, Nick R.",
+          "recid": 1632616
+        },
+        {
+          "full_name": "Pašteka, Lukáš F.",
+          "recid": 1964978
+        },
+        {
+          "full_name": "Ringle, Ryan",
+          "recid": 1913935
+        }
+      ],
+      "collaboration": "",
+      "journal": "Phys.Rev.Lett.",
+      "volume": "133",
+      "issue": "3",
+      "pages": "033003",
+      "year": 2024,
+      "doi": "10.1103/PhysRevLett.133.033003",
+      "arxiv": "2310.11192",
+      "arxivCategory": "physics.atom-ph",
+      "citations": 16,
+      "kind": "article",
+      "texkey": "Karthein:2023vwr",
+      "inspire": "https://inspirehep.net/literature/2711805"
+    },
+    {
+      "id": "2693478",
+      "title": "Nuclear Charge Radii of Silicon Isotopes",
+      "authors": [
+        {
+          "full_name": "König, Kristian",
+          "recid": 2160362
+        },
+        {
+          "full_name": "Berengut, Julian C.",
+          "recid": 1061670
+        },
+        {
+          "full_name": "Borschevsky, Anastasia",
+          "recid": 2609177
+        },
+        {
+          "full_name": "Brinson, Alex",
+          "recid": 1073813
+        },
+        {
+          "full_name": "Brown, B. Alex",
+          "recid": 1028809
+        },
+        {
+          "full_name": "Dockery, Adam",
+          "recid": 2693479
+        },
+        {
+          "full_name": "Elhatisari, Serdar",
+          "recid": 1426026
+        },
+        {
+          "full_name": "Eliav, Ephraim",
+          "recid": 2132974
+        },
+        {
+          "full_name": "Garcia Ruiz, Ronald F.",
+          "recid": 1284206
+        },
+        {
+          "full_name": "Holt, Jason D.",
+          "recid": 1039957
+        },
+        {
+          "full_name": "Hu, Bai-Shan",
+          "recid": 1763531
+        },
+        {
+          "full_name": "Karthein, Jonas",
+          "recid": 1819057
+        },
+        {
+          "full_name": "Lee, Dean",
+          "recid": 1000805
+        },
+        {
+          "full_name": "Ma, Yuan-Zhuo",
+          "recid": 2784996
+        },
+        {
+          "full_name": "Meißner, Ulf-G.",
+          "recid": 997887
+        },
+        {
+          "full_name": "Minamisono, Kei",
+          "recid": 997367
+        },
+        {
+          "full_name": "Oleynichenko, Alexander V.",
+          "recid": 1885383
+        },
+        {
+          "full_name": "Pineda, Skyy V.",
+          "recid": 1956090
+        },
+        {
+          "full_name": "Prosnyak, Sergey D.",
+          "recid": 2072823
+        },
+        {
+          "full_name": "Reitsma, Marten L.",
+          "recid": 1889766
+        },
+        {
+          "full_name": "Skripnikov, Leonid V.",
+          "recid": 1867640
+        },
+        {
+          "full_name": "Vernon, Adam",
+          "recid": 1889773
+        },
+        {
+          "full_name": "Zaitsevskii, Andréi",
+          "recid": 1885384
+        }
+      ],
+      "collaboration": "",
+      "journal": "Phys.Rev.Lett.",
+      "volume": "132",
+      "issue": "16",
+      "pages": "162502",
+      "year": 2024,
+      "doi": "10.1103/PhysRevLett.132.162502",
+      "arxiv": "2309.02037",
+      "arxivCategory": "nucl-ex",
+      "citations": 51,
+      "kind": "article",
+      "texkey": "Konig:2023rwe",
+      "inspire": "https://inspirehep.net/literature/2693478"
+    },
+    {
+      "id": "2629753",
+      "title": "Opportunities for fundamental physics research with radioactive molecules",
+      "authors": [
+        {
+          "full_name": "Arrowsmith-Kron, Gordon",
+          "recid": 1912578
+        },
+        {
+          "full_name": "Athanasakis-Kaklamanakis, Michail",
+          "recid": 2154608
+        },
+        {
+          "full_name": "Au, Mia",
+          "recid": 1938371
+        },
+        {
+          "full_name": "Ballof, Jochen",
+          "recid": 1899088
+        },
+        {
+          "full_name": "Berger, Robert",
+          "recid": 1916665
+        },
+        {
+          "full_name": "Borschevsky, Anastasia",
+          "recid": 2609177
+        },
+        {
+          "full_name": "Breier, Alexander A.",
+          "recid": 1885331
+        },
+        {
+          "full_name": "Buchinger, Fritz",
+          "recid": 1066239
+        },
+        {
+          "full_name": "Budker, Dmitry",
+          "recid": 1053648
+        },
+        {
+          "full_name": "Caldwell, Luke",
+          "recid": 2008869
+        },
+        {
+          "full_name": "Charles, Christopher",
+          "recid": 2177564
+        },
+        {
+          "full_name": "Dattani, Nike",
+          "recid": 2426097
+        },
+        {
+          "full_name": "de Groote, Ruben P.",
+          "recid": 2160364
+        },
+        {
+          "full_name": "DeMille, David",
+          "recid": 1019969
+        },
+        {
+          "full_name": "Dickel, Timo",
+          "recid": 1920083
+        },
+        {
+          "full_name": "Dobaczewski, Jacek",
+          "recid": 1011676
+        },
+        {
+          "full_name": "Düllmann, Christoph E.",
+          "recid": 1914429
+        },
+        {
+          "full_name": "Eliav, Ephraim",
+          "recid": 2132974
+        },
+        {
+          "full_name": "Engel, Jonathan",
+          "recid": 1010731
+        },
+        {
+          "full_name": "Fan, Mingyu",
+          "recid": 2081784
+        },
+        {
+          "full_name": "Flambaum, Victor",
+          "recid": 1009863
+        },
+        {
+          "full_name": "Flanagan, Kieran T.",
+          "recid": 1948668
+        },
+        {
+          "full_name": "Gaiser, Alyssa N.",
+          "recid": 2630440
+        },
+        {
+          "full_name": "Garcia Ruiz, Ronald F.",
+          "recid": 1284206
+        },
+        {
+          "full_name": "Gaul, Konstantin",
+          "recid": 1885326
+        },
+        {
+          "full_name": "Giesen, Thomas F.",
+          "recid": 1885336
+        },
+        {
+          "full_name": "Ginges, Jacinda S.M.",
+          "recid": 1061909
+        },
+        {
+          "full_name": "Gottberg, Alexander",
+          "recid": 1284174
+        },
+        {
+          "full_name": "Gwinner, Gerald",
+          "recid": 1049908
+        },
+        {
+          "full_name": "Heinke, Reinhard",
+          "recid": 1938372
+        },
+        {
+          "full_name": "Hoekstra, Steven",
+          "recid": 1059980
+        },
+        {
+          "full_name": "Holt, Jason D.",
+          "recid": 1039957
+        },
+        {
+          "full_name": "Hutzler, Nicholas R.",
+          "recid": 1632616
+        },
+        {
+          "full_name": "Jayich, Andrew",
+          "recid": 2052276
+        },
+        {
+          "full_name": "Karthein, Jonas",
+          "recid": 1819057
+        },
+        {
+          "full_name": "Leach, Kyle G.",
+          "recid": 2052379
+        },
+        {
+          "full_name": "Madison, Kirk W.",
+          "recid": 2125007
+        },
+        {
+          "full_name": "Malbrunot-Ettenauer, Stephan",
+          "recid": 1058077
+        },
+        {
+          "full_name": "Miyagi, Takayuki",
+          "recid": 1511774
+        },
+        {
+          "full_name": "Moore, Iain D.",
+          "recid": 2365138
+        },
+        {
+          "full_name": "Moroch, Scott",
+          "recid": 2168441
+        },
+        {
+          "full_name": "Navratil, Petr",
+          "recid": 995975
+        },
+        {
+          "full_name": "Nazarewicz, Witold",
+          "recid": 995962
+        },
+        {
+          "full_name": "Neyens, Gerda",
+          "recid": 1056365
+        },
+        {
+          "full_name": "Norrgard, Eric B.",
+          "recid": 2057418
+        },
+        {
+          "full_name": "Nusgart, Nicholas",
+          "recid": 2629754
+        },
+        {
+          "full_name": "Pašteka, Lukáš F.",
+          "recid": 1964978
+        },
+        {
+          "full_name": "Petrov, Alexander N.",
+          "recid": 993564
+        },
+        {
+          "full_name": "Plaß, Wolfgang R.",
+          "recid": 1920086
+        },
+        {
+          "full_name": "Ready, Roy A.",
+          "recid": 1905887
+        },
+        {
+          "full_name": "Reiter, Moritz Pascal",
+          "recid": 1920092
+        },
+        {
+          "full_name": "Reponen, Mikael",
+          "recid": 1062943
+        },
+        {
+          "full_name": "Rothe, Sebastian",
+          "recid": 1284200
+        },
+        {
+          "full_name": "Safronova, Marianna S.",
+          "recid": 1896420
+        },
+        {
+          "full_name": "Scheidenerger, Christoph",
+          "recid": 2630441
+        },
+        {
+          "full_name": "Shindler, Andrea",
+          "recid": 988924
+        },
+        {
+          "full_name": "Singh, Jaideep T.",
+          "recid": 1242537
+        },
+        {
+          "full_name": "Skripnikov, Leonid V.",
+          "recid": 1867640
+        },
+        {
+          "full_name": "Titov, Anatoly V.",
+          "recid": 1065640
+        },
+        {
+          "full_name": "Udrescu, Silviu-Marian",
+          "recid": 1885325
+        },
+        {
+          "full_name": "Wilkins, Shane G.",
+          "recid": 1652589
+        },
+        {
+          "full_name": "Yang, Xiaofei",
+          "recid": 1958217
+        }
+      ],
+      "collaboration": "",
+      "journal": "Rept.Prog.Phys.",
+      "volume": "87",
+      "issue": "8",
+      "pages": "084301",
+      "year": 2024,
+      "doi": "10.1088/1361-6633/ad1e39",
+      "arxiv": "2302.02165",
+      "arxivCategory": "nucl-ex",
+      "citations": 82,
+      "kind": "article",
+      "texkey": "Arrowsmith-Kron:2023hcr",
+      "inspire": "https://inspirehep.net/literature/2629753"
+    },
+    {
+      "id": "2665711",
+      "title": "Isomeric Excitation Energy for <math display=\"inline\"><msup><mrow><mmultiscripts><mrow><mi>In</mi></mrow><mprescripts/><none/><mrow><mn>99</mn></mrow></mmultiscripts></mrow><mi>m</mi></msup></math> from Mass Spectrometry Reveals Constant Trend Next to Doubly Magic <math display=\"inline\"><mrow><mmultiscripts><mrow><mi>Sn</mi></mrow><mprescripts/><none/><mrow><mn>100</mn></mrow></mmultiscripts></mrow></math>",
+      "authors": [
+        {
+          "full_name": "Nies, L.",
+          "recid": 1972890
+        },
+        {
+          "full_name": "Atanasov, D.",
+          "recid": 1925455
+        },
+        {
+          "full_name": "Athanasakis-Kaklamanakis, M.",
+          "recid": 2154608
+        },
+        {
+          "full_name": "Au, M.",
+          "recid": 1938371
+        },
+        {
+          "full_name": "Blaum, K.",
+          "recid": 1057990
+        },
+        {
+          "full_name": "Dobaczewski, J.",
+          "recid": 1011676
+        },
+        {
+          "full_name": "Hu, B.S.",
+          "recid": 1763531
+        },
+        {
+          "full_name": "Holt, J.D.",
+          "recid": 1039957
+        },
+        {
+          "full_name": "Karthein, J.",
+          "recid": 1819057
+        },
+        {
+          "full_name": "Kulikov, I.",
+          "recid": 2425502
+        },
+        {
+          "full_name": "Litvinov, Yu.A.",
+          "recid": 1052588
+        },
+        {
+          "full_name": "Lunney, D.",
+          "recid": 999551
+        },
+        {
+          "full_name": "Manea, V.",
+          "recid": 1284195
+        },
+        {
+          "full_name": "Miyagi, T.",
+          "recid": 1511774
+        },
+        {
+          "full_name": "Mougeot, M.",
+          "recid": 1925451
+        },
+        {
+          "full_name": "Schweikhard, L.",
+          "recid": 1925461
+        },
+        {
+          "full_name": "Schwenk, A.",
+          "recid": 1023420
+        },
+        {
+          "full_name": "Sieja, K.",
+          "recid": 1044555
+        },
+        {
+          "full_name": "Wienholtz, F.",
+          "recid": 1885344
+        }
+      ],
+      "collaboration": "",
+      "journal": "Phys.Rev.Lett.",
+      "volume": "131",
+      "issue": "2",
+      "pages": "022502",
+      "year": 2023,
+      "doi": "10.1103/PhysRevLett.131.022502",
+      "arxiv": "2306.02033",
+      "arxivCategory": "nucl-ex",
+      "citations": 22,
+      "kind": "article",
+      "texkey": "Nies:2023bha",
+      "inspire": "https://inspirehep.net/literature/2665711"
+    },
+    {
+      "id": "1829257",
+      "title": "KATRIN background due to surface radioimpurities",
+      "authors": [
+        {
+          "full_name": "Fränkle, Florian",
+          "recid": 2021564
+        },
+        {
+          "full_name": "Schaller, Anna",
+          "recid": 1699352
+        },
+        {
+          "full_name": "Blaum, Klaus",
+          "recid": 1057990
+        },
+        {
+          "full_name": "Otten, Ernst",
+          "recid": 1066643
+        },
+        {
+          "full_name": "Bornschein, Lutz",
+          "recid": 1902122
+        },
+        {
+          "full_name": "Drexlin, Guido",
+          "recid": 1011394
+        },
+        {
+          "full_name": "Glück, Ferenc",
+          "recid": 1008199
+        },
+        {
+          "full_name": "Hannen, Volker",
+          "recid": 2021567
+        },
+        {
+          "full_name": "Harms, Fabian",
+          "recid": 1920241
+        },
+        {
+          "full_name": "Hinz, Dominic",
+          "recid": 1881318
+        },
+        {
+          "full_name": "Johnston, Karl",
+          "recid": 1628926
+        },
+        {
+          "full_name": "Karthein, Jonas",
+          "recid": 1819057
+        },
+        {
+          "full_name": "Köster, Ulli",
+          "recid": 1924960
+        },
+        {
+          "full_name": "Lokhov, Alexey",
+          "recid": 1030575
+        },
+        {
+          "full_name": "Mertens, Susanne",
+          "recid": 1058890
+        },
+        {
+          "full_name": "Müller, Frank",
+          "recid": 2044145
+        },
+        {
+          "full_name": "Osipowicz, Alexander",
+          "recid": 1920272
+        },
+        {
+          "full_name": "Ranitzsch, Philipp",
+          "recid": 1272260
+        },
+        {
+          "full_name": "Schlösser, Klaus",
+          "recid": 1881350
+        },
+        {
+          "full_name": "Thümmler, Thomas",
+          "recid": 1048995
+        },
+        {
+          "full_name": "Trost, Nikolaus",
+          "recid": 1881362
+        },
+        {
+          "full_name": "Weinheimer, Christian",
+          "recid": 1049001
+        },
+        {
+          "full_name": "Wolf, Joachim",
+          "recid": 1511959
+        }
+      ],
+      "collaboration": "KATRIN",
+      "journal": "Astropart.Phys.",
+      "volume": "138",
+      "issue": "",
+      "pages": "102686",
+      "year": 2022,
+      "doi": "10.1016/j.astropartphys.2022.102686",
+      "arxiv": "2011.05107",
+      "arxivCategory": "physics.ins-det",
+      "citations": 21,
+      "kind": "article",
+      "texkey": "KATRIN:2020zld",
+      "inspire": "https://inspirehep.net/literature/1829257"
+    },
+    {
+      "id": "1847752",
+      "title": "Analysis methods and code for very high-precision mass measurements of unstable isotopes",
+      "authors": [
+        {
+          "full_name": "Karthein, Jonas",
+          "recid": 1819057
+        },
+        {
+          "full_name": "Atanasov, Dinko",
+          "recid": 1874569
+        },
+        {
+          "full_name": "Blaum, Klaus",
+          "recid": 1057990
+        },
+        {
+          "full_name": "Lunney, David",
+          "recid": 999551
+        },
+        {
+          "full_name": "Manea, Vladimir",
+          "recid": 1284195
+        },
+        {
+          "full_name": "Mougeot, Maxime",
+          "recid": 1874570
+        }
+      ],
+      "collaboration": "",
+      "journal": "Comput.Phys.Commun.",
+      "volume": "267",
+      "issue": "",
+      "pages": "108070",
+      "year": 2021,
+      "doi": "10.1016/j.cpc.2021.108070",
+      "arxiv": "2102.10413",
+      "arxivCategory": "physics.comp-ph",
+      "citations": 4,
+      "kind": "article",
+      "texkey": "Karthein:2021sib",
+      "inspire": "https://inspirehep.net/literature/1847752"
+    },
+    {
+      "id": "1925450",
+      "title": "Mass measurements of $^{99-101}$In challenge ab initio nuclear theory of the nuclide $^{100}$Sn",
+      "authors": [
+        {
+          "full_name": "Mougeot, M.",
+          "recid": 1925451
+        },
+        {
+          "full_name": "Atanasov, D.",
+          "recid": 1925455
+        },
+        {
+          "full_name": "Karthein, J.",
+          "recid": 1819057
+        },
+        {
+          "full_name": "Wolf, R.N.",
+          "recid": 1925458
+        },
+        {
+          "full_name": "Ascher, P.",
+          "recid": 1904666
+        },
+        {
+          "full_name": "Blaum, K.",
+          "recid": 1057990
+        },
+        {
+          "full_name": "Chrysalidis, K.",
+          "recid": 1899089
+        },
+        {
+          "full_name": "Hagen, G.",
+          "recid": 1024719
+        },
+        {
+          "full_name": "Holt, J.D.",
+          "recid": 1039957
+        },
+        {
+          "full_name": "Huang, W.J.",
+          "recid": 1914858
+        },
+        {
+          "full_name": "Jasen, G.R.",
+          "recid": 1925459
+        },
+        {
+          "full_name": "Kulikov, I.",
+          "recid": 1925460
+        },
+        {
+          "full_name": "Litvinov, Yu.A.",
+          "recid": 1052588
+        },
+        {
+          "full_name": "Lunney, D.",
+          "recid": 999551
+        },
+        {
+          "full_name": "Manea, V.",
+          "recid": 1284195
+        },
+        {
+          "full_name": "Miyagi, T.",
+          "recid": 1511774
+        },
+        {
+          "full_name": "Papenbrock, T.",
+          "recid": 994303
+        },
+        {
+          "full_name": "Schweikhard, L.",
+          "recid": 1925461
+        },
+        {
+          "full_name": "Schwenk, A.",
+          "recid": 1023420
+        },
+        {
+          "full_name": "Steinsberger, T.",
+          "recid": 1925462
+        },
+        {
+          "full_name": "Stroberg, S.R.",
+          "recid": 1062771
+        },
+        {
+          "full_name": "Sun, Z.H.",
+          "recid": 1705310
+        },
+        {
+          "full_name": "Welker, A.",
+          "recid": 1924800
+        },
+        {
+          "full_name": "Wienholtz, F.",
+          "recid": 1885344
+        },
+        {
+          "full_name": "Wilkins, S.G.",
+          "recid": 1652589
+        },
+        {
+          "full_name": "Zuber, K.",
+          "recid": 981928
+        }
+      ],
+      "collaboration": "",
+      "journal": "Nature Phys.",
+      "volume": "17",
+      "issue": "",
+      "pages": "1099",
+      "year": 2021,
+      "doi": "10.1038/s41567-021-01326-9",
+      "arxiv": "2109.10673",
+      "arxivCategory": "nucl-ex",
+      "citations": 60,
+      "kind": "article",
+      "texkey": "Mougeot:2021hvr",
+      "inspire": "https://inspirehep.net/literature/1925450"
+    },
+    {
+      "id": "1799428",
+      "title": "Examining the $N$ = 28 shell closure through high-precision mass measurements of $^{46-48}$Ar",
+      "authors": [
+        {
+          "full_name": "Mougeot, M.",
+          "recid": 1925451
+        },
+        {
+          "full_name": "Atanasov, D.",
+          "recid": 1874569
+        },
+        {
+          "full_name": "Barbieri, C.",
+          "recid": 1026000
+        },
+        {
+          "full_name": "Blaum, K.",
+          "recid": 1057990
+        },
+        {
+          "full_name": "Breitenfeld, M.",
+          "recid": 2592844
+        },
+        {
+          "full_name": "de Roubin, A.",
+          "recid": 1997756
+        },
+        {
+          "full_name": "Duguet, T.",
+          "recid": 1011265
+        },
+        {
+          "full_name": "George, S.",
+          "recid": 1008600
+        },
+        {
+          "full_name": "Herfurth, F.",
+          "recid": 1006176
+        },
+        {
+          "full_name": "Herlert, A.",
+          "recid": 1959410
+        },
+        {
+          "full_name": "Holt, J.D.",
+          "recid": 1039957
+        },
+        {
+          "full_name": "Karthein, J.",
+          "recid": 1819057
+        },
+        {
+          "full_name": "Lunney, D.",
+          "recid": 999551
+        },
+        {
+          "full_name": "Manea, V.",
+          "recid": 1284195
+        },
+        {
+          "full_name": "Navrátil, P.",
+          "recid": 1943825
+        },
+        {
+          "full_name": "Neidherr, D.",
+          "recid": 2008558
+        },
+        {
+          "full_name": "Rosenbusch, M.",
+          "recid": 1904868
+        },
+        {
+          "full_name": "Schweikhard, L.",
+          "recid": 1925461
+        },
+        {
+          "full_name": "Schwenk, A.",
+          "recid": 1023420
+        },
+        {
+          "full_name": "Somà, V.",
+          "recid": 1032378
+        },
+        {
+          "full_name": "Welker, A.",
+          "recid": 1924800
+        },
+        {
+          "full_name": "Wienholtz, F.",
+          "recid": 1885344
+        },
+        {
+          "full_name": "Wolf, R.N.",
+          "recid": 1925458
+        },
+        {
+          "full_name": "Zuber, K.",
+          "recid": 981928
+        }
+      ],
+      "collaboration": "",
+      "journal": "Phys.Rev.C",
+      "volume": "102",
+      "issue": "1",
+      "pages": "014301",
+      "year": 2020,
+      "doi": "10.1103/PhysRevC.102.014301",
+      "arxiv": "2006.02712",
+      "arxivCategory": "nucl-ex",
+      "citations": 15,
+      "kind": "article",
+      "texkey": "Mougeot:2020mlc",
+      "inspire": "https://inspirehep.net/literature/1799428"
+    },
+    {
+      "id": "1775726",
+      "title": "First glimpse of the $N=82$ shell closure below $Z=50$ from masses of neutron-rich cadmium isotopes and isomers",
+      "authors": [
+        {
+          "full_name": "Manea, V.",
+          "recid": 1284195
+        },
+        {
+          "full_name": "Karthein, J.",
+          "recid": 1819057
+        },
+        {
+          "full_name": "Atanasov, D.",
+          "recid": 1874569
+        },
+        {
+          "full_name": "Bender, M.",
+          "recid": 1016778
+        },
+        {
+          "full_name": "Blaum, K.",
+          "recid": 1057990
+        },
+        {
+          "full_name": "Cocolios, T.E.",
+          "recid": 1907076
+        },
+        {
+          "full_name": "Eliseev, S.",
+          "recid": 1010843
+        },
+        {
+          "full_name": "Herlert, A.",
+          "recid": 1959410
+        },
+        {
+          "full_name": "Holt, J.D.",
+          "recid": 1039957
+        },
+        {
+          "full_name": "Huang, W.J.",
+          "recid": 1914858
+        },
+        {
+          "full_name": "Litvinov, Yu.A.",
+          "recid": 1052588
+        },
+        {
+          "full_name": "Lunney, D.",
+          "recid": 999551
+        },
+        {
+          "full_name": "Menéndez, J.",
+          "recid": 1185829
+        },
+        {
+          "full_name": "Mougeot, M.",
+          "recid": 1925451
+        },
+        {
+          "full_name": "Neidherr, D.",
+          "recid": 2008558
+        },
+        {
+          "full_name": "Schweikhard, L.",
+          "recid": 1925461
+        },
+        {
+          "full_name": "Schwenk, A.",
+          "recid": 1023420
+        },
+        {
+          "full_name": "Simonis, J.",
+          "recid": 1657310
+        },
+        {
+          "full_name": "Welker, A.",
+          "recid": 1924800
+        },
+        {
+          "full_name": "Wienholtz, F.",
+          "recid": 1885344
+        },
+        {
+          "full_name": "Zuber, K.",
+          "recid": 981928
+        }
+      ],
+      "collaboration": "",
+      "journal": "Phys.Rev.Lett.",
+      "volume": "124",
+      "issue": "9",
+      "pages": "092502",
+      "year": 2020,
+      "doi": "10.1103/PhysRevLett.124.092502",
+      "arxiv": "2001.05075",
+      "arxivCategory": "nucl-ex",
+      "citations": 50,
+      "kind": "article",
+      "texkey": "Manea:2020wlw",
+      "inspire": "https://inspirehep.net/literature/1775726"
+    },
+    {
+      "id": "1826779",
+      "title": "Masses of short-lived $^{49}$Sc, $^{50}$Sc, $^{70}$As, $^{73}$Br and stable $^{196}$Hg nuclides",
+      "authors": [
+        {
+          "full_name": "Kulikov, I.",
+          "recid": 2425502
+        },
+        {
+          "full_name": "Algora, A.",
+          "recid": 1060218
+        },
+        {
+          "full_name": "Atanasov, D.",
+          "recid": 1874569
+        },
+        {
+          "full_name": "Ascher, P.",
+          "recid": 1904666
+        },
+        {
+          "full_name": "Blaum, K.",
+          "recid": 1057990
+        },
+        {
+          "full_name": "Cakirli, R.B.",
+          "recid": 1971722
+        },
+        {
+          "full_name": "Herlert, A.",
+          "recid": 1959410
+        },
+        {
+          "full_name": "Huang, W.J.",
+          "recid": 1914858
+        },
+        {
+          "full_name": "Karthein, J.",
+          "recid": 1819057
+        },
+        {
+          "full_name": "Litvinov, Yu.A.",
+          "recid": 1052588
+        },
+        {
+          "full_name": "Lunney, D.",
+          "recid": 999551
+        },
+        {
+          "full_name": "Manea, V.",
+          "recid": 1284195
+        },
+        {
+          "full_name": "Mougeot, M.",
+          "recid": 1925451
+        },
+        {
+          "full_name": "Schweikhard, L.",
+          "recid": 1925461
+        },
+        {
+          "full_name": "Welker, A.",
+          "recid": 1924800
+        },
+        {
+          "full_name": "Wienholtz, F.",
+          "recid": 1885344
+        }
+      ],
+      "collaboration": "",
+      "journal": "Nucl.Phys.A",
+      "volume": "1002",
+      "issue": "",
+      "pages": "121990",
+      "year": 2020,
+      "doi": "10.1016/j.nuclphysa.2020.121990",
+      "arxiv": "2010.15467",
+      "arxivCategory": "nucl-ex",
+      "citations": 1,
+      "kind": "article",
+      "texkey": "Kulikov:2020esq",
+      "inspire": "https://inspirehep.net/literature/1826779"
+    },
+    {
+      "id": "2021452",
+      "title": "Next-Generation Mass Spectrometry of Exotic Isotopes and Isomers",
+      "authors": [
+        {
+          "full_name": "Karthein, Jonas",
+          "recid": 1819057
+        }
+      ],
+      "collaboration": "",
+      "journal": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "year": 2020,
+      "doi": "10.11588/heidok.00028325",
+      "arxiv": "",
+      "arxivCategory": "",
+      "citations": 0,
+      "kind": "thesis",
+      "texkey": "Karthein:2020ous",
+      "inspire": "https://inspirehep.net/literature/2021452"
+    },
+    {
+      "id": "1734913",
+      "title": "Direct decay-energy measurement as a route to the neutrino mass",
+      "authors": [
+        {
+          "full_name": "Karthein, Jonas",
+          "recid": 1819057
+        },
+        {
+          "full_name": "Atanasov, Dinko",
+          "recid": 1874569
+        },
+        {
+          "full_name": "Blaum, Klaus",
+          "recid": 1057990
+        },
+        {
+          "full_name": "Eliseev, Sergey",
+          "recid": 1010843
+        },
+        {
+          "full_name": "Filianin, Pavel",
+          "recid": 1905304
+        },
+        {
+          "full_name": "Lunney, David",
+          "recid": 999551
+        },
+        {
+          "full_name": "Manea, Vladimir",
+          "recid": 1284195
+        },
+        {
+          "full_name": "Mougeot, Maxime",
+          "recid": 1874570
+        },
+        {
+          "full_name": "Neidherr, Dennis",
+          "recid": 2008558
+        },
+        {
+          "full_name": "Novikov, Yuri",
+          "recid": 1905337
+        },
+        {
+          "full_name": "Schweikhard, Lutz",
+          "recid": 1925461
+        },
+        {
+          "full_name": "Welker, Andree",
+          "recid": 1924800
+        },
+        {
+          "full_name": "Wienholtz, Frank",
+          "recid": 1885344
+        },
+        {
+          "full_name": "Zuber, Kai",
+          "recid": 981928
+        }
+      ],
+      "collaboration": "",
+      "journal": "Hyperfine Interact.",
+      "volume": "240",
+      "issue": "1",
+      "pages": "61",
+      "year": 2019,
+      "doi": "10.1007/s10751-019-1601-z",
+      "arxiv": "1905.05510",
+      "arxivCategory": "nucl-ex",
+      "citations": 20,
+      "kind": "proceedings",
+      "texkey": "Karthein:2019fvq",
+      "inspire": "https://inspirehep.net/literature/1734913"
+    },
+    {
+      "id": "1738296",
+      "title": "QEC -value determination for $^{21}$Na$\\rightarrow^{21}$Ne and $^{23}$Mg$\\rightarrow^{23}$Na mirror-nuclei decays using high-precision mass spectrometry with ISOLTRAP at the CERN ISOLDE facility",
+      "authors": [
+        {
+          "full_name": "Karthein, J.",
+          "recid": 1819057
+        },
+        {
+          "full_name": "Atanasov, D.",
+          "recid": 1874569
+        },
+        {
+          "full_name": "Blaum, K.",
+          "recid": 1057990
+        },
+        {
+          "full_name": "Breitenfeldt, M.",
+          "recid": 1063764
+        },
+        {
+          "full_name": "Bondar, V.",
+          "recid": 1960207
+        },
+        {
+          "full_name": "George, Sebastian",
+          "recid": 1008600
+        },
+        {
+          "full_name": "Hayen, L.",
+          "recid": 1764679
+        },
+        {
+          "full_name": "Lunney, D.",
+          "recid": 999551
+        },
+        {
+          "full_name": "Manea, V.",
+          "recid": 1284195
+        },
+        {
+          "full_name": "Mougeot, M.",
+          "recid": 1925451
+        },
+        {
+          "full_name": "Neidherr, D.",
+          "recid": 2008558
+        },
+        {
+          "full_name": "Schweikhard, L.",
+          "recid": 1925461
+        },
+        {
+          "full_name": "Severijns, N.",
+          "recid": 989227
+        },
+        {
+          "full_name": "Welker, A.",
+          "recid": 1924800
+        },
+        {
+          "full_name": "Wienholtz, F.",
+          "recid": 1885344
+        },
+        {
+          "full_name": "Wolf, R.N.",
+          "recid": 1284198
+        },
+        {
+          "full_name": "Zuber, K.",
+          "recid": 981928
+        }
+      ],
+      "collaboration": "",
+      "journal": "Phys.Rev.C",
+      "volume": "100",
+      "issue": "1",
+      "pages": "015502",
+      "year": 2019,
+      "doi": "10.1103/PhysRevC.100.015502",
+      "arxiv": "1906.01538",
+      "arxivCategory": "nucl-ex",
+      "citations": 10,
+      "kind": "article",
+      "texkey": "Karthein:2019bss",
+      "inspire": "https://inspirehep.net/literature/1738296"
+    },
+    {
+      "id": "1480542",
+      "title": "The Cryogenic Storage Ring  CSR",
+      "authors": [
+        {
+          "full_name": "Grieser, Manfred",
+          "recid": 2314883
+        },
+        {
+          "full_name": "Becker, Arno",
+          "recid": 1030490
+        },
+        {
+          "full_name": "Blaum, Klaus",
+          "recid": 1057990
+        },
+        {
+          "full_name": "Breitenfeldt, Christian",
+          "recid": 2426316
+        },
+        {
+          "full_name": "Fellenberger, Florian",
+          "recid": 1077277
+        },
+        {
+          "full_name": "George, Sebastian",
+          "recid": 1008600
+        },
+        {
+          "full_name": "Grussie, Florian",
+          "recid": 2426321
+        },
+        {
+          "full_name": "Göck, Jürgen",
+          "recid": 2426326
+        },
+        {
+          "full_name": "Herwig, Philipp",
+          "recid": 2426336
+        },
+        {
+          "full_name": "Karthein, Jonas",
+          "recid": 1819057
+        },
+        {
+          "full_name": "Krantz, Claude",
+          "recid": 2025749
+        },
+        {
+          "full_name": "Kreckel, Holger",
+          "recid": 2426343
+        },
+        {
+          "full_name": "Lion, Jorrit",
+          "recid": 2426359
+        },
+        {
+          "full_name": "Lohmann, Svenja",
+          "recid": 2426365
+        },
+        {
+          "full_name": "Meyer, Christian",
+          "recid": 997628
+        },
+        {
+          "full_name": "Mishra, Preeti",
+          "recid": 1041681
+        },
+        {
+          "full_name": "Novotny, Oldrich",
+          "recid": 2209842
+        },
+        {
+          "full_name": "O'Connor, Aodh",
+          "recid": 2426378
+        },
+        {
+          "full_name": "Repnow, Roland",
+          "recid": 2330387
+        },
+        {
+          "full_name": "Saurabh, Sunny",
+          "recid": 2426385
+        },
+        {
+          "full_name": "Schippers, Stefan",
+          "recid": 989909
+        },
+        {
+          "full_name": "Schröter, Claus Dieter",
+          "recid": 1077282
+        },
+        {
+          "full_name": "Schwalm, Dirk",
+          "recid": 1037485
+        },
+        {
+          "full_name": "Spruck, Kaija",
+          "recid": 2406657
+        },
+        {
+          "full_name": "Sudhakaran, Sunil Kumar",
+          "recid": 2426391
+        },
+        {
+          "full_name": "Vogel, Stephen",
+          "recid": 2347163
+        },
+        {
+          "full_name": "Wolf, Andreas",
+          "recid": 2135949
+        },
+        {
+          "full_name": "Zajfman, Daniel",
+          "recid": 1077289
+        },
+        {
+          "full_name": "von Hahn, Robert",
+          "recid": 1077285
+        }
+      ],
+      "collaboration": "",
+      "journal": "",
+      "volume": "",
+      "issue": "",
+      "pages": "TUM1C02",
+      "year": 2016,
+      "doi": "10.18429/JACoW-HIAT2015-TUM1C02",
+      "arxiv": "",
+      "arxivCategory": "",
+      "citations": 0,
+      "kind": "proceedings",
+      "texkey": "Grieser:2016hni",
+      "inspire": "https://inspirehep.net/literature/1480542"
+    },
+    {
+      "id": "1467495",
+      "title": "The Cryogenic Storage Ring CSR",
+      "authors": [
+        {
+          "full_name": "von Hahn, Robert",
+          "recid": 2286969
+        },
+        {
+          "full_name": "Becker, Arno",
+          "recid": 1030490
+        },
+        {
+          "full_name": "Berg, Felix",
+          "recid": 2239990
+        },
+        {
+          "full_name": "Blaum, Klaus",
+          "recid": 1057990
+        },
+        {
+          "full_name": "Breitenfeldt, Christian",
+          "recid": 2426316
+        },
+        {
+          "full_name": "Fadil, Hisham",
+          "recid": 2204207
+        },
+        {
+          "full_name": "Fellenberger, Florian",
+          "recid": 2406671
+        },
+        {
+          "full_name": "Froese, Michael",
+          "recid": 2237605
+        },
+        {
+          "full_name": "George, Sebastian",
+          "recid": 1008600
+        },
+        {
+          "full_name": "Göck, Jürgen",
+          "recid": 2426326
+        },
+        {
+          "full_name": "Grieser, Manfred",
+          "recid": 2314883
+        },
+        {
+          "full_name": "Grussie, Florian",
+          "recid": 2426321
+        },
+        {
+          "full_name": "Guerin, Elisabeth A.",
+          "recid": 2436584
+        },
+        {
+          "full_name": "Heber, Oded",
+          "recid": 1077286
+        },
+        {
+          "full_name": "Herwig, Philipp",
+          "recid": 2426336
+        },
+        {
+          "full_name": "Karthein, Jonas",
+          "recid": 1819057
+        },
+        {
+          "full_name": "Krantz, Claude",
+          "recid": 2025749
+        },
+        {
+          "full_name": "Kreckel, Holger",
+          "recid": 2426343
+        },
+        {
+          "full_name": "Lange, Michael",
+          "recid": 1885854
+        },
+        {
+          "full_name": "Laux, Felix",
+          "recid": 1077280
+        },
+        {
+          "full_name": "Lohmann, Svenja",
+          "recid": 2426365
+        },
+        {
+          "full_name": "Menk, Sebastian",
+          "recid": 2306588
+        },
+        {
+          "full_name": "Meyer, Christian",
+          "recid": 997628
+        },
+        {
+          "full_name": "Mishra, Preeti M.",
+          "recid": 2436589
+        },
+        {
+          "full_name": "Novotný, Oldřich",
+          "recid": 2209842
+        },
+        {
+          "full_name": "Connor, Aodh P. O",
+          "recid": 2452149
+        },
+        {
+          "full_name": "Orlov, Dmitry A.",
+          "recid": 2444343
+        },
+        {
+          "full_name": "Rappaport, Michael L.",
+          "recid": 2351649
+        },
+        {
+          "full_name": "Repnow, Roland",
+          "recid": 2330387
+        },
+        {
+          "full_name": "Saurabh, Sunny",
+          "recid": 2426385
+        },
+        {
+          "full_name": "Schippers, Stefan",
+          "recid": 989909
+        },
+        {
+          "full_name": "Schröter, Claus Dieter",
+          "recid": 1077282
+        },
+        {
+          "full_name": "Schwalm, Dirk",
+          "recid": 1037485
+        },
+        {
+          "full_name": "Schweikhard, Lutz",
+          "recid": 1925461
+        },
+        {
+          "full_name": "Sieber, Thomas",
+          "recid": 1977974
+        },
+        {
+          "full_name": "Shornikov, Andrey",
+          "recid": 2192603
+        },
+        {
+          "full_name": "Spruck, Kaija",
+          "recid": 2406657
+        },
+        {
+          "full_name": "Kumar, Sudhakaran Sunil",
+          "recid": 2452151
+        },
+        {
+          "full_name": "Ullrich, Joachim",
+          "recid": 2324544
+        },
+        {
+          "full_name": "Urbain, Xavier",
+          "recid": 2444816
+        },
+        {
+          "full_name": "Vogel, Stephen",
+          "recid": 2347163
+        },
+        {
+          "full_name": "Wilhelm, Patrick",
+          "recid": 2253182
+        },
+        {
+          "full_name": "Wolf, Andreas",
+          "recid": 2135949
+        },
+        {
+          "full_name": "Zajfman, Daniel",
+          "recid": 1077289
+        }
+      ],
+      "collaboration": "",
+      "journal": "Rev.Sci.Instrum.",
+      "volume": "87",
+      "issue": "6",
+      "pages": "063115",
+      "year": 2016,
+      "doi": "10.1063/1.4953888",
+      "arxiv": "1606.01525",
+      "arxivCategory": "physics.atom-ph",
+      "citations": 24,
+      "kind": "article",
+      "texkey": "vonHahn:2016wjl",
+      "inspire": "https://inspirehep.net/literature/1467495"
+    }
+  ]
 }
