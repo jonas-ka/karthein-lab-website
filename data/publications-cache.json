@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-07T10:27:08+00:00",
+  "generated": "2026-09-14T10:45:35+00:00",
   "source": "https://inspirehep.net/authors/1819057",
   "papers": [
     {
@@ -369,7 +369,7 @@
       "doi": "10.1103/hm9t-4pgp",
       "arxiv": "2511.08881",
       "arxivCategory": "physics.ins-det",
-      "citations": 2,
+      "citations": 3,
       "kind": "article",
       "texkey": "Brinson:2025ofw",
       "inspire": "https://inspirehep.net/literature/3082168"
@@ -604,7 +604,7 @@
       "doi": "10.1103/wbdx-k3cd",
       "arxiv": "2504.17060",
       "arxivCategory": "nucl-ex",
-      "citations": 22,
+      "citations": 23,
       "kind": "article",
       "texkey": "Gustafsson:2025xpd",
       "inspire": "https://inspirehep.net/literature/2915255"
@@ -1147,7 +1147,7 @@
       "doi": "10.1103/PhysRevLett.132.162502",
       "arxiv": "2309.02037",
       "arxivCategory": "nucl-ex",
-      "citations": 51,
+      "citations": 52,
       "kind": "article",
       "texkey": "Konig:2023rwe",
       "inspire": "https://inspirehep.net/literature/2693478"
@@ -1786,7 +1786,7 @@
       "doi": "10.1038/s41567-021-01326-9",
       "arxiv": "2109.10673",
       "arxivCategory": "nucl-ex",
-      "citations": 60,
+      "citations": 61,
       "kind": "article",
       "texkey": "Mougeot:2021hvr",
       "inspire": "https://inspirehep.net/literature/1925450"
