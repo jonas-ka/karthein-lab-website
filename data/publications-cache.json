@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-14T10:45:35+00:00",
+  "generated": "2026-09-21T10:48:45+00:00",
   "source": "https://inspirehep.net/authors/1819057",
   "papers": [
     {
@@ -1036,7 +1036,7 @@
       "doi": "10.1103/PhysRevLett.133.033003",
       "arxiv": "2310.11192",
       "arxivCategory": "physics.atom-ph",
-      "citations": 16,
+      "citations": 17,
       "kind": "article",
       "texkey": "Karthein:2023vwr",
       "inspire": "https://inspirehep.net/literature/2711805"
@@ -1414,7 +1414,7 @@
       "doi": "10.1088/1361-6633/ad1e39",
       "arxiv": "2302.02165",
       "arxivCategory": "nucl-ex",
-      "citations": 82,
+      "citations": 83,
       "kind": "article",
       "texkey": "Arrowsmith-Kron:2023hcr",
       "inspire": "https://inspirehep.net/literature/2629753"
