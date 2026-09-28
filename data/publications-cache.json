@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-21T10:48:45+00:00",
+  "generated": "2026-09-28T11:46:17+00:00",
   "source": "https://inspirehep.net/authors/1819057",
   "papers": [
     {
@@ -703,7 +703,7 @@
       "doi": "10.1103/dhbh-12sc",
       "arxiv": "2509.05538",
       "arxivCategory": "nucl-ex",
-      "citations": 3,
+      "citations": 4,
       "kind": "article",
       "texkey": "Lunney:2025amw",
       "inspire": "https://inspirehep.net/literature/2967345"
