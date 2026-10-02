@@ -1,0 +1,1818 @@
+{
+ "profile": {
+  "name": "Prof. Dr. Jonas Karthein",
+  "title": "Assistant Professor",
+  "affiliation": [
+   "Cyclotron Institute / Dep. of Physics & Astronomy",
+   "Texas A&M University"
+  ],
+  "email": "karthein@tamu.edu",
+  "web": "lab.karthein.com",
+  "cv_date": "Sep 2, 2026"
+ },
+ "interests": [
+  "We study the atomic nucleus as a window into physics beyond the Standard Model, combining precision laser spectroscopy, ion trapping and quantum sensing of short-lived isotopes and radioactive molecules. At the Texas A&M Cyclotron Institute we are building the Universal Action Spectrometer, a trap-based platform for background-free laser spectroscopy with single-ion sensitivity, to measure nuclear charge radii and electroweak, parity-violating nuclear properties such as the anapole moment. The lab leads an inaugural DOE Genesis Mission award on differentiable digital twins and AI-driven autonomous operation of precision experiments, runs collaborative experiments at FRIB, Argonne, Los Alamos and CERN/ISOLDE, and co-leads the NEPTUNE collaboration."
+ ],
+ "education": [
+  {
+   "year": 2020,
+   "degree": "Doctor rer. nat.",
+   "field": "Physics",
+   "institution": "Heidelberg University, Germany",
+   "note": "“Summa Cum Laude”; Advisor: Prof. Dr. Klaus Blaum",
+   "thesis": "Next-Generation Mass Spectrometry of Exotic Isotopes and Isomers"
+  },
+  {
+   "year": 2017,
+   "degree": "M.Sc.",
+   "field": "Physics",
+   "institution": "Heidelberg University, Germany",
+   "thesis": "Precision mass measurements using the Phase-Imaging Ion-Cyclotron-Resonance detection technique"
+  },
+  {
+   "year": 2015,
+   "degree": "B.Sc.",
+   "field": "Physics",
+   "institution": "Heidelberg University, Germany"
+  },
+  {
+   "year": 2012,
+   "degree": "Abitur",
+   "field": null,
+   "institution": "Wendalinum Gymnasium, Germany"
+  }
+ ],
+ "positions": [
+  {
+   "start": 2025,
+   "end": null,
+   "text": "Assistant Professor, Texas A&M University, USA",
+   "title": "Assistant Professor",
+   "institution": "Texas A&M University",
+   "country": "USA"
+  },
+  {
+   "start": 2021,
+   "end": 2024,
+   "text": "Humboldt Postdoctoral Fellow, Massachusetts Institute of Technology (MIT), USA",
+   "title": "Humboldt Postdoctoral Fellow",
+   "institution": "Massachusetts Institute of Technology (MIT)",
+   "country": "USA"
+  },
+  {
+   "start": 2017,
+   "end": 2020,
+   "text": "CERN Doctoral Fellow, CERN, Switzerland",
+   "title": "CERN Doctoral Fellow",
+   "institution": "CERN",
+   "country": "Switzerland"
+  },
+  {
+   "start": 2016,
+   "end": 2017,
+   "text": "Master’s Researcher, CERN, Switzerland",
+   "title": "Master’s Researcher",
+   "institution": "CERN",
+   "country": "Switzerland"
+  },
+  {
+   "start": 2012,
+   "end": 2016,
+   "text": "Bachelor’s Researcher, Max Planck Institute for Nuclear Physics, Germany",
+   "title": "Bachelor’s Researcher",
+   "institution": "Max Planck Institute for Nuclear Physics",
+   "country": "Germany"
+  }
+ ],
+ "awards": [
+  {
+   "start": 2025,
+   "end": 2025,
+   "text": "MIT Spot Award, MIT School of Science, USA"
+  },
+  {
+   "start": 2023,
+   "end": 2023,
+   "text": "FRIB Visiting Scholar Award, Facility for Rare Isotope Beams, USA"
+  },
+  {
+   "start": 2022,
+   "end": 2022,
+   "text": "Young Scientist Award, GSI/FAIR (GENCO), Germany"
+  },
+  {
+   "start": 2022,
+   "end": 2022,
+   "text": "Dissertation Award, European Physical Society, Spain"
+  },
+  {
+   "start": 2021,
+   "end": 2021,
+   "text": "MIT Spot Appreciation Award, MIT School of Science, USA"
+  },
+  {
+   "start": 2021,
+   "end": 2021,
+   "text": "Dissertation Award, German Physical Society, Germany"
+  },
+  {
+   "start": 2020,
+   "end": 2020,
+   "text": "Dissertation Award, Wilhelm und Else Heraeus Foundation, Germany"
+  },
+  {
+   "start": 2018,
+   "end": 2018,
+   "text": "Poster Presentation Award, Winter School on Trapped Charged Particles, France"
+  },
+  {
+   "start": 2017,
+   "end": 2017,
+   "text": "Poster Presentation Award, Euroschool on Exotic Beams, France"
+  }
+ ],
+ "teaching": [
+  {
+   "start": 2025,
+   "end": 2025,
+   "text": "PHYS 207 - Don’t Panic #519-524: Electricity & Magnetism for Scientists and Engineers (97 students)"
+  },
+  {
+   "start": 2025,
+   "end": 2025,
+   "text": "PHYS 207 - Don’t Panic #507-512: Electricity & Magnetism for Scientists and Engineers (114 students)"
+  },
+  {
+   "start": 2021,
+   "end": 2021,
+   "text": "Kaufman Teaching Certificate Program, MIT School of Science, USA"
+  },
+  {
+   "start": 2021,
+   "end": 2021,
+   "text": "MIT LEAPS Program Lecturer, MIT, USA"
+  },
+  {
+   "start": 2018,
+   "end": 2018,
+   "text": "Teaching Assistant, Heidelberg University, Germany"
+  }
+ ],
+ "service": [
+  {
+   "start": null,
+   "end": null,
+   "text": "Peer reviewer: Nature (Springer), European Physical Journal A (Springer), Nuclear Physics A (Elsevier), U.S. Department of Energy (DOE SCGSR)",
+   "free_text": true
+  },
+  {
+   "start": 2026,
+   "end": null,
+   "text": "Organizing Committee Leader, 2027 Exotic Beams Summer School, TAMU"
+  },
+  {
+   "start": 2026,
+   "end": 2026,
+   "text": "Outreach Lecture for Texas High School Physics Teachers (MIPEP), TAMU"
+  },
+  {
+   "start": 2026,
+   "end": 2026,
+   "text": "Outreach Event Demonstrations at the Texas A&M Physics and Engineering Festival, TAMU"
+  },
+  {
+   "start": 2026,
+   "end": 2026,
+   "text": "Outreach Lecture to High School Students, Saturday Morning Physics, TAMU"
+  },
+  {
+   "start": 2025,
+   "end": 2026,
+   "text": "Organizing Committee Member, 2026 Exotic Beams Summer School, Oak Ridge National Lab"
+  },
+  {
+   "start": 2025,
+   "end": 2025,
+   "text": "Conference Organizing Committee Member, 2025 Low Energy Community Meeting, TAMU"
+  },
+  {
+   "start": 2025,
+   "end": 2025,
+   "text": "Sole Conference Organizer, Workshop on Precision Measurements with Radioisotopes, TAMU"
+  },
+  {
+   "start": 2021,
+   "end": 2024,
+   "text": "Committee Member, MIT Radiation Protection Committee, USA"
+  },
+  {
+   "start": 2021,
+   "end": 2024,
+   "text": "Environment, Health & Safety Officer, MIT School of Science, USA"
+  },
+  {
+   "start": 2019,
+   "end": 2023,
+   "text": "Collaboration Website Design & Maintenance, www.cern.ch/isoltrap"
+  },
+  {
+   "start": 2017,
+   "end": 2020,
+   "text": "Scientific Outreach, CERN Visitor Program"
+  },
+  {
+   "start": 2014,
+   "end": 2015,
+   "text": "Conference Organizing Committee Leader, 2015 German Physical Society Spring Meeting"
+  }
+ ],
+ "mentoring": [
+  {
+   "group": "Postdoc research advisor",
+   "people": [
+    {
+     "n": 2,
+     "start": 2025,
+     "end": null,
+     "name": "Brooke Rickey",
+     "institution": "TAMU",
+     "project": "trap-based single-ion sensitive laser spectroscopy project"
+    },
+    {
+     "n": 1,
+     "start": 2025,
+     "end": null,
+     "name": "Charlotte König",
+     "institution": "TAMU & MIT",
+     "project": "parity-violation and molecular break-up project"
+    }
+   ]
+  },
+  {
+   "group": "Graduate research advisor",
+   "people": [
+    {
+     "n": 7,
+     "start": 2025,
+     "end": null,
+     "name": "Savannah Limarenko",
+     "institution": "TAMU",
+     "project": "parity-violation and molecular break-up project"
+    },
+    {
+     "n": 6,
+     "start": 2025,
+     "end": null,
+     "name": "Mason Moenter",
+     "institution": "TAMU",
+     "project": "trap-based single-ion sensitive laser spectroscopy project"
+    },
+    {
+     "n": 5,
+     "start": 2025,
+     "end": null,
+     "name": "Nicholas Schnoor",
+     "institution": "TAMU",
+     "project": "trap-based single-ion sensitive laser spectroscopy project"
+    },
+    {
+     "n": 4,
+     "start": 2023,
+     "end": 2024,
+     "name": "Derick Emmanuel Gonzalez-Acevedo",
+     "institution": "MIT",
+     "project": "radio-frequency trap project"
+    },
+    {
+     "n": 3,
+     "start": 2022,
+     "end": 2024,
+     "name": "Haruka Kakioka",
+     "institution": "MIT",
+     "project": "radio-frequency trap and parity violation project"
+    },
+    {
+     "n": 2,
+     "start": 2021,
+     "end": 2024,
+     "name": "Scott Barrow Moroch",
+     "institution": "MIT",
+     "project": "parity violation project",
+     "distinction": "Hertz Fellow 2022"
+    },
+    {
+     "n": 1,
+     "start": 2021,
+     "end": 2024,
+     "name": "Silviu-Marian Udrescu",
+     "institution": "MIT",
+     "project": "parity violation project",
+     "now": "Assistant Professor, Princeton University (from January 2027)",
+     "now_url": "https://phy.princeton.edu/people/silviu-marian-udrescu"
+    }
+   ]
+  },
+  {
+   "group": "Master’s research advisor",
+   "people": [
+    {
+     "n": 2,
+     "start": 2025,
+     "end": 2025,
+     "name": "YeonJun Choi",
+     "institution": "TAMU",
+     "project": "molecular break-up project"
+    },
+    {
+     "n": 1,
+     "start": 2017,
+     "end": 2018,
+     "name": "Timo Steinsberger",
+     "institution": "CERN",
+     "project": "radio-frequency quadrupole trap optimization"
+    }
+   ]
+  },
+  {
+   "group": "Bachelor’s and summer student research advisor",
+   "people": [
+    {
+     "n": 12,
+     "start": 2026,
+     "end": null,
+     "name": "Huy “Henry” Nguyen",
+     "institution": "TAMU",
+     "project": "ML simulation emulator"
+    },
+    {
+     "n": 11,
+     "start": 2026,
+     "end": 2026,
+     "name": "Meg Gillies (REU)",
+     "institution": "TAMU",
+     "project": "CID gas cell"
+    },
+    {
+     "n": 10,
+     "start": 2026,
+     "end": null,
+     "name": "Shreya Kulkarni",
+     "institution": "TAMU",
+     "project": "action spectrometer"
+    },
+    {
+     "n": 9,
+     "start": 2025,
+     "end": null,
+     "name": "Riddhi Chhabra",
+     "institution": "TAMU",
+     "project": "wavelength meter stabilization"
+    },
+    {
+     "n": 8,
+     "start": 2025,
+     "end": null,
+     "name": "Anna Goodson (TREND)",
+     "institution": "TAMU",
+     "project": "laser ion source development"
+    },
+    {
+     "n": 7,
+     "start": 2025,
+     "end": 2026,
+     "name": "Gabe Daniels (TREND)",
+     "institution": "TAMU",
+     "project": "Cyclotron Yield Chart"
+    },
+    {
+     "n": 6,
+     "start": 2025,
+     "end": 2025,
+     "name": "Jack Thomas",
+     "institution": "TAMU",
+     "project": "3D printing of electrodes"
+    },
+    {
+     "n": 5,
+     "start": 2021,
+     "end": 2024,
+     "name": "Andoni Fernandez Chiu",
+     "institution": "MIT",
+     "project": "hardware and control system"
+    },
+    {
+     "n": 4,
+     "start": 2021,
+     "end": 2022,
+     "name": "Juan Antonio Luera",
+     "institution": "MIT",
+     "project": "various sensors and control system"
+    },
+    {
+     "n": 3,
+     "start": 2020,
+     "end": 2021,
+     "name": "Parashar Mohapatra",
+     "institution": "MIT (remote)",
+     "project": "ion-optical simulations",
+     "now": "Senior Electrical Engineer, Joby Aviation"
+    },
+    {
+     "n": 2,
+     "start": 2020,
+     "end": 2021,
+     "name": "Sarah Song",
+     "institution": "CERN (remote)",
+     "project": "realistic buffer gas simulations"
+    },
+    {
+     "n": 1,
+     "start": 2019,
+     "end": 2020,
+     "name": "Adèle Perus",
+     "institution": "CERN",
+     "project": "ion-optical simulations and lab integration"
+    }
+   ]
+  }
+ ],
+ "grants": [
+  {
+   "start": 2026,
+   "end": null,
+   "role": "Lead PI",
+   "title": "DOE Genesis Mission (inaugural award)",
+   "funder": "U.S. Department of Energy, Office of Science",
+   "award": "DE-SC0026653",
+   "amount": null
+  },
+  {
+   "start": 2021,
+   "end": 2025,
+   "role": "Fellow",
+   "title": "Humboldt Postdoctoral Fellowship",
+   "funder": "Alexander von Humboldt Foundation, Germany",
+   "award": null,
+   "amount": null
+  },
+  {
+   "start": 2017,
+   "end": 2020,
+   "role": "Fellow",
+   "title": "CERN Doctoral Scholarship (Gentner Program)",
+   "funder": "German Ministry for Education and Research",
+   "award": null,
+   "amount": null
+  }
+ ],
+ "beamtime": [
+  {
+   "year": 2025,
+   "facility": "FRIB",
+   "kind": "proposal",
+   "role": "Co-author",
+   "id": "FRIB #25015",
+   "topic": "oxygen isotopes for nuclear structure",
+   "outcome": null
+  },
+  {
+   "year": 2025,
+   "facility": "FRIB",
+   "kind": "proposal",
+   "role": "Co-author",
+   "id": "FRIB #25009",
+   "topic": "zirconium isotopes for nuclear structure",
+   "outcome": null
+  },
+  {
+   "year": 2025,
+   "facility": "FRIB",
+   "kind": "proposal",
+   "role": "Co-author",
+   "id": "FRIB #25004",
+   "topic": "francium isotopes for nuclear structure",
+   "outcome": null
+  },
+  {
+   "year": 2023,
+   "facility": "FRIB",
+   "kind": "proposal",
+   "role": "Spokesperson",
+   "id": "FRIB #23006",
+   "topic": "nuclear astrophysics, r-process",
+   "outcome": null
+  },
+  {
+   "year": 2023,
+   "facility": "FRIB",
+   "kind": "proposal",
+   "role": "Spokesperson",
+   "id": "FRIB #23080",
+   "topic": "precision nuclear structure",
+   "outcome": null
+  },
+  {
+   "year": 2023,
+   "facility": "FRIB",
+   "kind": "proposal",
+   "role": "Co-author",
+   "id": "FRIB #23060",
+   "topic": "molecules for astrophysics",
+   "outcome": null
+  },
+  {
+   "year": 2021,
+   "facility": "FRIB",
+   "kind": "proposal",
+   "role": "Spokesperson",
+   "id": "FRIB #21023",
+   "topic": "T-violation",
+   "outcome": null
+  },
+  {
+   "year": 2021,
+   "facility": "FRIB",
+   "kind": "proposal",
+   "role": "Co-author",
+   "id": "FRIB #21015",
+   "topic": "precision nuclear structure",
+   "outcome": null
+  },
+  {
+   "year": 2021,
+   "facility": "CERN",
+   "kind": "proposal",
+   "role": "Co-author",
+   "id": "INTC-P-612",
+   "topic": "precision nuclear structure",
+   "outcome": null
+  },
+  {
+   "year": 2017,
+   "facility": "CERN",
+   "kind": "letter of intent",
+   "role": "Spokesperson",
+   "id": "INTC-I-182",
+   "topic": "Standard Model Tests",
+   "outcome": null
+  }
+ ],
+ "committees": [
+  {
+   "start": 2026,
+   "end": null,
+   "text": "Ph.D. thesis committee member",
+   "institution": null,
+   "candidate": null
+  },
+  {
+   "start": 2026,
+   "end": null,
+   "text": "Master's thesis committee member",
+   "institution": null,
+   "candidate": null
+  },
+  {
+   "start": 2025,
+   "end": 2025,
+   "text": "Dissertation committee",
+   "institution": "University of Jyväskylä, Finland",
+   "candidate": null
+  }
+ ],
+ "publications": [
+  {
+   "group": "Other",
+   "year": 2026,
+   "title": "Reproducible research talks with Typst + Touying, a curated figure library and Claude Code: pipeline, themes, style, recipe (template)",
+   "authors": "Karthein J.",
+   "ref": "GitHub, jonas-ka/talks-repo-template (2026).",
+   "highlight": null,
+   "arxiv": null,
+   "doi": null,
+   "url": "https://github.com/jonas-ka/talks-repo-template",
+   "notes": [],
+   "citations": null,
+   "inspire_id": null,
+   "n": 5
+  },
+  {
+   "group": "Other",
+   "year": 2026,
+   "title": "Karthein Lab Website",
+   "authors": "Karthein J.",
+   "ref": "GitHub, jonas-ka/karthein-lab-website (2026).",
+   "highlight": null,
+   "arxiv": null,
+   "doi": null,
+   "url": "https://github.com/jonas-ka/karthein-lab-website",
+   "notes": [],
+   "citations": null,
+   "inspire_id": null,
+   "n": 4
+  },
+  {
+   "group": "Pre-Peer-Review",
+   "year": "2026",
+   "title": "Nuclear charge radii of aluminum isotopes at the proton drip line",
+   "authors": "Brinson A, Rickey B, Arthuis P, Belley A, Campbell S, …, Karthein J et al.",
+   "ref": "Under Review with Nature Physics.",
+   "highlight": null,
+   "arxiv": "2605.09139",
+   "doi": null,
+   "url": null,
+   "notes": [
+    "Postdoc Dr. Rickey led the experiment and analysis. The results were published in her dissertation."
+   ],
+   "citations": 2,
+   "inspire_id": 3154120,
+   "n": 25
+  },
+  {
+   "group": "Pre-Peer-Review",
+   "year": "2026",
+   "title": "Hadronic parity violation: successes, challenges, and future prospects",
+   "authors": "Gardner S, Karthein J, Meißner UG, Muralidhara G, Navratil P, Snow WM.",
+   "ref": "Under Review with Elsevier for the Encyclopedia of Nuclear Physics.",
+   "highlight": null,
+   "arxiv": "2605.07826",
+   "doi": null,
+   "url": null,
+   "notes": [
+    "Invited review article."
+   ],
+   "citations": 1,
+   "inspire_id": 3153497,
+   "n": 24
+  },
+  {
+   "group": "Peer-Reviewed",
+   "year": "2026",
+   "title": "Hyperfine structures of 4s ²S₁/₂, 5s ²S₁/₂, 3p ²P₁/₂,₃/₂, and mixed nd ²D₃/₂,₅/₂ states in ²⁷Al I",
+   "authors": "Rickey BJ, Brinson A, Chakraborty A, Dockery A, Garcia Ruiz RF, Karthein J et al.",
+   "ref": "Phys. Rev. A 113, 042824 (2026).",
+   "highlight": null,
+   "arxiv": null,
+   "doi": "10.1103/93sv-h6d3",
+   "url": null,
+   "notes": [
+    "Postdoc Dr. Rickey led the experiment, analysis, and publication."
+   ],
+   "citations": null,
+   "inspire_id": null,
+   "n": 23
+  },
+  {
+   "group": "Peer-Reviewed",
+   "year": 2026,
+   "title": "Precision mass measurement of ⁶¹Zn and updated Ft value for conserved vector current tests",
+   "authors": "Giesel PF, Atanasov D, Blaum K, Fischer P, Karthein J et al.",
+   "ref": "Phys. Rev. C 113, 034318 (2026)",
+   "highlight": null,
+   "arxiv": null,
+   "doi": "10.1103/fbf3-nry6",
+   "url": null,
+   "notes": [],
+   "citations": 0,
+   "inspire_id": 3135962,
+   "n": 22
+  },
+  {
+   "group": "Peer-Reviewed",
+   "year": 2026,
+   "title": "Commissioning the Resonant Ionization Spectroscopy Experiment at FRIB",
+   "authors": "Brinson AJ, Rickey BJ, Allmond JM, Dockery A, Chiu AF, …, Karthein J et al.",
+   "ref": "Phys. Rev. Res. 8, 013276 (2026)",
+   "highlight": null,
+   "arxiv": "2511.08881",
+   "doi": "10.1103/hm9t-4pgp",
+   "url": null,
+   "notes": [],
+   "citations": 3,
+   "inspire_id": 3082168,
+   "n": 21
+  },
+  {
+   "group": "Peer-Reviewed",
+   "year": 2025,
+   "title": "Charge radii measurements of exotic tin isotopes in the proximity of N = 50 and N = 82",
+   "authors": "Gustafsson FP, Rodríguez LV, Garcia Ruiz RF, Miyagi T, Bai SW, …, Karthein J et al.",
+   "ref": "Phys. Rev. Lett. 135, 222501 (2025)",
+   "highlight": null,
+   "arxiv": "2504.17060",
+   "doi": "10.1103/wbdx-k3cd",
+   "url": null,
+   "notes": [],
+   "citations": 23,
+   "inspire_id": 2915255,
+   "n": 20
+  },
+  {
+   "group": "Peer-Reviewed",
+   "year": 2025,
+   "title": "Extending the low-Z “border” of the A=100 region of deformation with precision mass spectrometry of ⁹⁶⁻⁹⁸Kr",
+   "authors": "Lunney D, Manea V, Mougeot M, Nies L, Althubiti NA, …, Karthein J et al.",
+   "ref": "Phys. Rev. C 112, 034307 (2025)",
+   "highlight": null,
+   "arxiv": "2509.05538",
+   "doi": "10.1103/dhbh-12sc",
+   "url": null,
+   "notes": [],
+   "citations": 4,
+   "inspire_id": 2967345,
+   "n": 19
+  },
+  {
+   "group": "Peer-Reviewed",
+   "year": 2025,
+   "title": "Variations in the charge radii of indium isotopes between N = 52 and 82",
+   "authors": "Vernon AR, Binnersley CL, Sahoo BK, Billowes J, Bissell ML, …, Karthein J et al.",
+   "ref": "Phys. Rev. C 111, 064325 (2025)",
+   "highlight": "Editor’s Suggestion",
+   "arxiv": null,
+   "doi": "10.1103/physrevc.111.064325",
+   "url": null,
+   "notes": [],
+   "citations": 5,
+   "inspire_id": 2939347,
+   "n": 18
+  },
+  {
+   "group": "Peer-Reviewed",
+   "year": 2024,
+   "title": "Electromagnetic properties of indium isotopes elucidate the doubly magic character of ¹⁰⁰Sn",
+   "authors": "Karthein J, Ricketts CM, Garcia Ruiz RF, Billowes J, Binnersley CL et al.",
+   "ref": "Nature Phys. 20, 1719 (2024)",
+   "highlight": null,
+   "arxiv": "2310.15093",
+   "doi": "10.1038/s41567-024-02612-y",
+   "url": null,
+   "notes": [],
+   "citations": 40,
+   "inspire_id": 2713633,
+   "n": 17
+  },
+  {
+   "group": "Peer-Reviewed",
+   "year": 2024,
+   "title": "Electroweak Nuclear Properties from Single Molecular Ions in a Penning Trap",
+   "authors": "Karthein J, Udrescu SM, Moroch SB, Belosevic I, Blaum K et al.",
+   "ref": "Phys. Rev. Lett. 133, 033003 (2024)",
+   "highlight": null,
+   "arxiv": "2310.11192",
+   "doi": "10.1103/physrevlett.133.033003",
+   "url": null,
+   "notes": [],
+   "citations": 17,
+   "inspire_id": 2711805,
+   "n": 16
+  },
+  {
+   "group": "Peer-Reviewed",
+   "year": 2024,
+   "title": "Nuclear charge radii of silicon isotopes",
+   "authors": "König K, Berengut JC, Borschevsky A, Brinson A, Brown BA, …, Karthein J et al.",
+   "ref": "Phys. Rev. Lett. 132, 162502 (2024)",
+   "highlight": null,
+   "arxiv": "2309.02037",
+   "doi": "10.1103/physrevlett.132.162502",
+   "url": null,
+   "notes": [],
+   "citations": 52,
+   "inspire_id": 2693478,
+   "n": 15
+  },
+  {
+   "group": "Peer-Reviewed",
+   "year": 2024,
+   "title": "Opportunities for Fundamental Physics Research with Radioactive Molecules",
+   "authors": "Arrowsmith-Kron G, Athanasakis-Kaklamanakis M, Au M, Ballof J, Berger R, …, Karthein J et al.",
+   "ref": "Rep. Prog. Phys. 87, 084301 (2024)",
+   "highlight": null,
+   "arxiv": "2302.02165",
+   "doi": "10.1088/1361-6633/ad1e39",
+   "url": null,
+   "notes": [],
+   "citations": 82,
+   "inspire_id": 2629753,
+   "n": 14
+  },
+  {
+   "group": "Peer-Reviewed",
+   "year": 2023,
+   "title": "Isomeric Excitation Energy for 99Inm from Mass Spectrometry Reveals Constant Trend Next to Doubly Magic ¹⁰⁰Sn",
+   "authors": "Nies L, Atanasov D, Athanasakis-Kaklamanakis M, Au M, Blaum K, …, Karthein J et al.",
+   "ref": "Phys. Rev. Lett. 131, 022502 (2023)",
+   "highlight": null,
+   "arxiv": "2306.02033",
+   "doi": "10.1103/physrevlett.131.022502",
+   "url": null,
+   "notes": [],
+   "citations": 23,
+   "inspire_id": 2665711,
+   "n": 13
+  },
+  {
+   "group": "Peer-Reviewed",
+   "year": 2022,
+   "title": "KATRIN background due to surface radioimpurities",
+   "authors": "Fränkle F, Schaller A, Blaum K, Otten E, Bornschein L, …, Karthein J et al.",
+   "ref": "Astropart. Phys. 138, 102686 (2022)",
+   "highlight": null,
+   "arxiv": "2011.05107",
+   "doi": "10.1016/j.astropartphys.2022.102686",
+   "url": null,
+   "notes": [],
+   "citations": 21,
+   "inspire_id": 1829257,
+   "n": 12
+  },
+  {
+   "group": "Peer-Reviewed",
+   "year": 2021,
+   "title": "Mass measurements of ⁹⁹⁻¹⁰¹In challenge ab initio nuclear theory of the nuclide ¹⁰⁰Sn",
+   "authors": "Mougeot M, Atanasov D, Karthein J, Wolf RN, Ascher P et al.",
+   "ref": "Nature Phys. 17, 1099 (2021)",
+   "highlight": null,
+   "arxiv": "2109.10673",
+   "doi": "10.1038/s41567-021-01326-9",
+   "url": null,
+   "notes": [
+    "MM, DA, and JK share first authorship for equal contributions."
+   ],
+   "citations": 61,
+   "inspire_id": 1925450,
+   "n": 11
+  },
+  {
+   "group": "Peer-Reviewed",
+   "year": 2021,
+   "title": "Analysis methods and code for very high-precision mass measurements of unstable isotopes",
+   "authors": "Karthein J, Atanasov D, Blaum K, Lunney D, Manea V, Mougeot M.",
+   "ref": "Comp. Phys. Comm. 267, 108070 (2021)",
+   "highlight": null,
+   "arxiv": "2102.10413",
+   "doi": "10.1016/j.cpc.2021.108070",
+   "url": null,
+   "notes": [],
+   "citations": 4,
+   "inspire_id": 1847752,
+   "n": 10
+  },
+  {
+   "group": "Theses",
+   "year": 2020,
+   "title": "Next-Generation Mass Spectrometry of Exotic Isotopes and Isomers",
+   "authors": "Karthein J.",
+   "ref": "Heidelberg University (2020)",
+   "highlight": null,
+   "arxiv": null,
+   "doi": "10.11588/heidok.00028325",
+   "url": null,
+   "notes": [],
+   "citations": 0,
+   "inspire_id": 2021452,
+   "n": 2
+  },
+  {
+   "group": "Peer-Reviewed",
+   "year": 2020,
+   "title": "Masses of short-lived ⁴⁹Sc, ⁵⁰Sc, ⁷⁰As, ⁷³Br, and stable ¹⁹⁶Hg nuclides",
+   "authors": "Kulikov I, Algora A, Atanasov D, Ascher P, Blaum K, …, Karthein J et al.",
+   "ref": "Nucl. Phys. A 1002, 121990 (2020)",
+   "highlight": null,
+   "arxiv": "2010.15467",
+   "doi": "10.1016/j.nuclphysa.2020.121990",
+   "url": null,
+   "notes": [],
+   "citations": 1,
+   "inspire_id": 1826779,
+   "n": 9
+  },
+  {
+   "group": "Peer-Reviewed",
+   "year": 2020,
+   "title": "Examining the N=28 shell closure through high-precision mass measurements of ⁴⁶⁻⁴⁸Ar",
+   "authors": "Mougeot M, Atanasov D, Barbieri C, Blaum K, Breitenfeld M, …, Karthein J et al.",
+   "ref": "Phys. Rev. C 102, 014301 (2020)",
+   "highlight": null,
+   "arxiv": "2006.02712",
+   "doi": "10.1103/physrevc.102.014301",
+   "url": null,
+   "notes": [],
+   "citations": 15,
+   "inspire_id": 1799428,
+   "n": 8
+  },
+  {
+   "group": "Peer-Reviewed",
+   "year": 2020,
+   "title": "First glimpse of the N=82 shell closure below Z=50 from masses of neutron-rich cadmium isotopes and isomers",
+   "authors": "Manea V, Karthein J, Atanasov D, Bender M, Blaum K et al.",
+   "ref": "Phys. Rev. Lett. 124, 092502 (2020)",
+   "highlight": null,
+   "arxiv": "2001.05075",
+   "doi": "10.1103/physrevlett.124.092502",
+   "url": null,
+   "notes": [
+    "VM and JK share first authorship for equal contributions."
+   ],
+   "citations": 50,
+   "inspire_id": 1775726,
+   "n": 7
+  },
+  {
+   "group": "Other",
+   "year": 2020,
+   "title": "PI-ICR analysis software",
+   "authors": "Karthein J.",
+   "ref": "GitHub, Zenodo (2020).",
+   "highlight": null,
+   "arxiv": null,
+   "doi": null,
+   "url": "https://github.com/jonas-ka/pi-icr-analysis",
+   "notes": [],
+   "citations": null,
+   "inspire_id": null,
+   "n": 3
+  },
+  {
+   "group": "Other",
+   "year": 2019,
+   "title": "Python script to produce publication-ready nuclear chart plots",
+   "authors": "Karthein J.",
+   "ref": "GitHub, jonas-ka/nuclear-chart-plotter (2019).",
+   "highlight": null,
+   "arxiv": null,
+   "doi": null,
+   "url": "https://github.com/jonas-ka/nuclear-chart-plotter",
+   "notes": [],
+   "citations": null,
+   "inspire_id": null,
+   "n": 2
+  },
+  {
+   "group": "Peer-Reviewed",
+   "year": "2019",
+   "title": "Improved stability of multi-reflection time-of-flight mass spectrometers through passive and active voltage stabilization",
+   "authors": "Wienholtz F, Blaum K, Karthein J, Lunney D, Malbrunot-Ettenauer S et al.",
+   "ref": "Nucl. Inst. Meth. Phys. B 463, 348 (2020).",
+   "highlight": null,
+   "arxiv": null,
+   "doi": "10.1016/j.nimb.2019.04.061",
+   "url": null,
+   "notes": [],
+   "citations": null,
+   "inspire_id": null,
+   "n": 6
+  },
+  {
+   "group": "Peer-Reviewed",
+   "year": 2019,
+   "title": "QEC-value determination for ²¹Na→²¹Ne and ²³Mg→²³Na mirror-nuclei decays using high-precision mass spectrometry with ISOLTRAP at ISOLDE/CERN",
+   "authors": "Karthein J, Atanasov D, Blaum K, Breitenfeldt M, Bondar V et al.",
+   "ref": "Phys. Rev. C 100, 015502 (2019)",
+   "highlight": null,
+   "arxiv": "1906.01538",
+   "doi": "10.1103/physrevc.100.015502",
+   "url": null,
+   "notes": [],
+   "citations": 10,
+   "inspire_id": 1738296,
+   "n": 5
+  },
+  {
+   "group": "Peer-Reviewed",
+   "year": 2019,
+   "title": "Direct decay-energy measurement as a route to the neutrino mass",
+   "authors": "Karthein J, Atanasov D, Blaum K, Eliseev S, Filianin P et al.",
+   "ref": "Hyperfine Int. 240, 61 (2019)",
+   "highlight": null,
+   "arxiv": "1905.05510",
+   "doi": "10.1007/s10751-019-1601-z",
+   "url": null,
+   "notes": [],
+   "citations": 20,
+   "inspire_id": 1734913,
+   "n": 4
+  },
+  {
+   "group": "Other",
+   "year": 2019,
+   "title": "MRToF analysis software",
+   "authors": "Karthein J.",
+   "ref": "GitHub (2019).",
+   "highlight": null,
+   "arxiv": null,
+   "doi": null,
+   "url": "https://github.com/jonas-ka/mr-tof-analysis",
+   "notes": [],
+   "citations": null,
+   "inspire_id": null,
+   "n": 1
+  },
+  {
+   "group": "Peer-Reviewed",
+   "year": "2018",
+   "title": "Long-term monitoring of the internal energy distribution of isolated cluster systems",
+   "authors": "Breitenfeldt C, Blaum K, George S, Göck J, Guzmán-Ramírez G, Karthein J, et al.",
+   "ref": "Phys. Rev. Lett. 120, 253001 (2018).",
+   "highlight": null,
+   "arxiv": "1805.11403",
+   "doi": "10.1103/physrevlett.120.253001",
+   "url": null,
+   "notes": [],
+   "citations": null,
+   "inspire_id": null,
+   "n": 3
+  },
+  {
+   "group": "Theses",
+   "year": "2017",
+   "title": "Precision mass measurements using the Phase-Imaging Ion-Cyclotron-Resonance detection technique",
+   "authors": "Karthein J.",
+   "ref": "Heidelberg University (2017)",
+   "highlight": null,
+   "arxiv": null,
+   "doi": "10.17181/cern.yy18.o9qq",
+   "url": null,
+   "notes": [],
+   "citations": null,
+   "inspire_id": null,
+   "n": 1
+  },
+  {
+   "group": "Peer-Reviewed",
+   "year": "2016",
+   "title": "Photodissociation of an Internally Cold Beam of CH+ ions in a Cryogenic Storage Ring",
+   "authors": "O’connor AP, Becker A, Blaum K, Breitenfeldt C, George S, …, Karthein J, et al.",
+   "ref": "Phys. Rev. Lett. 116, 113002 (2016).",
+   "highlight": null,
+   "arxiv": null,
+   "doi": "10.1103/physrevlett.116.113002",
+   "url": null,
+   "notes": [],
+   "citations": null,
+   "inspire_id": null,
+   "n": 2
+  },
+  {
+   "group": "Peer-Reviewed",
+   "year": 2016,
+   "title": "The Cryogenic Storage Ring CSR",
+   "authors": "von Hahn R, Becker A, Berg F, Blaum K, Breitenfeldt C, …, Karthein J et al.",
+   "ref": "Rev. Sc. Instr. 87, 063115 (2016)",
+   "highlight": null,
+   "arxiv": "1606.01525",
+   "doi": "10.1063/1.4953888",
+   "url": null,
+   "notes": [],
+   "citations": 24,
+   "inspire_id": 1467495,
+   "n": 1
+  }
+ ],
+ "presentations": [
+  {
+   "date": "2026-11-05",
+   "ym": "2026/11",
+   "title": "Agentic Digital Twins and Radioactive Molecules at the Texas A&M Cyclotron Institute",
+   "event": "TRIUMF Colloquium",
+   "qualifier": null,
+   "location": "Vancouver, BC, Canada",
+   "type": "colloquium",
+   "id": "2026-11-triumf-colloquium",
+   "upcoming": true,
+   "n": 61
+  },
+  {
+   "date": "2026-10-05",
+   "ym": "2026/10",
+   "title": "Autonomous Nuclear Experiments: Agentic Digital Twins supported by the DOE Genesis Mission",
+   "event": "Texas A&M University System Artificial Intelligence Research & Innovation Meeting",
+   "qualifier": null,
+   "location": "Kyle Field, Texas A&M University, College Station, TX, USA",
+   "type": "poster",
+   "id": "2026-10-tamus-ai-poster",
+   "upcoming": false,
+   "n": 60
+  },
+  {
+   "date": "2026-09-28",
+   "ym": "2026/09",
+   "title": "Digital Twins for Self-Driving Physics Experiments",
+   "event": "AWS",
+   "qualifier": null,
+   "location": "virtual",
+   "type": "seminar",
+   "id": "2026-09-aws",
+   "upcoming": false,
+   "n": 59
+  },
+  {
+   "date": "2026-09-28",
+   "ym": "2026/09",
+   "title": "Fast, Differentiable Simulations for Self-Driving Physics Experiments",
+   "event": "NVIDIA VISION",
+   "qualifier": null,
+   "location": "College Station, TX, USA",
+   "type": "seminar",
+   "id": "2026-09-nvidia-vision",
+   "upcoming": false,
+   "n": 58
+  },
+  {
+   "date": "2026-08",
+   "ym": "2026/08",
+   "title": "Isotope Opportunities at Texas A&M University",
+   "event": "RadIs Workshop",
+   "qualifier": "invited",
+   "location": "Oak Ridge National Laboratory, TN, USA",
+   "type": "invited",
+   "id": "2026-08-radis-workshop",
+   "upcoming": false,
+   "n": 57
+  },
+  {
+   "date": "2026-08",
+   "ym": "2026/08",
+   "title": "Agentic Digital Twins for Autonomous Nuclear Precision Facilities",
+   "event": "NAMO Workshop",
+   "qualifier": "invited",
+   "location": "Argonne National Laboratory, IL, USA",
+   "type": "invited",
+   "id": "2026-08-namo-workshop",
+   "upcoming": false,
+   "n": 56
+  },
+  {
+   "date": "2026-08",
+   "ym": "2026/08",
+   "title": "Agentic Digital Twins for Autonomous Nuclear Precision Facilities",
+   "event": "AI for Nuclear Summit",
+   "qualifier": "invited",
+   "location": "College Station, TX, USA",
+   "type": "invited",
+   "id": "2026-08-ai-nuclear-summit",
+   "upcoming": false,
+   "n": 55
+  },
+  {
+   "date": "2026-08",
+   "ym": "2026/08",
+   "title": "Artificial Intelligence and Machine Learning for Nuclear Physics",
+   "event": "Cyclotron Seminar",
+   "qualifier": null,
+   "location": "College Station, TX, USA",
+   "type": "seminar",
+   "id": "2026-08-cyclotron-seminar",
+   "upcoming": false,
+   "n": 54
+  },
+  {
+   "date": "2026-06",
+   "ym": "2026/06",
+   "title": "Introduction to Nuclear Physics",
+   "event": "Mitchell Institute Physics Enhancement Program (MIPEP)",
+   "qualifier": null,
+   "location": "College Station, TX, USA",
+   "type": "public",
+   "id": "2026-06-mitchell-institute-physics-enhancement",
+   "upcoming": false,
+   "n": 53
+  },
+  {
+   "date": "2026-04",
+   "ym": "2026/04",
+   "title": "Experimental horizons for BSM and electroweak interactions using AMO techniques and rare isotope beams",
+   "event": "Ariel Science Workshop 2026",
+   "qualifier": "Invited Panel",
+   "location": "TRIUMF, Vancouver, BC, Canada",
+   "type": "invited",
+   "id": "2026-04-ariel-science-workshop-2026",
+   "upcoming": false,
+   "n": 52
+  },
+  {
+   "date": "2026-03",
+   "ym": "2026/03",
+   "title": "The mechanics of money - Personal Finance for Physicists",
+   "event": "Cyclotron Seminar",
+   "qualifier": "invited",
+   "location": "College Station, TX, USA",
+   "type": "seminar",
+   "id": "2026-03-cyclotron-seminar",
+   "upcoming": false,
+   "n": 51
+  },
+  {
+   "date": "2026-03",
+   "ym": "2026/03",
+   "title": "Trapped (Radioactive) Molecules -- A New Path for Laser-based Parity Violation Measurements",
+   "event": "APS Global",
+   "qualifier": "invited",
+   "location": "Denver, CO, USA",
+   "type": "invited",
+   "id": "2026-03-aps-global",
+   "upcoming": false,
+   "n": 50
+  },
+  {
+   "date": "2026-02",
+   "ym": "2026/02",
+   "title": "Atoms and Molecules as Windows into the Atomic Nucleus",
+   "event": "Saturday Morning Physics Lecture",
+   "qualifier": "invited",
+   "location": "College Station, TX, USA",
+   "type": "public",
+   "id": "2026-02-saturday-morning-physics-lecture",
+   "upcoming": false,
+   "n": 49
+  },
+  {
+   "date": "2025-10",
+   "ym": "2025/10",
+   "title": "Quantum Sensing of Nuclei",
+   "event": "Seminar Talk IQSE",
+   "qualifier": "invited",
+   "location": "College Station, TX, USA",
+   "type": "seminar",
+   "id": "2025-10-seminar-talk-iqse",
+   "upcoming": false,
+   "n": 48
+  },
+  {
+   "date": "2025-08",
+   "ym": "2025/08",
+   "title": "Quantum Sensing of Nuclei at NEPTUNE",
+   "event": "ArtSci Quantum Research Meeting",
+   "qualifier": null,
+   "location": "College Station, TX, USA",
+   "type": "contributed",
+   "id": "2025-08-artsci-quantum-research-meeting",
+   "upcoming": false,
+   "n": 47
+  },
+  {
+   "date": "2025-08",
+   "ym": "2025/08",
+   "title": "Summary and Findings of Workshop on Precision Measurements of Radioisotopes (Aug. 11-12)",
+   "event": "Low-Energy Community Meeting",
+   "qualifier": null,
+   "location": "College Station, TX, USA",
+   "type": "contributed",
+   "id": "2025-08-low-energy-community-meeting",
+   "upcoming": false,
+   "n": 46
+  },
+  {
+   "date": "2025-08",
+   "ym": "2025/08",
+   "title": "Nuclear Structure Studies at NEPTUNE and Texas A&M Cyclotron Institute",
+   "event": "Workshop on Precision Measurement with Radioisotopes",
+   "qualifier": null,
+   "location": "College Station, TX, USA",
+   "type": "invited",
+   "id": "2025-08-workshop-precision-measurement-radioisotopes",
+   "upcoming": false,
+   "n": 45
+  },
+  {
+   "date": "2025-01",
+   "ym": "2025/01",
+   "title": "Quantum Sensing with Nuclei",
+   "event": "Joint TAMU-UT Quantum Workshop",
+   "qualifier": null,
+   "location": "College Station, TX, USA",
+   "type": "contributed",
+   "id": "2025-01-joint-tamu-ut-quantum",
+   "upcoming": false,
+   "n": 44
+  },
+  {
+   "date": "2024-10",
+   "ym": "2024/10",
+   "title": "Shedding Light on the Doubly Magic Character of 100Sn (N=Z=50)",
+   "event": "APS DNP 2024",
+   "qualifier": null,
+   "location": "Boston, MA, USA",
+   "type": "contributed",
+   "id": "2024-10-aps-dnp-2024",
+   "upcoming": false,
+   "n": 43
+  },
+  {
+   "date": "2024-06",
+   "ym": "2024/06",
+   "title": "Parity-Violating Nuclear Eﬀects From Single Molecules In A Penning Trap with NEPTUNE",
+   "event": "PLATAN24",
+   "qualifier": null,
+   "location": "Jyväskylä, Finland",
+   "type": "contributed",
+   "id": "2024-06-platan24",
+   "upcoming": false,
+   "n": 42
+  },
+  {
+   "date": "2024-03",
+   "ym": "2024/03",
+   "title": "Revealing Unknown Nuclear Properties with Next-Gen Precision Techniques",
+   "event": "Texas A&M Physics Colloquium",
+   "qualifier": "invited colloquium",
+   "location": "College Station, TX, USA",
+   "type": "colloquium",
+   "id": "2024-03-texas-m-physics-colloquium",
+   "upcoming": false,
+   "n": 41
+  },
+  {
+   "date": "2024-02",
+   "ym": "2024/02",
+   "title": "Revealing Unknown Nuclear Properties with Next-Gen Precision Techniques",
+   "event": "Colorado School of Mines Physics Colloquium",
+   "qualifier": "invited colloquium",
+   "location": "Golden, CO, USA",
+   "type": "colloquium",
+   "id": "2024-02-colorado-school-mines-physics",
+   "upcoming": false,
+   "n": 40
+  },
+  {
+   "date": "2024-02",
+   "ym": "2024/02",
+   "title": "Revealing Unknown Nuclear Properties with Next-Gen Precision Techniques",
+   "event": "LBNL Nuclear Physics Seminar",
+   "qualifier": "invited seminar",
+   "location": "Berkeley, CA, USA",
+   "type": "seminar",
+   "id": "2024-02-lbnl-nuclear-physics-seminar",
+   "upcoming": false,
+   "n": 39
+  },
+  {
+   "date": "2023-08",
+   "ym": "2023/08",
+   "title": "Precision Techniques for Pioneering Symmetry and Structure Studies",
+   "event": "Argonne Physics Seminar",
+   "qualifier": "invited seminar",
+   "location": "Lemont, IL, USA",
+   "type": "seminar",
+   "id": "2023-08-argonne-physics-seminar",
+   "upcoming": false,
+   "n": 38
+  },
+  {
+   "date": "2023-08",
+   "ym": "2023/08",
+   "title": "Laser Spectroscopy on Radioactive Molecules",
+   "event": "GAIN23",
+   "qualifier": "invited",
+   "location": "Boston, MA, USA",
+   "type": "invited",
+   "id": "2023-08-gain23",
+   "upcoming": false,
+   "n": 37
+  },
+  {
+   "date": "2023-02",
+   "ym": "2023/02",
+   "title": "Precision Nuclear Experiments using Ion Traps and Lasers at FRIB",
+   "event": "Winter Workshop on Nuclear Dynamics",
+   "qualifier": "invited",
+   "location": "Puerto Vallarta, Mexico",
+   "type": "invited",
+   "id": "2023-02-winter-workshop-nuclear-dynamics",
+   "upcoming": false,
+   "n": 36
+  },
+  {
+   "date": "2023-01",
+   "ym": "2023/01",
+   "title": "Fundamental Symmetries from Precision Experiments using Ion Traps and Lasers",
+   "event": "FRIB Seminar",
+   "qualifier": "invited",
+   "location": "East Lansing, MI, USA",
+   "type": "seminar",
+   "id": "2023-01-frib-seminar",
+   "upcoming": false,
+   "n": 35
+  },
+  {
+   "date": "2022-10",
+   "ym": "2022/10",
+   "title": "Symmetry-violating measurements using single molecular ions in a Penning Trap",
+   "event": "US Long-Range-Plan Workshop for Fundamental Symmetries",
+   "qualifier": "invited",
+   "location": "East Lansing, USA (virtual)",
+   "type": "invited",
+   "id": "2022-10-us-long-range-plan",
+   "upcoming": false,
+   "n": 34
+  },
+  {
+   "date": "2022-10",
+   "ym": "2022/10",
+   "title": "Single Trapped Molecular Ions as Quantum Sensors for Symmetry-Violating Nuclear Properties",
+   "event": "Department of Energy Institutional Review at MIT",
+   "qualifier": null,
+   "location": "Cambridge, MA, USA",
+   "type": "contributed",
+   "id": "2022-10-department-energy-institutional-review",
+   "upcoming": false,
+   "n": 33
+  },
+  {
+   "date": "2022-10",
+   "ym": "2022/10",
+   "title": "High-precision measurements in the direct vicinity of the doubly magic 100Sn(N=Z=50) at ISOLDE/CERN",
+   "event": "EuNPC22",
+   "qualifier": "invited symposium, award",
+   "location": "Santiago de Compostella, Spain",
+   "type": "invited",
+   "id": "2022-10-eunpc22",
+   "upcoming": false,
+   "n": 32
+  },
+  {
+   "date": "2022-09",
+   "ym": "2022/09",
+   "title": "Symmetry-violating nuclear properties from single molecular ions in a Penning trap",
+   "event": "Trapped Charged Particles (TCP22)",
+   "qualifier": null,
+   "location": "Glashütten, Germany",
+   "type": "contributed",
+   "id": "2022-09-trapped-charged-particles-tcp22",
+   "upcoming": false,
+   "n": 31
+  },
+  {
+   "date": "2022-09",
+   "ym": "2022/09",
+   "title": "High-precision mass measurements in the direct vicinity of the doubly magic 100Sn(N=Z=50) at ISOLDE/CERN",
+   "event": "NuSTAR Conference",
+   "qualifier": "invited symposium, award",
+   "location": "Darmstadt, Germany",
+   "type": "invited",
+   "id": "2022-09-nustar-conference",
+   "upcoming": false,
+   "n": 30
+  },
+  {
+   "date": "2022-07",
+   "ym": "2022/07",
+   "title": "Exotic Molecules and Atoms Lab at MIT",
+   "event": "MRTOF Workshop",
+   "qualifier": null,
+   "location": "Darmstadt, Germany",
+   "type": "contributed",
+   "id": "2022-07-mrtof-workshop",
+   "upcoming": false,
+   "n": 29
+  },
+  {
+   "date": "2022-03",
+   "ym": "2022/03",
+   "title": "High-precision mass measurements in the direct vicinity of the doubly magic 100Sn(N=Z=50) at ISOLDE/CERN",
+   "event": "Spring conference of the German Physical Society",
+   "qualifier": "invited symposium",
+   "location": "virtual",
+   "type": "invited",
+   "id": "2022-03-spring-conference-german-physical",
+   "upcoming": false,
+   "n": 28
+  },
+  {
+   "date": "2022-01",
+   "ym": "2022/01",
+   "title": "High-precision mass measurements in the direct vicinity of the doubly magic 100Sn(N=Z=50) at ISOLDE/CERN",
+   "event": "Argonne Physics Seminar",
+   "qualifier": "invited seminar",
+   "location": "virtual",
+   "type": "seminar",
+   "id": "2022-01-argonne-physics-seminar",
+   "upcoming": false,
+   "n": 27
+  },
+  {
+   "date": "2022-01",
+   "ym": "2022/01",
+   "title": "Towards measurements of symmetry-violating nuclear properties using single molecular ions in a Penning trap",
+   "event": "INT Parity Nonconservation II",
+   "qualifier": "invited",
+   "location": "Seattle, WA, USA",
+   "type": "invited",
+   "id": "2022-01-int-parity-nonconservation-ii",
+   "upcoming": false,
+   "n": 26
+  },
+  {
+   "date": "2021-11",
+   "ym": "2021/11",
+   "title": "Parity Violation from Single Molecular Ions in a Penning trap",
+   "event": "Humboldt Networking Conference",
+   "qualifier": null,
+   "location": "virtual",
+   "type": "contributed",
+   "id": "2021-11-humboldt-networking-conference",
+   "upcoming": false,
+   "n": 25
+  },
+  {
+   "date": "2021-10",
+   "ym": "2021/10",
+   "title": "Towards measurements of symmetry-violating nuclear properties using single molecular ions in a Penning trap",
+   "event": "DNP Conference of the American Physical Society",
+   "qualifier": "invited",
+   "location": "virtual",
+   "type": "invited",
+   "id": "2021-10-dnp-conference-american-physical",
+   "upcoming": false,
+   "n": 24
+  },
+  {
+   "date": "2021-08",
+   "ym": "2021/08",
+   "title": "Next-Generation Mass Spectroscopy on Exotic Isotopes and Isomers",
+   "event": "Dissertation award symposium",
+   "qualifier": "invited symposium, award",
+   "location": "German Physical Society (DPG-SMuK), virtual",
+   "type": "invited",
+   "id": "2021-08-dissertation-award-symposium",
+   "upcoming": false,
+   "n": 23
+  },
+  {
+   "date": "2021-08",
+   "ym": "2021/08",
+   "title": "High-precision mass measurements in the direct vicinity of the doubly magic 100Sn(N=Z=50) at ISOLDE/CERN",
+   "event": "Spring conference of the German Physical Society (DPG21)",
+   "qualifier": null,
+   "location": "virtual",
+   "type": "contributed",
+   "id": "2021-08-spring-conference-german-physical",
+   "upcoming": false,
+   "n": 22
+  },
+  {
+   "date": "2021-06",
+   "ym": "2021/06",
+   "title": "Symmetry-violating properties from single molecular ions in a Penning trap",
+   "event": "Opportunities with Radioactive Molecules",
+   "qualifier": "invited",
+   "location": "Massachusetts Institute of Technology, Cambridge, MA, USA",
+   "type": "invited",
+   "id": "2021-06-opportunities-radioactive-molecules",
+   "upcoming": false,
+   "n": 21
+  },
+  {
+   "date": "2021-01",
+   "ym": "2021/01",
+   "title": "Precision Spectroscopy of Single Molecular Ions in a Penning Trap",
+   "event": "CRIS future workshop",
+   "qualifier": null,
+   "location": "virtual",
+   "type": "contributed",
+   "id": "2021-01-cris-future-workshop",
+   "upcoming": false,
+   "n": 20
+  },
+  {
+   "date": "2020-12",
+   "ym": "2020/12",
+   "title": "Next-Generation Mass Spectroscopy on Exotic Isotopes and Isomers",
+   "event": "Dissertation award symposium",
+   "qualifier": "invited symposium, award",
+   "location": "Heidelberg University, Germany",
+   "type": "invited",
+   "id": "2020-12-dissertation-award-symposium",
+   "upcoming": false,
+   "n": 19
+  },
+  {
+   "date": "2020-09",
+   "ym": "2020/09",
+   "title": "High-Precision Mass Measurements of Radionuclides and Their Applications",
+   "event": "MIT Laboratory for Nuclear Science Seminar",
+   "qualifier": "invited seminar",
+   "location": "Massachusetts Institute of Technology, Cambridge, MA, USA",
+   "type": "seminar",
+   "id": "2020-09-mit-laboratory-nuclear-science",
+   "upcoming": false,
+   "n": 18
+  },
+  {
+   "date": "2019-12",
+   "ym": "2019/12",
+   "title": "High-Precision Mass Measurements for Nuclear Structure and Astrophysics Studies",
+   "event": "LBNL Nuclear Physics Forum",
+   "qualifier": "invited seminar",
+   "location": "Lawrence Berkeley National Laboratory, Berkeley, CA, USA",
+   "type": "seminar",
+   "id": "2019-12-lbnl-nuclear-physics-forum",
+   "upcoming": false,
+   "n": 17
+  },
+  {
+   "date": "2019-09",
+   "ym": "2019/09",
+   "title": "ISOLTRAP status",
+   "event": "MATS workshop",
+   "qualifier": null,
+   "location": "Oberwesel, Germany",
+   "type": "contributed",
+   "id": "2019-09-mats-workshop",
+   "upcoming": false,
+   "n": 16
+  },
+  {
+   "date": "2019-07",
+   "ym": "2019/07",
+   "title": "ISOLTRAP’s PI-ICR analysis software",
+   "event": "PI-ICR workshop",
+   "qualifier": null,
+   "location": "MPIK, Heidelberg, Germany",
+   "type": "contributed",
+   "id": "2019-07-pi-icr-workshop",
+   "upcoming": false,
+   "n": 15
+  },
+  {
+   "date": "2019-06",
+   "ym": "2019/06",
+   "title": "Precision Mass Measurements of Mirror Nuclei",
+   "event": "Gordon Research Conference",
+   "qualifier": "invited",
+   "location": "Colby-Sawyer College, New London, NH, USA",
+   "type": "invited",
+   "id": "2019-06-gordon-research-conference",
+   "upcoming": false,
+   "n": 14
+  },
+  {
+   "date": "2019-06",
+   "ym": "2019/06",
+   "title": "Phase-imaging ion-cyclotron-resonance detection with ISOLTRAP at CERN",
+   "event": "National Nuclear Physics Summer School",
+   "qualifier": null,
+   "location": "Yale University, New Haven, CT, USA",
+   "type": "contributed",
+   "id": "2019-06-national-nuclear-physics-summer",
+   "upcoming": false,
+   "n": 13
+  },
+  {
+   "date": "2019-05",
+   "ym": "2019/05",
+   "title": "Direct decay-energy measurement as a route to the neutrino mass",
+   "event": "FAIRness19",
+   "qualifier": null,
+   "location": "Genova, Italy",
+   "type": "contributed",
+   "id": "2019-05-fairness19",
+   "upcoming": false,
+   "n": 12
+  },
+  {
+   "date": "2019-03",
+   "ym": "2019/03",
+   "title": "Probing nuclear isomers using phase-imaging ion-cyclotron-resonance detection with ISOLTRAP at CERN",
+   "event": "ISOLDE seminar",
+   "qualifier": "invited seminar",
+   "location": "CERN, Geneva, Switzerland",
+   "type": "seminar",
+   "id": "2019-03-isolde-seminar",
+   "upcoming": false,
+   "n": 11
+  },
+  {
+   "date": "2019-02",
+   "ym": "2019/02",
+   "title": "High-precision mass measurements for nuclear astrophysics studies using ISOLTRAP/CERN",
+   "event": "Arbeitstreffen Kernphysik",
+   "qualifier": "invited",
+   "location": "Schleching, Germany",
+   "type": "invited",
+   "id": "2019-02-arbeitstreffen-kernphysik",
+   "upcoming": false,
+   "n": 10
+  },
+  {
+   "date": "2018-09",
+   "ym": "2018/09",
+   "title": "Probing nuclear isomers using phase-imaging ion-cyclotron-resonance detection with ISOLTRAP at CERN",
+   "event": "Trapped Charged Particles (TCP18)",
+   "qualifier": null,
+   "location": "Traverse City, MI, USA",
+   "type": "contributed",
+   "id": "2018-09-trapped-charged-particles-tcp18",
+   "upcoming": false,
+   "n": 9
+  },
+  {
+   "date": "2018-09",
+   "ym": "2018/09",
+   "title": "Probing nuclear isomers using phase-imaging ion-cyclotron-resonance detection with ISOLTRAP/CERN",
+   "event": "Measurements with an Advanced Trapping System (MATS)",
+   "qualifier": null,
+   "location": "Hermeskeil, Germany",
+   "type": "contributed",
+   "id": "2018-09-measurements-advanced-trapping-system",
+   "upcoming": false,
+   "n": 8
+  },
+  {
+   "date": "2018-02",
+   "ym": "2018/02",
+   "title": "Phase-imaging ion-cyclotron-resonance detection with ISOLTRAP at CERN",
+   "event": "Spring conference of the German Physical Society (DPG18)",
+   "qualifier": null,
+   "location": "Bochum, Germany",
+   "type": "contributed",
+   "id": "2018-02-spring-conference-german-physical",
+   "upcoming": false,
+   "n": 7
+  },
+  {
+   "date": "2018-01",
+   "ym": "2018/01",
+   "title": "The phase-imaging ion-cyclotron-resonance detection technique used at ISOLTRAP/CERN",
+   "event": "Winter School on Physics with Trapped Charged Particles",
+   "qualifier": "award",
+   "location": "Les Houches, France",
+   "type": "poster",
+   "id": "2018-01-winter-school-physics-trapped",
+   "upcoming": false,
+   "n": 6
+  },
+  {
+   "date": "2017-12",
+   "ym": "2017/12",
+   "title": "The phase-imaging ion-cyclotron-resonance detection technique used at ISOLTRAP/CERN",
+   "event": "ISOLDE workshop",
+   "qualifier": null,
+   "location": "CERN, Geneva, Switzerland",
+   "type": "contributed",
+   "id": "2017-12-isolde-workshop",
+   "upcoming": false,
+   "n": 5
+  },
+  {
+   "date": "2017-08",
+   "ym": "2017/08",
+   "title": "Implementation of the phase-imaging ion-cyclotron-resonance detection technique at ISOLTRAP/CERN",
+   "event": "Euroschool on Exotic Beams",
+   "qualifier": "award",
+   "location": "Cabourg, France",
+   "type": "poster",
+   "id": "2017-08-euroschool-exotic-beams",
+   "upcoming": false,
+   "n": 4
+  },
+  {
+   "date": "2017-04",
+   "ym": "2017/04",
+   "title": "Precision measurements of nuclear ground-state properties with lasers and traps",
+   "event": "MPIK Institutional review",
+   "qualifier": null,
+   "location": "Max Planck Institute for Nuclear Physics, Heidelberg, Germany",
+   "type": "contributed",
+   "id": "2017-04-mpik-institutional-review",
+   "upcoming": false,
+   "n": 3
+  },
+  {
+   "date": "2017-03",
+   "ym": "2017/03",
+   "title": "Implementation of the phase-imaging ion-cyclotron-resonance detection technique at ISOLTRAP/CERN",
+   "event": "Spring conference of the German Physical Society",
+   "qualifier": null,
+   "location": "Mainz, Germany",
+   "type": "contributed",
+   "id": "2017-03-spring-conference-german-physical",
+   "upcoming": false,
+   "n": 2
+  },
+  {
+   "date": "2016-05",
+   "ym": "2016/05",
+   "title": "Order parameter in (un)conventional superconductors",
+   "event": "Solid-state Master’s seminar",
+   "qualifier": null,
+   "location": "Heidelberg University, Germany",
+   "type": "seminar",
+   "id": "2016-05-solid-state-masters-seminar",
+   "upcoming": false,
+   "n": 1
+  }
+ ],
+ "orcid": "0000-0002-4306-9708",
+ "public": true,
+ "updated": "October 2026",
+ "stats": {
+  "publications": 25,
+  "citations": 458,
+  "presentations": 61,
+  "invited": 31
+ }
+}
