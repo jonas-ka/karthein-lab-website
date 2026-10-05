@@ -584,6 +584,21 @@
   {
    "group": "Other",
    "year": 2026,
+   "title": "Karthein Lab document templates and style: Typst themes (slides, posters, lecture notes, CV, lab notebook), palette, matplotlib style, guides",
+   "authors": "Karthein J.",
+   "ref": "GitHub, jonas-ka/lab-templates (2026).",
+   "highlight": null,
+   "arxiv": null,
+   "doi": null,
+   "url": "https://github.com/jonas-ka/lab-templates",
+   "notes": [],
+   "citations": null,
+   "inspire_id": null,
+   "n": 6
+  },
+  {
+   "group": "Other",
+   "year": 2026,
    "title": "Reproducible research talks with Typst + Touying, a curated figure library and Claude Code: pipeline, themes, style, recipe (template)",
    "authors": "Karthein J.",
    "ref": "GitHub, jonas-ka/talks-repo-template (2026).",
@@ -793,7 +808,7 @@
    "doi": "10.1088/1361-6633/ad1e39",
    "url": null,
    "notes": [],
-   "citations": 82,
+   "citations": 83,
    "inspire_id": 2629753,
    "n": 14
   },
@@ -1811,7 +1826,7 @@
  "updated": "October 2026",
  "stats": {
   "publications": 25,
-  "citations": 458,
+  "citations": 459,
   "presentations": 61,
   "invited": 31
  }
