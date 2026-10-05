@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T11:46:17+00:00",
+  "generated": "2026-10-05T12:21:18+00:00",
   "source": "https://inspirehep.net/authors/1819057",
   "papers": [
     {
@@ -1509,7 +1509,7 @@
       "doi": "10.1103/PhysRevLett.131.022502",
       "arxiv": "2306.02033",
       "arxivCategory": "nucl-ex",
-      "citations": 22,
+      "citations": 23,
       "kind": "article",
       "texkey": "Nies:2023bha",
       "inspire": "https://inspirehep.net/literature/2665711"
