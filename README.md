@@ -232,6 +232,10 @@ access-controlled genuinely does belong behind your TAMU Google account.
 If you ever want it here instead, Cloudflare Access can put a login in front of a
 single path (`/internal/*`) on the free tier, restricted to `@tamu.edu` addresses.
 
+The lab's log book, Karthein Lab Notes, is linked the same way ("Lab notes" in the nav):
+`https://notes.lab.karthein.com/` is its private GitHub Pages site, which asks for a GitHub
+sign-in and lets in only members of the lab's team. Nothing from it is shown on this site.
+
 ---
 
 ## File map
