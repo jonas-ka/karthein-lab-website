@@ -1,0 +1,12 @@
+# Files in the repository that are not part of the website (read by wrangler; the site is the rest).
+.git
+.github
+.gitattributes
+.gitignore
+.wrangler
+.assetsignore
+wrangler.jsonc
+README.md
+IMAGES.md
+scripts
+tools

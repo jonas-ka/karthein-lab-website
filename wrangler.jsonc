@@ -1,0 +1,14 @@
+// Cloudflare Workers static-assets deploy of this site. Committed so that every build uses the same
+// settings: `wrangler deploy` (main) no longer has to generate them, and `wrangler versions upload`
+// (branch and pull-request previews) needs them. Same values Cloudflare generated until 2026-10-12.
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "karthein-lab-website",
+  "compatibility_date": "2026-10-06",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "."
+  }
+}

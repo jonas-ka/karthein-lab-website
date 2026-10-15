@@ -6,3 +6,6 @@ __pycache__/
 tools/raw/
 tools/urls-*.json
 tools/originals/
+
+# wrangler
+.wrangler/
