@@ -1096,7 +1096,7 @@
    "qualifier": null,
    "location": "Vancouver, BC, Canada",
    "type": "colloquium",
-   "id": "2026-11-triumf-colloquium",
+   "id": "2611.05.triumf-colloquium",
    "upcoming": true,
    "n": 61
   },
@@ -1108,7 +1108,7 @@
    "qualifier": null,
    "location": "Kyle Field, Texas A&M University, College Station, TX, USA",
    "type": "poster",
-   "id": "2026-10-tamus-ai-poster",
+   "id": "2610.06.tamus-ai-poster",
    "upcoming": false,
    "n": 60
   },
@@ -1120,7 +1120,7 @@
    "qualifier": null,
    "location": "virtual",
    "type": "seminar",
-   "id": "2026-09-aws",
+   "id": "2609.28.aws",
    "upcoming": false,
    "n": 59
   },
@@ -1132,7 +1132,7 @@
    "qualifier": null,
    "location": "College Station, TX, USA",
    "type": "seminar",
-   "id": "2026-09-nvidia-vision",
+   "id": "2609.28.nvidia-vision",
    "upcoming": false,
    "n": 58
   },
