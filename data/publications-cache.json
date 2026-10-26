@@ -1,7 +1,114 @@
 {
-  "generated": "2026-10-19T10:52:59+00:00",
+  "generated": "2026-10-26T11:13:11+00:00",
   "source": "https://inspirehep.net/authors/1819057",
   "papers": [
+    {
+      "id": "3218035",
+      "title": "CREMA: Collinear Resonance for Exotic Molecules and Atoms",
+      "authors": [
+        {
+          "full_name": "Cruz, Fabian C. Pastrana",
+          "recid": 2779416
+        },
+        {
+          "full_name": "Wilkins, Shane G.",
+          "recid": 1652589
+        },
+        {
+          "full_name": "Brinson, Alex J.",
+          "recid": 1073813
+        },
+        {
+          "full_name": "Fischer, Paul",
+          "recid": 2391108
+        },
+        {
+          "full_name": "Flayol, Mathieu",
+          "recid": 1944497
+        },
+        {
+          "full_name": "Gonzalez-Acevedo, Derick",
+          "recid": 2155464
+        },
+        {
+          "full_name": "Hacias, Jackson",
+          "recid": 3212448
+        },
+        {
+          "full_name": "Huskey, Jason",
+          "recid": 3218040
+        },
+        {
+          "full_name": "Kakioka, Haruka",
+          "recid": 3218041
+        },
+        {
+          "full_name": "Kanitz, Carina",
+          "recid": 1937946
+        },
+        {
+          "full_name": "Karthein, Jonas",
+          "recid": 1819057
+        },
+        {
+          "full_name": "Lechner, Simon",
+          "recid": 1000840
+        },
+        {
+          "full_name": "Malbrunot-Ettenauer, Stephan",
+          "recid": 1058077
+        },
+        {
+          "full_name": "Moroch, Scott",
+          "recid": 2168441
+        },
+        {
+          "full_name": "Munoz, Jose M.",
+          "recid": 2111119
+        },
+        {
+          "full_name": "Reiter, Moritz P.",
+          "recid": 1920092
+        },
+        {
+          "full_name": "Reponen, Mikael",
+          "recid": 1062943
+        },
+        {
+          "full_name": "Schweikhard, Lutz",
+          "recid": 1925461
+        },
+        {
+          "full_name": "Udrescu, Silviu M.",
+          "recid": 1885325
+        },
+        {
+          "full_name": "Vernon, Adam R.",
+          "recid": 1889773
+        },
+        {
+          "full_name": "Vilen, Markus",
+          "recid": 1898192
+        },
+        {
+          "full_name": "Garcia Ruiz, Ronald F.",
+          "recid": 1284206
+        }
+      ],
+      "collaboration": "",
+      "journal": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "year": 2026,
+      "doi": "",
+      "arxiv": "2610.30522",
+      "arxivCategory": "nucl-ex",
+      "citations": 0,
+      "kind": "preprint",
+      "texkey": "Cruz:2026doz",
+      "inspire": "https://inspirehep.net/literature/3218035"
+    },
     {
       "id": "3153497",
       "title": "Hadronic parity violation: successes, challenges, and future prospects",
@@ -211,7 +318,7 @@
       "doi": "",
       "arxiv": "2605.09139",
       "arxivCategory": "nucl-ex",
-      "citations": 2,
+      "citations": 3,
       "kind": "preprint",
       "texkey": "Brinson:2026mim",
       "inspire": "https://inspirehep.net/literature/3154120"
@@ -369,7 +476,7 @@
       "doi": "10.1103/hm9t-4pgp",
       "arxiv": "2511.08881",
       "arxivCategory": "physics.ins-det",
-      "citations": 3,
+      "citations": 4,
       "kind": "article",
       "texkey": "Brinson:2025ofw",
       "inspire": "https://inspirehep.net/literature/3082168"
@@ -965,7 +1072,7 @@
       "doi": "10.1038/s41567-024-02612-y",
       "arxiv": "2310.15093",
       "arxivCategory": "nucl-ex",
-      "citations": 40,
+      "citations": 41,
       "kind": "article",
       "texkey": "Karthein:2023ric",
       "inspire": "https://inspirehep.net/literature/2713633"
@@ -1786,7 +1893,7 @@
       "doi": "10.1038/s41567-021-01326-9",
       "arxiv": "2109.10673",
       "arxivCategory": "nucl-ex",
-      "citations": 61,
+      "citations": 62,
       "kind": "article",
       "texkey": "Mougeot:2021hvr",
       "inspire": "https://inspirehep.net/literature/1925450"
