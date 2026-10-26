@@ -582,6 +582,21 @@
  ],
  "publications": [
   {
+   "group": "Pre-Peer-Review",
+   "year": "2026",
+   "title": "CREMA: Collinear Resonance for Exotic Molecules and Atoms",
+   "authors": "Cruz FCP, Wilkins SG, Brinson AJ, Fischer P, Flayol M, …, Karthein J et al.",
+   "ref": "",
+   "highlight": null,
+   "arxiv": "2610.30522",
+   "doi": null,
+   "url": null,
+   "notes": [],
+   "citations": 0,
+   "inspire_id": 3218035,
+   "n": 26
+  },
+  {
    "group": "Other",
    "year": 2026,
    "title": "Karthein Lab document templates and style: Typst themes (slides, posters, lecture notes, CV, lab notebook), palette, matplotlib style, guides",
@@ -639,7 +654,7 @@
    "notes": [
     "Postdoc Dr. Rickey led the experiment and analysis. The results were published in her dissertation."
    ],
-   "citations": 2,
+   "citations": 3,
    "inspire_id": 3154120,
    "n": 25
   },
@@ -703,7 +718,7 @@
    "doi": "10.1103/hm9t-4pgp",
    "url": null,
    "notes": [],
-   "citations": 3,
+   "citations": 4,
    "inspire_id": 3082168,
    "n": 21
   },
@@ -763,7 +778,7 @@
    "doi": "10.1038/s41567-024-02612-y",
    "url": null,
    "notes": [],
-   "citations": 40,
+   "citations": 41,
    "inspire_id": 2713633,
    "n": 17
   },
@@ -855,7 +870,7 @@
    "notes": [
     "MM, DA, and JK share first authorship for equal contributions."
    ],
-   "citations": 61,
+   "citations": 62,
    "inspire_id": 1925450,
    "n": 11
   },
@@ -1825,8 +1840,8 @@
  "public": true,
  "updated": "October 2026",
  "stats": {
-  "publications": 25,
-  "citations": 461,
+  "publications": 26,
+  "citations": 465,
   "presentations": 61,
   "invited": 31
  }
