@@ -21,6 +21,11 @@ plenty; JPG for photos.
 | `assets/img/research/isoltrap.jpg` | Research card image |
 | `assets/img/research/becola.jpg` | Research card image |
 | `assets/img/research/lebit.jpg` | Research card image |
+| `assets/img/projects/neptune-penning-trap-schematic.webp` | NEPTUNE write-up: Penning-trap schematic (PRL 133, 033003) |
+| `assets/img/projects/neptune-mit-apparatus.webp` | NEPTUNE write-up: the apparatus at MIT |
+| `assets/img/projects/neptune-cryogenic-trap.webp` | NEPTUNE write-up: cryogenic Penning trap (shown as a landscape crop) |
+| `assets/img/projects/mrtof-electrodes.webp` | MR-ToF write-up: assembled electrode stacks (wide, full page width) |
+| `assets/img/projects/offline-beamline.webp` | Genesis write-up: the off-line beamline test bed |
 | `assets/img/news/2026-07-summer-presentations.jpg` | Anna and Meg present their summer research projects |
 | `assets/img/news/2026-07-genesis-mission.jpg` | DOE Genesis Mission award |
 | `assets/img/news/2026-06-summer-students.jpg` | Anna, Henry and Meg join us as 2026 summer students |

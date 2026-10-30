@@ -647,6 +647,118 @@ hr { border: 0; border-top: 1px solid var(--rule); margin: 3rem 0; }
   margin-top: .5rem;
 }
 
+/* ---------- research: project write-ups ---------- */
+
+.project {
+  display: grid;
+  gap: clamp(2rem, 5vw, 3.5rem);
+  align-items: start;
+}
+@media (min-width: 900px) {
+  .project { grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr); }
+}
+
+.project__lede {
+  font-size: var(--step-1);
+  line-height: 1.45;
+  color: var(--slate);
+  max-width: var(--measure);
+  margin-bottom: 1.6rem;
+}
+
+.project h3 { font-size: var(--step-1); margin-top: 2.2rem; }
+
+.project__figs { display: grid; gap: 1.75rem; }
+
+.figure { margin: 0; }
+.figure img,
+.figure svg {
+  width: 100%;
+  height: auto;
+  background: #fff;
+  border: 1px solid var(--rule-soft);
+  border-radius: 4px;
+}
+.figure--wide { margin-bottom: clamp(2rem, 4vw, 3rem); }
+/* Plots carry their own white background; give them a little air inside the frame. */
+.figure--plot img { padding: .75rem; }
+.figure--below { margin-top: clamp(2rem, 4vw, 3rem); }
+
+/* Two figures side by side under a project's text, stacking on phones. */
+.figure-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: clamp(1.25rem, 3vw, 2rem);
+  align-items: start;
+  margin-top: clamp(2rem, 4vw, 3rem);
+}
+
+/* Tall photos would outgrow the text beside them: show a landscape crop. */
+.figure--portrait img { aspect-ratio: 4 / 3; object-fit: cover; object-position: 50% 62%; }
+.figure figcaption {
+  margin-top: .6rem;
+  font-size: .85rem;
+  line-height: 1.5;
+  color: var(--slate);
+}
+
+/* Milestones: a thin timeline, dates in the mono "data" face. */
+.milestones {
+  list-style: none;
+  margin: 1.2rem 0 1.6rem;
+  padding: 0;
+  border-left: 2px solid var(--rule);
+  max-width: var(--measure);
+}
+.milestones li { position: relative; padding: 0 0 1.1rem 1.35rem; }
+.milestones li:last-child { padding-bottom: 0; }
+.milestones li::before {
+  content: "";
+  position: absolute;
+  left: -6px; top: .45rem;
+  width: 10px; height: 10px;
+  border-radius: 50%;
+  background: var(--paper);
+  border: 2px solid var(--laser);
+}
+.milestones__when {
+  display: block;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .72rem;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--maroon);
+}
+
+.project__meta {
+  margin: 2rem 0 0;
+  padding-top: 1.2rem;
+  border-top: 1px solid var(--rule-soft);
+  max-width: var(--measure);
+  font-size: .95rem;
+  color: var(--slate);
+}
+.project__meta dt {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: .7rem;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--slate-soft);
+}
+.project__meta dd { margin: .2rem 0 1rem; }
+.project__meta dd:last-child { margin-bottom: 0; }
+
+/* Digital-twin loop diagram (inline SVG on the research page). */
+.twin-loop text { font-family: Archivo, "Helvetica Neue", Arial, sans-serif; fill: var(--ink); }
+.twin-loop .label { font-size: 13px; fill: var(--slate); }
+.twin-loop .title { font-size: 16px; font-weight: 600; }
+.twin-loop .box { fill: var(--paper-2); stroke: var(--rule); }
+.twin-loop .person { fill: #fff; stroke: var(--rule); }
+.twin-loop .up { stroke: var(--laser); fill: none; stroke-width: 2.5; }
+.twin-loop .down { stroke: var(--maroon-lift); fill: none; stroke-width: 2.5; }
+.twin-loop .up-text { fill: var(--laser); }
+.twin-loop .down-text { fill: var(--maroon-lift); }
+
 /* ---------- publications ---------- */
 
 .pub-toolbar {
