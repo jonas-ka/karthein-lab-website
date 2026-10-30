@@ -47,6 +47,7 @@ TARGETS = {
     "news": 640,        # 320px column
     "people": 520,      # 260px card
     "research": 800,    # 400px card
+    "projects": 1600,   # research-page figures; the widest spans the 1120px page
     "_hero": 2240,      # full page width, 1120px
 }
 
@@ -338,6 +339,11 @@ def main() -> int:
         return 0
 
     fixed = update_references(renames)
+    # Merge, don't overwrite: a run only sees the images it just converted,
+    # and the ones optimised on earlier runs still need their sizes.
+    if MANIFEST.exists():
+        sizes = {**json.loads(MANIFEST.read_text(encoding="utf-8")), **sizes}
+    sizes = {k: v for k, v in sorted(sizes.items()) if (ROOT / k).exists()}
     MANIFEST.write_text(json.dumps(sizes, indent=2) + "\n", encoding="utf-8")
 
     print(f"\n✓ {len(rows)} images optimised")

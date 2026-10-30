@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Research — Karthein Lab</title>
-<meta name="description" content="Quantum sensing with single molecular ions, stored ions for nuclear science, and precision experiments at FRIB and CERN-ISOLDE.">
+<meta name="description" content="Quantum sensing with single molecular ions (NEPTUNE), MR-ToF action spectroscopy of rare isotopes, AI digital twins under the DOE Genesis Mission, and precision experiments at FRIB and CERN-ISOLDE.">
 <link rel="canonical" href="https://lab.karthein.com/research.html">
 
 <link rel="icon" href="assets/img/logo.png" type="image/png">
@@ -107,12 +107,13 @@
             trap holds one molecular ion; entangled states amplify symmetry-violating signals by
             more than twelve orders of magnitude over the equivalent measurement in atoms.
           </p>
+          <a class="card__link" href="#neptune">More below ↓</a>
         </div>
       </li>
 
       <li class="card">
         <div class="card__media" data-fallback="Stored ions">
-          <img src="assets/img/research/stored-ions.jpg" alt="" loading="lazy" data-retry>
+          <img src="assets/img/research/stored-ions.webp" alt="" loading="lazy" data-retry>
         </div>
         <div class="card__body">
           <h3>Stored ions for nuclear science</h3>
@@ -121,12 +122,13 @@
             rare isotopes, including a laser-spectroscopy MRTOF (MRTOF-LS) being built on campus
             for species produced in vanishingly small quantities.
           </p>
+          <a class="card__link" href="#mrtof">More below ↓</a>
         </div>
       </li>
 
       <li class="card">
         <div class="card__media" data-fallback="AI experiment control">
-          <img src="assets/img/research/ai-digital-twin.jpg" alt="" loading="lazy" data-retry>
+          <img src="assets/img/research/ai-digital-twin.webp" alt="" loading="lazy" data-retry>
         </div>
         <div class="card__body">
           <h3>AI-driven experiment control</h3>
@@ -135,9 +137,360 @@
             for nuclear physics experiments, aimed at getting more science out of scarce national
             beamtime.
           </p>
+          <a class="card__link" href="#genesis">More below ↓</a>
         </div>
       </li>
     </ul>
+  </section>
+
+  <!-- ===================== NEPTUNE ===================== -->
+
+  <section class="wrap section section--tight" id="neptune" aria-labelledby="neptune-heading">
+    <div class="section__head">
+      <div class="spectrum spectrum--short" role="presentation"></div>
+      <span class="eyebrow">Project · Fundamental symmetries</span>
+      <h2 id="neptune-heading">NEPTUNE</h2>
+    </div>
+
+    <div class="project">
+      <div>
+        <p class="project__lede">
+          Single molecular ions in a Penning trap as quantum sensors for the weak interaction
+          inside the atomic nucleus.
+        </p>
+
+        <div class="prose">
+          <p>
+            The weak interaction does not respect mirror symmetry: it mixes nuclear and atomic
+            states of opposite parity. Inside the nucleus it leaves a tiny trace, the nuclear
+            anapole moment, that has been measured in exactly one atom, <sup>133</sup>Cs, in
+            1997. That result disagrees with the nuclear data, and no new atomic measurement has
+            been made in almost thirty years.
+          </p>
+          <p>
+            The signal grows as the two mixed levels approach each other. In atoms they sit
+            about 1&nbsp;eV apart; in molecules, rotational levels of opposite parity are only
+            about 10&nbsp;µeV apart, and a magnetic field can tune them to an exact crossing.
+            The effect also grows with the size of the nucleus, and pear-shaped (octupole-deformed)
+            nuclei add further amplification, which points to heavy, radioactive molecules.
+          </p>
+          <p>
+            NEPTUNE does this with a single molecular ion held in a Penning trap. The trap's
+            magnetic field brings two opposite-parity levels to a crossing (for SiO<sup>+</sup>
+            near 1.53&nbsp;T), a small electric field mixes them, and state-selective laser
+            ionisation reads out the mixing. Single-ion techniques already work at rare-isotope
+            facilities at rates below one ion every half hour, and we expect a statistical
+            sensitivity of about 10&nbsp;% on the parity-violating matrix element within one
+            week of measurement.
+          </p>
+          <p>
+            Seeing a single ion takes a quiet environment. The trap is cooled to 4&nbsp;K, and the
+            ion's motion is picked up through the tiny current it induces in the trap electrodes,
+            using a superconducting resonator and a SQUID amplifier.
+          </p>
+        </div>
+
+        <h3>Where we stand</h3>
+        <ol class="milestones">
+          <li>
+            <span class="milestones__when">2024</span>
+            Concept and full uncertainty budget published in Physical Review Letters.
+          </li>
+          <li>
+            <span class="milestones__when">2025</span>
+            Cryogenic Penning trap with three compensation electrodes, and ppm-stable power
+            supplies, built with the group of Klaus Blaum at MPIK Heidelberg. First SQUID signal.
+          </li>
+          <li>
+            <span class="milestones__when">2026</span>
+            Proof-of-principle setup in Ronald Garcia Ruiz's lab at MIT: resonance-ionisation
+            spectroscopy of SiO<sup>+</sup> under way; final superconducting NbTi detection
+            resonator (2,340 windings) characterised at room temperature and at 4&nbsp;K.
+          </li>
+          <li>
+            <span class="milestones__when">Next</span>
+            A proof-of-principle parity-violation measurement, then NEPTUNE moves to the
+            Cyclotron Institute for radioactive molecules.
+          </li>
+        </ol>
+
+        <dl class="project__meta">
+          <dt>Key paper</dt>
+          <dd>
+            J. Karthein <em>et al.</em>, Electroweak nuclear properties from single molecular
+            ions in a Penning trap, Phys. Rev. Lett. 133, 033003 (2024) ·
+            <a href="https://doi.org/10.1103/PhysRevLett.133.033003" rel="noopener">journal</a> ·
+            <a href="https://arxiv.org/abs/2310.11192" rel="noopener">arXiv</a>
+          </dd>
+          <dt>In the lab</dt>
+          <dd>
+            <a href="people.html">Charlotte König</a> (at MIT) and
+            <a href="people.html">Savannah Limarenko</a>, with collaborators at MIT and MPIK.
+          </dd>
+        </dl>
+      </div>
+
+      <div class="project__figs">
+        <figure class="figure">
+          <img src="assets/img/projects/neptune-penning-trap-schematic.webp" alt="Schematic of a Penning trap: hyperbolic electrodes around a diatomic molecular ion, magnetic field lines running through the trap, a voltage source across the electrodes, and a laser beam aimed at the molecule." loading="lazy" data-retry>
+          <figcaption>
+            One molecular ion in a Penning trap. The magnetic field tunes two opposite-parity
+            levels to a crossing, a small electric field mixes them, and a laser reads out the
+            mixing. From Karthein <em>et al.</em>, PRL 133, 033003 (2024).
+          </figcaption>
+        </figure>
+        <figure class="figure">
+          <img src="assets/img/projects/neptune-mit-apparatus.webp" alt="Laboratory photograph of a vacuum beamline on aluminium framing, with a large white cylindrical superconducting magnet labelled NEPTUNE and a rack labelled Molecular Source Controls." loading="lazy" data-retry>
+          <figcaption>The NEPTUNE apparatus in the Garcia Ruiz lab at MIT.</figcaption>
+        </figure>
+        <figure class="figure figure--portrait">
+          <img src="assets/img/projects/neptune-cryogenic-trap.webp" alt="Copper cryogenic ion-trap assembly hanging below a large stainless-steel vacuum flange, with gold SMA feedthroughs and thermometry wiring." loading="lazy" data-retry>
+          <figcaption>The cryogenic Penning trap, built with MPIK Heidelberg.</figcaption>
+        </figure>
+      </div>
+    </div>
+
+    <div class="figure-row">
+      <figure class="figure figure--plot">
+        <img src="assets/img/projects/neptune-sio-level-crossing.webp" alt="Plot of energy in gigahertz, 20.5 to 22.5, against magnetic field in tesla, 1.50 to 1.58, for SiO+: a rising solid line for the positive-parity state and a falling dash-dotted line for the negative-parity state cross near 1.53 tesla, marked Superposition." loading="lazy" data-retry>
+        <figcaption>
+          Two opposite-parity levels of SiO<sup>+</sup> cross near 1.53&nbsp;T. At the
+          crossing the states mix, which amplifies the parity-violating signal.
+        </figcaption>
+      </figure>
+      <figure class="figure figure--plot">
+        <img src="assets/img/projects/neptune-squid-test.webp" alt="Plot of signal in volts against time in seconds: a small triangular input signal in blue and the SQUID output in orange, with sharp periodic peaks up to about 2.3 volts." loading="lazy" data-retry>
+        <figcaption>
+          First signal from the cryogenic SQUID amplifier (November 2025): its periodic
+          response to a triangular input current.
+        </figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <!-- ===================== MR-ToF ===================== -->
+
+  <section class="wrap section section--tight" id="mrtof" aria-labelledby="mrtof-heading">
+    <div class="section__head">
+      <div class="spectrum spectrum--short" role="presentation"></div>
+      <span class="eyebrow">Project · Laser spectroscopy of rare isotopes</span>
+      <h2 id="mrtof-heading">MR-ToF action spectrometer</h2>
+    </div>
+
+    <figure class="figure figure--wide">
+      <img src="assets/img/projects/mrtof-electrodes.webp" alt="The assembled MR-ToF on a lab bench: two stacks of ring electrodes at either end of a long steel drift tube, mounted on a rail labelled MRTOF." loading="lazy" data-retry>
+      <figcaption>
+        The assembled MR-ToF: an electrostatic ion mirror at each end, the drift section in
+        between. Designed, simulated and built at Texas A&amp;M.
+      </figcaption>
+    </figure>
+
+    <p class="project__lede">
+      Laser spectroscopy that counts ions instead of photons, for atoms and molecules made only
+      a few at a time.
+    </p>
+
+    <div class="prose">
+      <p>
+        A multi-reflection time-of-flight (MR-ToF) device traps ions between two electrostatic
+        mirrors. After hundreds of reflections, ions of almost the same mass arrive at different
+        times, with a resolving power m/Δm above 100,000. We run it as an
+        <em>action spectrometer</em>: a laser drives a resonance (photodissociation of a
+        molecular ion, or resonance ionisation of an atom), and the product has a different
+        mass, so it leaves the time-of-flight peak of its parent. Only ions that are both
+        resonant and mass-resolved reach the detector, which gives zero background at any rate,
+        down to single ions.
+      </p>
+      <p>
+        The spectrometer, two mirrors of six ring electrodes each around a 0.4&nbsp;m drift
+        section, sits on our off-line beamline at the Cyclotron Institute. A supersonic-expansion
+        laser-ablation source (first ions in December 2025) feeds it through 3D-printed
+        quadrupole benders, with lasers from the infrared to the ultraviolet. Commissioning with
+        stable beam is under way, and we are aiming for a first trapped-ion mass spectrum by the
+        end of 2026.
+      </p>
+      <p>
+        At rare-isotope facilities, the gas cells that stop the beam also release many molecular
+        ions (CO<sup>+</sup>, O<sub>2</sub><sup>+</sup>, NO<sup>+</sup>, SiO<sup>+</sup> and
+        more) at nearly the same mass as the isotope of interest. A collision-induced
+        dissociation cell behind a thin silicon-nitride window breaks them up before the
+        spectrometer, or can be bypassed when the molecules are what we want to study.
+      </p>
+      <p>
+        The first science case is oxygen, the only proton-magic element never studied by laser
+        spectroscopy: <sup>14,15</sup>O from the new Low-Energy Research Area at the Cyclotron
+        Institute, and <sup>19–24</sup>O at FRIB.
+      </p>
+    </div>
+
+    <div class="figure-row">
+      <figure class="figure figure--plot">
+        <img src="assets/img/projects/mrtof-trajectories.svg" alt="Simulation of the MR-ToF seen from the side: red bands at both ends are the reflecting mirror electrodes, blue bands next to them focusing lenses, and a bundle of dark ion paths runs back and forth between the mirrors along the axis." loading="lazy" data-retry>
+        <figcaption>
+          Simulated ions bouncing between the two mirrors, drawn over the electric potential
+          (red positive, blue negative).
+        </figcaption>
+      </figure>
+      <figure class="figure figure--plot">
+        <img src="assets/img/projects/mrtof-separation-simulation.webp" alt="Line plot of net distance travelled in metres against time in microseconds: three nearly straight lines reach about 9.4 metres for O+, 8.1 metres for Si+ and 6.6 metres for SiO+ after 100 microseconds." loading="lazy" data-retry>
+        <figcaption>
+          Simulated flight of O<sup>+</sup>, Si<sup>+</sup> and SiO<sup>+</sup> in the
+          MR-ToF: heavier ions cover less distance in the same time, so the species pull apart
+          over many reflections.
+        </figcaption>
+      </figure>
+    </div>
+
+    <dl class="project__meta">
+      <dt>In the lab</dt>
+      <dd>
+        <a href="people.html">Brooke Rickey</a>, <a href="people.html">Nick Schnoor</a> and
+        <a href="people.html">Mason Moenter</a>.
+      </dd>
+    </dl>
+  </section>
+
+  <!-- ===================== Genesis ===================== -->
+
+  <section class="wrap section section--tight" id="genesis" aria-labelledby="genesis-heading">
+    <div class="section__head">
+      <div class="spectrum spectrum--short" role="presentation"></div>
+      <span class="eyebrow">Project · AI for experiments</span>
+      <h2 id="genesis-heading">Agentic digital twins: the DOE Genesis Mission</h2>
+    </div>
+
+    <div class="project">
+      <div>
+        <p class="project__lede">
+          Getting more science out of every hour of beamtime.
+        </p>
+
+        <div class="prose">
+          <p>
+            The Genesis Mission is the Department of Energy's national initiative to speed up
+            U.S. science with AI. Our Phase&nbsp;I project, which started on September 1, 2026,
+            takes on the challenge of increasing experimental capacity at nuclear research
+            facilities, with a team from Texas A&amp;M, MIT, Argonne National Laboratory and
+            FRIB.
+          </p>
+          <p>
+            Precision nuclear experiments are the opposite of big data. A setup runs a few times
+            a year, an experiment produces kilobytes, beamtime costs tens of thousands of dollars
+            an hour, and around a hundred parameters are tuned by hand, often by tired operators
+            in the middle of the night. Temperature drifts shift the measurement, beam is lost
+            and has to be found again, and scans spend most of their time where there is no
+            signal.
+          </p>
+          <p>
+            Our answer is a <em>digital twin</em>: not a 3D visualisation, but a fast physics
+            model of the experiment that stays in sync with it. Measurements flow into the model,
+            which re-fits its physical parameters; the model sends better settings back through
+            the control system; the operator supervises and sets the goals. The Phase&nbsp;I
+            target is a demonstrated two-fold gain in experimental capacity, by tuning the beam
+            automatically and holding the trap's timing steady against lab temperature.
+          </p>
+        </div>
+
+        <h3>Building blocks</h3>
+        <div class="prose">
+          <ul>
+            <li>
+              <strong>FastSims</strong>, our ion-optics simulation code, written in PyTorch:
+              vectorised, differentiable and built for GPUs, running on the Texas A&amp;M
+              VISION supercomputer. Geometries are Python classes, existing COMSOL, SIMION and
+              STEP models can be imported, and simulations are set up through a code agent
+              rather than a graphical interface. It handles DC and RF fields, buffer gas, image
+              charges and Coulomb interactions.
+            </li>
+            <li>
+              <strong>AI surrogate models</strong>, trained on FastSims output, predict the beam
+              in milliseconds instead of minutes, so a whole beamline can be optimised in
+              seconds.
+            </li>
+            <li>
+              <strong>EPICS</strong>, the control system of accelerator facilities. Every
+              voltage and sensor on our beamline is a process variable, and the twin uses the
+              same channel map and safety limits as the hardware. Live beam optimisation from
+              simulation to the real machine is being implemented at MIT and at Texas A&amp;M.
+            </li>
+          </ul>
+        </div>
+
+        <dl class="project__meta">
+          <dt>Read more</dt>
+          <dd>
+            J. M. Muñoz-Arias <em>et al.</em>, A differentiable surrogate for loss-dominated ion
+            beam transport (2026) ·
+            <a href="https://arxiv.org/abs/2610.08877" rel="noopener">arXiv</a>
+          </dd>
+          <dd>
+            On the award: <a href="https://artsci.tamu.edu/news/2026/07/accelerating-science-through-artificial-intelligence.html" rel="noopener">Cyclotron Institute press release</a> ·
+            <a href="https://stories.tamu.edu/news/2026/07/27/texas-am-university-joins-the-genesis-mission-to-transform-science-using-artificial-intelligence/" rel="noopener">Texas A&amp;M press release</a>
+          </dd>
+        </dl>
+      </div>
+
+      <div class="project__figs">
+        <figure class="figure">
+          <svg class="twin-loop" viewBox="0 0 480 320" role="img" aria-labelledby="twin-loop-title twin-loop-desc">
+            <title id="twin-loop-title">The digital-twin loop</title>
+            <desc id="twin-loop-desc">Two boxes side by side: the experiment on the left and its digital twin on the right. An arrow from the experiment to the twin carries measurements, which the model uses to re-fit its parameters. An arrow back from the twin to the experiment carries better settings, sent through the EPICS control system. Between them, the operator supervises and sets goals.</desc>
+            <defs>
+              <marker id="arrow-up" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+                <path d="M0,0 L10,5 L0,10 z" fill="#6e3ff3"/>
+              </marker>
+              <marker id="arrow-down" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+                <path d="M0,0 L10,5 L0,10 z" fill="#7d1f2b"/>
+              </marker>
+            </defs>
+
+            <path class="up" d="M95 118 C 140 60, 340 60, 385 118" marker-end="url(#arrow-up)"/>
+            <text class="label up-text" x="240" y="36" text-anchor="middle">measurements</text>
+            <text class="label up-text" x="240" y="54" text-anchor="middle">→ the model re-fits itself</text>
+
+            <rect class="box" x="20" y="125" width="150" height="80" rx="6"/>
+            <text class="title" x="95" y="160" text-anchor="middle">The experiment</text>
+            <text class="label" x="95" y="182" text-anchor="middle">ions, lasers, detectors</text>
+
+            <rect class="box" x="310" y="125" width="150" height="80" rx="6"/>
+            <text class="title" x="385" y="160" text-anchor="middle">Its digital twin</text>
+            <text class="label" x="385" y="182" text-anchor="middle">fast physics model</text>
+
+            <rect class="person" x="190" y="142" width="100" height="46" rx="6"/>
+            <text class="label" x="240" y="161" text-anchor="middle">operator</text>
+            <text class="label" x="240" y="178" text-anchor="middle">sets the goals</text>
+
+            <path class="down" d="M385 212 C 340 270, 140 270, 95 212" marker-end="url(#arrow-down)"/>
+            <text class="label down-text" x="240" y="286" text-anchor="middle">better settings</text>
+            <text class="label down-text" x="240" y="304" text-anchor="middle">through the control system (EPICS)</text>
+          </svg>
+          <figcaption>
+            A digital twin is a fast model of the machine that stays in sync with it, rather
+            than one used only before the experiment.
+          </figcaption>
+        </figure>
+        <figure class="figure">
+          <img src="assets/img/projects/offline-beamline.webp" alt="Stainless-steel ultra-high-vacuum beamline with cross chambers, orange high-voltage cabling and turbomolecular pumps on an aluminium frame, with a tool board and whiteboard behind." loading="lazy" data-retry>
+          <figcaption>
+            Our off-line beamline at the Cyclotron Institute is the test bed: every element is
+            network-controlled, logged and simulated.
+          </figcaption>
+        </figure>
+      </div>
+    </div>
+
+    <figure class="figure figure--below">
+      <picture>
+        <!-- People who ask for reduced motion get the last frame as a still. -->
+        <source srcset="assets/img/projects/digital-twin-still.webp" media="(prefers-reduced-motion: reduce)">
+        <img src="assets/media/digital-twin.gif" alt="Animation in three acts over the layout of our beamline. First, one electrode after the other from the ion source to the MR-ToF is set to 1 volt, and the potential it creates glows around it. Second, 300 silicon ions fly through the beamline, leaving red trails. Third, nine checkpoints light up one after the other, each showing the simulated beam spot in blue and the AI model's prediction in red; both transmissions fall from 100 percent at the start to 58 percent simulated and 55 percent predicted at the MR-ToF." loading="lazy">
+      </picture>
+      <figcaption>
+        The digital twin of our beamline, in three steps: the field of each electrode from the
+        ion source to the MR-ToF, ion trajectories through the whole line, and beam spots at nine
+        checkpoints, simulated (blue) against the AI model's prediction (red).
+      </figcaption>
+    </figure>
   </section>
 
   <section class="wrap section section--tight" aria-labelledby="facilities-heading">

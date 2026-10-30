@@ -1,4 +1,44 @@
 {
+  "assets/img/projects/digital-twin-still.webp": [
+    1600,
+    950
+  ],
+  "assets/img/projects/mrtof-electrodes.webp": [
+    1600,
+    478
+  ],
+  "assets/img/projects/mrtof-separation-simulation.webp": [
+    573,
+    455
+  ],
+  "assets/img/projects/neptune-cryogenic-trap.webp": [
+    996,
+    1600
+  ],
+  "assets/img/projects/neptune-mit-apparatus.webp": [
+    1600,
+    1200
+  ],
+  "assets/img/projects/neptune-penning-trap-schematic.webp": [
+    1600,
+    1480
+  ],
+  "assets/img/projects/neptune-sio-level-crossing.webp": [
+    1600,
+    1050
+  ],
+  "assets/img/projects/neptune-squid-test.webp": [
+    612,
+    451
+  ],
+  "assets/img/projects/offline-beamline.webp": [
+    1600,
+    1200
+  ],
+  "assets/img/research/ai-digital-twin.webp": [
+    800,
+    600
+  ],
   "assets/img/research/becola.webp": [
     800,
     533
@@ -8,6 +48,10 @@
     533
   ],
   "assets/img/research/lebit.webp": [
+    800,
+    533
+  ],
+  "assets/img/research/stored-ions.webp": [
     800,
     533
   ]
