@@ -778,7 +778,7 @@
    "doi": "10.1038/s41567-024-02612-y",
    "url": null,
    "notes": [],
-   "citations": 41,
+   "citations": 42,
    "inspire_id": 2713633,
    "n": 17
   },
@@ -823,7 +823,7 @@
    "doi": "10.1088/1361-6633/ad1e39",
    "url": null,
    "notes": [],
-   "citations": 85,
+   "citations": 86,
    "inspire_id": 2629753,
    "n": 14
   },
@@ -870,7 +870,7 @@
    "notes": [
     "MM, DA, and JK share first authorship for equal contributions."
    ],
-   "citations": 62,
+   "citations": 61,
    "inspire_id": 1925450,
    "n": 11
   },
@@ -1104,6 +1104,18 @@
  ],
  "presentations": [
   {
+   "date": "2026-12-03",
+   "ym": "2026/12",
+   "title": "Trapped Radioactive Molecules: A New Path for Hadronic Parity Violation Measurements",
+   "event": "Nuclear Seminar, University of Kentucky",
+   "qualifier": "invited",
+   "location": "Lexington, KY, USA",
+   "type": "seminar",
+   "id": "2612.03.kentucky-seminar",
+   "upcoming": true,
+   "n": 63
+  },
+  {
    "date": "2026-11-05",
    "ym": "2026/11",
    "title": "Agentic Digital Twins and Radioactive Molecules at the Texas A&M Cyclotron Institute",
@@ -1112,7 +1124,19 @@
    "location": "Vancouver, BC, Canada",
    "type": "colloquium",
    "id": "2611.05.triumf-colloquium",
-   "upcoming": true,
+   "upcoming": false,
+   "n": 62
+  },
+  {
+   "date": "2026-11-04",
+   "ym": "2026/11",
+   "title": "Agentic Digital Twins for Self-Driving Precision Experiments",
+   "event": "MUI-QC Workshop",
+   "qualifier": "invited",
+   "location": "College Station, TX, USA",
+   "type": "invited",
+   "id": "2611.04.mui-qc-workshop",
+   "upcoming": false,
    "n": 61
   },
   {
@@ -1838,11 +1862,11 @@
  ],
  "orcid": "0000-0002-4306-9708",
  "public": true,
- "updated": "October 2026",
+ "updated": "November 2026",
  "stats": {
   "publications": 26,
-  "citations": 465,
-  "presentations": 61,
-  "invited": 31
+  "citations": 466,
+  "presentations": 63,
+  "invited": 33
  }
 }
