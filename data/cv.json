@@ -823,7 +823,7 @@
    "doi": "10.1088/1361-6633/ad1e39",
    "url": null,
    "notes": [],
-   "citations": 86,
+   "citations": 87,
    "inspire_id": 2629753,
    "n": 14
   },
@@ -853,7 +853,7 @@
    "doi": "10.1016/j.astropartphys.2022.102686",
    "url": null,
    "notes": [],
-   "citations": 21,
+   "citations": 22,
    "inspire_id": 1829257,
    "n": 12
   },
@@ -1113,6 +1113,18 @@
    "type": "seminar",
    "id": "2612.03.kentucky-seminar",
    "upcoming": true,
+   "n": 64
+  },
+  {
+   "date": "2026-11-09",
+   "ym": "2026/11",
+   "title": "Scalable Agentic Digital Twins for Autonomous Precision Facilities",
+   "event": "DOE Genesis Mission HENP Community Meeting",
+   "qualifier": "lightning talk",
+   "location": "Washington, DC, USA",
+   "type": "contributed",
+   "id": "2611.09.genesis-henp-lightning",
+   "upcoming": false,
    "n": 63
   },
   {
@@ -1865,8 +1877,8 @@
  "updated": "November 2026",
  "stats": {
   "publications": 26,
-  "citations": 466,
-  "presentations": 63,
+  "citations": 468,
+  "presentations": 64,
   "invited": 33
  }
 }
