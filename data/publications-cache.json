@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-02T13:37:35+00:00",
+  "generated": "2026-11-09T13:59:39+00:00",
   "source": "https://inspirehep.net/authors/1819057",
   "papers": [
     {
@@ -36,7 +36,7 @@
         },
         {
           "full_name": "Huskey, Jason",
-          "recid": 3218040
+          "recid": 3219625
         },
         {
           "full_name": "Kakioka, Haruka",
@@ -1521,7 +1521,7 @@
       "doi": "10.1088/1361-6633/ad1e39",
       "arxiv": "2302.02165",
       "arxivCategory": "nucl-ex",
-      "citations": 86,
+      "citations": 87,
       "kind": "article",
       "texkey": "Arrowsmith-Kron:2023hcr",
       "inspire": "https://inspirehep.net/literature/2629753"
