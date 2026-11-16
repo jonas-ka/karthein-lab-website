@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09T13:59:39+00:00",
+  "generated": "2026-11-16T13:45:20+00:00",
   "source": "https://inspirehep.net/authors/1819057",
   "papers": [
     {
@@ -1072,7 +1072,7 @@
       "doi": "10.1038/s41567-024-02612-y",
       "arxiv": "2310.15093",
       "arxivCategory": "nucl-ex",
-      "citations": 42,
+      "citations": 45,
       "kind": "article",
       "texkey": "Karthein:2023ric",
       "inspire": "https://inspirehep.net/literature/2713633"
@@ -1254,7 +1254,7 @@
       "doi": "10.1103/PhysRevLett.132.162502",
       "arxiv": "2309.02037",
       "arxivCategory": "nucl-ex",
-      "citations": 52,
+      "citations": 53,
       "kind": "article",
       "texkey": "Konig:2023rwe",
       "inspire": "https://inspirehep.net/literature/2693478"
@@ -1616,7 +1616,7 @@
       "doi": "10.1103/PhysRevLett.131.022502",
       "arxiv": "2306.02033",
       "arxivCategory": "nucl-ex",
-      "citations": 23,
+      "citations": 24,
       "kind": "article",
       "texkey": "Nies:2023bha",
       "inspire": "https://inspirehep.net/literature/2665711"
@@ -1727,7 +1727,7 @@
       "doi": "10.1016/j.astropartphys.2022.102686",
       "arxiv": "2011.05107",
       "arxivCategory": "physics.ins-det",
-      "citations": 21,
+      "citations": 22,
       "kind": "article",
       "texkey": "KATRIN:2020zld",
       "inspire": "https://inspirehep.net/literature/1829257"
