@@ -778,7 +778,7 @@
    "doi": "10.1038/s41567-024-02612-y",
    "url": null,
    "notes": [],
-   "citations": 42,
+   "citations": 45,
    "inspire_id": 2713633,
    "n": 17
   },
@@ -808,7 +808,7 @@
    "doi": "10.1103/physrevlett.132.162502",
    "url": null,
    "notes": [],
-   "citations": 52,
+   "citations": 53,
    "inspire_id": 2693478,
    "n": 15
   },
@@ -838,7 +838,7 @@
    "doi": "10.1103/physrevlett.131.022502",
    "url": null,
    "notes": [],
-   "citations": 23,
+   "citations": 24,
    "inspire_id": 2665711,
    "n": 13
   },
@@ -1877,7 +1877,7 @@
  "updated": "November 2026",
  "stats": {
   "publications": 26,
-  "citations": 468,
+  "citations": 473,
   "presentations": 64,
   "invited": 33
  }
