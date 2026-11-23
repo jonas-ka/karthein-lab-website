@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T13:45:20+00:00",
+  "generated": "2026-11-23T16:07:07+00:00",
   "source": "https://inspirehep.net/authors/1819057",
   "papers": [
     {
@@ -104,7 +104,7 @@
       "doi": "",
       "arxiv": "2610.30522",
       "arxivCategory": "nucl-ex",
-      "citations": 0,
+      "citations": 1,
       "kind": "preprint",
       "texkey": "Cruz:2026doz",
       "inspire": "https://inspirehep.net/literature/3218035"
@@ -147,7 +147,7 @@
       "doi": "",
       "arxiv": "2605.07826",
       "arxivCategory": "nucl-th",
-      "citations": 1,
+      "citations": 2,
       "kind": "preprint",
       "texkey": "Gardner:2026kiy",
       "inspire": "https://inspirehep.net/literature/3153497"
@@ -711,7 +711,7 @@
       "doi": "10.1103/wbdx-k3cd",
       "arxiv": "2504.17060",
       "arxivCategory": "nucl-ex",
-      "citations": 23,
+      "citations": 24,
       "kind": "article",
       "texkey": "Gustafsson:2025xpd",
       "inspire": "https://inspirehep.net/literature/2915255"
