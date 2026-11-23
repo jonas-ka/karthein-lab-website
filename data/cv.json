@@ -592,7 +592,7 @@
    "doi": null,
    "url": null,
    "notes": [],
-   "citations": 0,
+   "citations": 1,
    "inspire_id": 3218035,
    "n": 26
   },
@@ -671,7 +671,7 @@
    "notes": [
     "Invited review article."
    ],
-   "citations": 1,
+   "citations": 2,
    "inspire_id": 3153497,
    "n": 24
   },
@@ -733,7 +733,7 @@
    "doi": "10.1103/wbdx-k3cd",
    "url": null,
    "notes": [],
-   "citations": 23,
+   "citations": 24,
    "inspire_id": 2915255,
    "n": 20
   },
@@ -1877,7 +1877,7 @@
  "updated": "November 2026",
  "stats": {
   "publications": 26,
-  "citations": 473,
+  "citations": 476,
   "presentations": 64,
   "invited": 33
  }
